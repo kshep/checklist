@@ -1,0 +1,283 @@
+=== Mon, 15 Jul 1996 01:42:39 GMT
+2,84c2,24
+< <P> [ Image: W3C ] The World Wide Web Consortium
+< <P> The World Wide Web is the universe of network-accessible information. The <A HREF="http://www.w3.org/Consortium/">World Wide Web Consortium</A> exists to realize the full potential of the Web.
+< <P> W3C works with the global community to produce <A HREF="http://www.w3.org/pub/WWW#Specifications">specifications</A> and <A HREF="http://www.w3.org/pub/WWW#Reference">reference software</A> . W3C is funded by industrial <A HREF="http://www.w3.org/Consortium/Member/List.html">members</A> but its products are freely available to all. The Consortium is run by <A HREF="http://web.mit.edu/">MIT</A> <A HREF="http://www.lcs.mit.edu">LCS</A> and by <A HREF="http://www.inria.fr/">INRIA</A> , in collaboration with <A HREF="http://www.cern.ch/">CERN</A> where the web originated. Seed funding for W3C was provided to MIT LCS by <A HREF="http://www.w3.org/Consortium/Prospectus/DARPA.html">DARPA</A> , and to INRIA by <A HREF="http://www.cec.lu/">CEC</A> . Please see the <A HREF="http://www.w3.org/Consortium/Member/List.html">list of members</A> to learn about individual members and visit their World Wide Web sites.
+< <BR>* <A HREF="http://www.w3.org/Consortium/Prospectus/ActivityList">W3C Activity areas and directions</A>
+< <BR>* <A HREF="http://www.w3.org/Consortium/Contact.html">How to contact W3C</A>
+< <BR>* <A HREF="http://www.w3.org/Consortium/Prospectus/FAQ.html">Frequently Asked Questions about W3C</A>
+< <BR>* <A HREF="http://www.w3.org/Member/">W3C meetings, newsletter, mailing lists [W3C Members only]</A>
+< <BR>* <A HREF="http://www.w3.org/Help/">Help</A> In this document:
+< <BR>* <A HREF="http://www.w3.org/pub/WWW#News">News and Updates</A>
+< <BR>* <A HREF="http://www.w3.org/pub/WWW#Specifications">Web Specifications and Development Areas</A>
+< <BR>* <A HREF="http://www.w3.org/pub/WWW#Reference">W3C Software</A>
+< <BR>* <A HREF="http://www.w3.org/pub/WWW#Community">The World Wide Web and the Web Community</A>
+< <BR>* <A HREF="http://www.w3.org/pub/WWW#Joining">Getting involved with the W3C</A>
+< <P> [Image] <A NAME="News">News and Updates</A>
+< <P>* <A HREF="http://www.w3.org/pub/Conferences/WWW5/Welcome.html">Fifth International World Wide Web Conference: 06-10 May 1996 in Paris, France</A> : The preliminary program is now available.
+< <BR>* <A HREF="http://www.cs.colorado.edu/~schwartz/workshop.html">Distributed Indexing/Searching Workshop</A> will be at MIT, 28-29 May 1996. [ Image: New! ]
+< <BR>* 17 April 96 : <A HREF="http://www.w3.org/Payments/041796.html">CommerceNet and W3C Announce Initiative to Standardize Payment Method Negotiation for the Web [JEPI]</A>
+< <BR>* <A HREF="http://www.w3.org/Printing/Workshop_960425.html">Workshop on High Quality Printing from the Web</A> , Cambridge MA, 25 Apr 96. One day technical workshop on issues relating to improving the quality of printing from the Web.
+< <BR>* <A HREF="http://www.w3.org/OOP/9606_Workshop/">Joint W3C/OMG Workshop on Distributed Objects and Mobile Code</A> , Boston, June 24-25, 1996
+< <BR>* <A HREF="http://www.w3.org/pub/Conferences/WWW4/">Fourth International World Wide Web Conference: 11-14 December 1995</A>
+< <BR>* Several new <A HREF="http://www.w3.org/TR/">W3C Tech Reports</A> are available.
+< <BR>* <A HREF="http://www.w3.org/Press/">Press Releases and Press Information</A>
+< <BR>* <A HREF="http://www.w3.org/News/">News and Updates Archive</A>
+< <P> [Image] <A NAME="Specifications">Web Specifications and Development Areas</A>
+< <P><A HREF="http://www.w3.org/Protocols/">HTTP</A>
+< <BR> All available information on Hypertext Transfer Protocol (HTTP) and related protocols. <A HREF="http://www.w3.org/MarkUp/">HTML</A>
+< <BR> The hypertext markup language, including <A HREF="http://www.w3.org/Style/">style sheets</A> . <A HREF="http://www.w3.org/PICS/">PICS</A>
+< <BR> W3C's Platform for Internet Content Selection (PICS) is an effort to enable content labeling & rating for the Web. <A HREF="http://www.w3.org/Security/">Security</A>
+< <BR> Resources relating to security on the World Wide Web. <A HREF="http://www.w3.org/Collaboration/">Collaboration</A>
+< <BR> Issues, resources, and examples of collaborative systems, including W3C Collaboration Working Groups, workshops, and annotation. <A HREF="http://www.w3.org/MobileCode/">Mobile Code</A> and <A HREF="http://www.w3.org/OOP/">Distributed Objects</A>
+< <BR> Increasing automation on the web: exectuable content, and code from interface specs. <A HREF="http://www.w3.org/Payments/">Payments</A>
+< <BR> Investigations into electronic payment using web protocols. <A HREF="http://www.w3.org/Demographics/">Demographics</A>
+< <BR> Issues and technology dealing with the need for content providers to gain information about the readership of their content, and the need for individuals to control what information about themselves is released to whom. <A HREF="http://www.w3.org/International/">Non-western Character sets, Languages, and Writing Systems</A>
+< <BR> Enhancing the web to meet the needs of the global community. <A HREF="http://www.w3.org/CGI/">Common Gateway Interface</A>
+< <BR> The interface between httpd servers (CERN's and NCSA's at least) and user-written gateways to other database systems, etc. <A HREF="http://www.w3.org/Addressing/Addressing.html">Addressing (URLs)</A>
+< <BR> The syntax of W3 document addresses. <A HREF="http://www.w3.org/Graphics/">Graphics</A>
+< <BR> Graphics formats, including <A HREF="http://www.w3.org/Graphics/PNG/">PNG</A> . <A HREF="http://www.w3.org/Bugs.html">Other Projects</A>
+< <BR> Ideas for new projects and things people are currently working on.
+< <A HREF="http://www.w3.org/TR/">W3C Tech Reports</A>
+< <P> Technical reports and draft specifications released by the W3C. Current documents include:
+< <BR>* <A HREF="http://www.w3.org/TR/WD-object.html">Inserting objects into HTML</A> , Dave Raggett, Charlie Kindel, Lou Montulli, Eric Sink, Wayne Gramlich, Jonathan Hirschman, Tim Berners-Lee, Dan Connolly, 12th April 1996.
+< <BR>* <A HREF="http://www.w3.org/TR/WD-layout.html">Frame-based layout via Style Sheets</A> , Bert Bos, David Raggett and H&aring;kon W Lie, 5th April 1996.
+< <BR>* <A HREF="http://www.w3.org/TR/WD-session-id.html">Session Identification URI</A> Phillip M. Hallam-Baker, Dan Connolly
+< <BR>* <A HREF="http://www.w3.org/TR/WD-proxy.html">Notification for Proxy Caches</A> Phillip M. Hallam-Baker
+< <BR>* <A HREF="http://www.w3.org/TR/WD-logfile.html">Extended Log File Format</A> Phillip M. Hallam-Baker, Brian Behlendorf
+< <BR>* <A HREF="http://www.w3.org/TR/WD-wwwicn.html">HTML predefined icon-like symbols</A> , Bert Bos
+< <BR>* <A HREF="http://www.w3.org/TR/WD-png.html">PNG (Portable Network Graphics) Specification</A>
+< <BR>* <A HREF="http://www.w3.org/TR/WD-mptp.html">Micro Payment Transfer Protocol (MPTP)</A> Phillip M. Hallam-Baker
+< <BR>* <A HREF="http://www.w3.org/TR/WD-style.html">HTML3 and Style Sheets</A> Bert Bos, David Raggett and H&aring;kon W Lie
+< <BR>* <A HREF="http://www.w3.org/TR/WD-http-pep.html">PEP: An Extension Mechanism for HTTP</A> Rohit Khare
+< <BR>* <A HREF="http://www.w3.org/TR/WD-css1.html">Cascading Style Sheets, level 1</A> , H&aring;kon W Lie and Bert Bos
+< <BR>* <A HREF="http://www.w3.org/TR/WD-sgml-lex.html">A Lexical Analyzer for HTML and Basic SGML</A> , Dan Connolly
+< <BR>* <A HREF="http://www.w3.org/TR/WD-tables.html">The HTML3 Table Model</A> , Dave Raggett
+< World Wide Web Journal <BR>* <A HREF="http://www.w3.org/Journal/1/">Issue One: December 1995</A>
+< <P> [Image] <A NAME="Reference">W3C Software</A>
+< <P> W3C reference software, after public release, is freely available for any use by anyone. <A HREF="http://www.w3.org/Distribution.html">Downloading the W3C Reference Code</A>
+< <BR> How to download and install the W3C Source Code Software <A HREF="http://www.w3.org/Library/">The W3C Reference Library</A>
+< <BR> The W3C Reference Library is a general-purpose code base written in C designed to be highly portable, modular and efficient. Due to the high degree of modularity it can be used as the basis for all kinds of Web applications, such as clients, servers, proxies, and robots. All the following W3C software products are based on the Library. <A HREF="http://www.w3.org/Arena/">Arena: W3C's HTML3 browser</A>
+< <BR> [demo only] A general-purpose browser built on top of the multithreaded version of the <A HREF="http://www.w3.org/Library/">W3C Reference Library</A> . Arena is designed to reflect the status of the HTML3 specifications, and currently supports tables, math, and an experimental style sheet mechanism. <A HREF="http://www.w3.org/LineMode/">W3C Line Mode Browser</A>
+< <BR> The Line Mode Browser is a character-based Web browser developed for use on terminals. It is written in C and serves as an example of a client application using the <A HREF="http://www.w3.org/Library/">W3C Reference Library</A> , and as a test tool for quick access to the Web from scripts, cron jobs etc. <A HREF="http://www.w3.org/ComLine/">W3C Command Line Tool</A>
+< <BR> A cross platform C based command line tool for accessing the Web. It is a simple application which shows how to use the W3C Reference Library for building simple batch mode tools for accessing the Web. <A HREF="http://www.w3.org/Robot/">W3C Mini Robot</A>
+< <BR> A cross platform C based command line tool for automatic traversal of the Web. It is a simple application which shows how to use the W3C Reference Library for building robots <A HREF="http://www.w3.org/MiniServ/">W3C Mini Server</A>
+< <BR> A cross platform C based server based on the W3C Reference Library. It is a small example application showing how to implement a server or a proxy using the W3C Reference Library. <A HREF="http://www.w3.org/Daemon/">W3C httpd</A>
+< <BR> A free W3 server. ( <A HREF="http://www.w3.org/Daemon/User/Installation/Installation.html">Installation</A> , <A HREF="http://www.w3.org/Daemon/User/Admin.html">Administration</A> )
+< <P> There is also elsewhere a wealth of software for the web, some free and some not. We keep a rough <A HREF="http://www.w3.org/Status.html">list of web software</A> including <A HREF="http://www.w3.org/Clients.html">clients</A> , <A HREF="http://www.w3.org/Servers.html">servers</A> , <A HREF="http://www.w3.org/Gateways.html">gateways</A> , and other <A HREF="http://www.w3.org/Tools/">tools</A> .
+< <P> [Image] <A name="Community">The World Wide Web and the Web Community</A>
+< <P><A HREF="http://www.w3.org/WWW/">About the World Wide Web</A>
+< <BR> Some background and history <A HREF="http://www.w3.org/pub/DataSources/Top.html">Overview of the Web</A>
+< <BR> What's on the Web? How do I find things? Pointers to the world's online information, including the <A HREF="http://www.w3.org/pub/DataSources/bySubject/Overview.html">World Wide Web Virtual Library</A> and a list of registered <A HREF="http://www.w3.org/pub/DataSources/WWW/Servers.html">W3 servers</A> . <A HREF="http://www.w3.org/Talks/">Talks</A>
+< <BR> Members of the W3C team often give talks and presentations. In most cases, you can find information and presentations on this web site contained within the appropriate <A HREF="http://www.w3.org/pub/WWW#Specifications">subject or activity area</A> . This is a collection of slides and presentations from the past several years. <A HREF="http://www.w3.org/Provider/">Putting up a Web Site</A>
+< <BR> How can I become an information provider on the web? <A HREF="http://www.w3.org/pub/Conferences/Overview-WWW.html">Conferences</A>
+< <BR> Where do the developers meet? Where can I submit papers? <A HREF="http://www.w3.org/Mail/">Web Mailing Lists</A>
+< <BR> How do I contact other web users? <A HREF="http://www.w3.org/Mail/Lists.html">Mailing lists maintained by the W3C</A> and <A HREF="http://www.w3.org/Mail/Outside_mailing.html">outside the W3C</A> <A HREF="http://www.w3.org/Newsgroups.html">News groups</A>
+< <BR> What USENET newsgroups cover the web? <A HREF="http://www.boutell.com/faq/">Frequently Asked Questions</A>
+< <BR> If you can't find it elsewhere. ( <A HREF="http://www.w3.org/FAQ/List.html">old small list</A> ).
+< <P><A name="Joining">Getting involved with the W3C</A>
+< <P> [ Image: Membership ]
+< <BR> Membership in the W3C is open to any organization which signs a membership agreement. The <A HREF="http://www.w3.org/Consortium/Prospectus/">prospectus</A> explains the consortium to potential members. <A HREF="http://www.w3.org/Consortium/Recruitment/">[ Image: Openings ]</A>
+< <BR><A HREF="http://www.w3.org/Consortium/Recruitment/">Openings: come and work with the W3 team at MIT or INRIA</A>
+< <P><A HREF="http://www.lcs.mit.edu/">[ Image: MIT/LCS ]</A> <A HREF="http://www.inria.fr/">[ Image: INRIA ]</A> <A HREF="http://www.w3.org/Consortium/Prospectus/DARPA.html">[ Image: DARPA ]</A> <A HREF="http://www.cec.lu/">[ Image: CEC ]</A>
+< <P> W3C is hosted by the <A HREF="http://www.lcs.mit.edu/">Laboratory for Computer Science</A> at <A HREF="http://web.mit.edu/">MIT</A> , and in Europe by <A HREF="http://www.inria.fr/">INRIA</A> . Seed funding for W3C was provided to MIT LCS by <A HREF="http://www.w3.org/Consortium/Prospectus/DARPA.html">DARPA</A> , and to INRIA by <A HREF="http://www.cec.lu/">CEC</A> .
+< <P>
+< <A HREF="http://www.w3.org/Help/Webmaster.html">Webmaster</A>
+---
+> <P> [ Image: W3C ] World Wide Web Consortium
+> <P> Realizing the Full Potential of the Web...
+> <P> First Public Release of Jigsaw
+> <P> "Jigsaw lets us demonstrate a lot of the ideas that have been on the drawing board for years..." -- Tim Berners-Lee, W3C Director
+> <P><A HREF="http://www.w3.org/pub/WWW/Jigsaw/">Jigsaw</A> is a modern, extensible web server written in Java (tm) , and serves as a testbed for HTTP-NG, mobile code, collaboration, and remote administration.
+> <P> | | | | |
+> User Interface <BR>
+> <A HREF="http://www.w3.org/pub/WWW/MarkUp">HTML</A> <A HREF="http://www.w3.org/pub/WWW/Graphics">Graphics and 3D</A> <A HREF="http://www.w3.org/pub/WWW/International">Internationalization</A> <A HREF="http://www.w3.org/pub/WWW/Fonts">Fonts</A> <A HREF="http://www.w3.org/pub/WWW/Style">Style</A> <A HREF="http://www.w3.org/pub/WWW/MarkUp/SGML">SGML</A> <A HREF="http://www.w3.org/pub/WWW/Amaya/">Amaya</A> <A HREF="http://www.w3.org/pub/WWW/Arena/">Arena</A>
+> Technology and Society <BR>
+> <A HREF="http://www.w3.org/pub/WWW/Disabilities/">Disabilities</A> <A HREF="http://www.w3.org/pub/WWW/Payments/">Electronic Commerce</A> <A HREF="http://www.w3.org/pub/WWW/PICS/">PICS</A> <A HREF="http://www.w3.org/pub/WWW/Demographics/">Privacy and Demographics</A> <A HREF="http://www.w3.org/pub/WWW/Security/">Security</A> |
+> Architecture <BR>
+> <A HREF="http://www.w3.org/pub/WWW/Addressing">Addressing</A> <A HREF="http://www.w3.org/pub/WWW/Protocols">HTTP</A> <A HREF="http://www.w3.org/pub/WWW/Protocols/HTTP-NG/Overview.html">HTTP-NG</A> <A HREF="http://www.w3.org/pub/WWW/OOP">OOP</A> <A HREF="http://www.w3.org/pub/WWW/Propagation">Replication</A> <A HREF="http://www.w3.org/pub/WWW/Jigsaw/">Jigsaw</A> <A HREF="http://www.w3.org/pub/WWW/Daemon/">CERN Server</A> <A HREF="http://www.w3.org/pub/WWW/Library">WWWLibrary</A> <A HREF="http://www.w3.org/pub/WWW/Consortium/Prospectus/RealTime.html">RealTime: Audio/Video</A> |
+> W3C also hosts <BR>
+> <A HREF="http://www.w3.org/vl">Virtual Library</A><BR>
+> <A HREF="http://www.w3.org/Consortium">About W3C</A> <A HREF="http://www.w3.org/News">News</A><BR>
+> <A HREF="http://www.w3.org/WWW">About the Web</A> <A HREF="http://www.w3.org/Member">Member Area</A><BR>
+> <A HREF="http://www.w3.org/Press">Press Information</A> <A HREF="http://www.w3.org/Areas">Technical Areas</A><BR>
+> <A HREF="http://www.w3.org/People/W3Cpeople.html">People of the W3C</A> <A HREF="http://www.w3.org/TR">Technical Reports &amp; Publications</A><BR>
+> <A HREF="http://www.w3.org/Help">Help</A> <A HREF="http://www.w3.org/Status.html">Reference Software</A>
+> <P> W3C is hosted by the <A HREF="http://www.lcs.mit.edu/">Laboratory for Computer Science</A> at <A HREF="http://web.mit.edu/">MIT</A> , and in Europe by <A HREF="http://www.inria.fr/">INRIA</A> with support from <A HREF="http://www.w3.org/pub/WWW/Consortium/Prospectus/DARPA.html">DARPA</A> and the <A HREF="http://europa.eu.Int/">European Commission</A> .
+> <P><A HREF="http://www.lcs.mit.edu/">[ Image: MIT/LCS ]</A> <A HREF="http://www.inria.fr/">[ Image: INRIA ]</A> <A HREF="http://www.arpa.mil/">[ Image: DARPA ]</A> <A HREF="http://europa.eu.Int/">[ Image: CEC ]</A>
+> <P><A HREF="http://www.w3.org/pub/WWW/Help/">Help!</A> on navigating this site. |
+> <A HREF="http://www.w3.org/pub/WWW/People/Khudairi">Webmaster</A>
+=== Wed,  1 May 1996 17:56:09 GMT
+16c16
+< <P>* <A HREF="http://www.w3.org/pub/Conferences/WWW5/Welcome.html">Fifth International World Wide Web Conference: 06-10 May 1996 in Paris, France</A> : The preliminary program is now available. Early registration deadline is March 29.
+---
+> <P>* <A HREF="http://www.w3.org/pub/Conferences/WWW5/Welcome.html">Fifth International World Wide Web Conference: 06-10 May 1996 in Paris, France</A> : The preliminary program is now available.
+17a18
+> <BR>* 17 April 96 : <A HREF="http://www.w3.org/Payments/041796.html">CommerceNet and W3C Announce Initiative to Standardize Payment Method Negotiation for the Web [JEPI]</A>
+19,20d19
+< <BR>* 14 Mar 96 : <A HREF="http://www.w3.org/PICS/960314/steam.html">"PICS Picks Up Steam"</A> : An overview of industry's adoption of PICS.
+< <BR>* 05 March 96 : <A HREF="http://www.w3.org/Style/960305_News.html">The W3 Consortium announces Web style sheets</A>
+22d20
+< <BR>* W3C Working Draft: <A HREF="http://www.w3.org/TR/WD-png.html">PNG (Portable Network Graphics) Specification</A> , 11 March 1996
+=== Wed, 24 Apr 1996 20:38:06 GMT
+16a17
+> <BR>* <A HREF="http://www.cs.colorado.edu/~schwartz/workshop.html">Distributed Indexing/Searching Workshop</A> will be at MIT, 28-29 May 1996. [ Image: New! ]
+19,20d19
+< <BR>* 12 Mar 96 : <A HREF="http://www.w3.org/Consortium/Recruitment/">Help wanted: 3 posts open</A>
+< <BR>* 07 Mar 96 : The major on-line providers are adopting PICS and PICS-compliant filtering software. Please see <A HREF="http://www.w3.org/PICS/960306/ATT-and-MicroSystems.html">AT&amp;T Selects Microsystems' Cyber Patrol for WorldNet Service</A> and <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+22d20
+< <BR>* 04 March 96 : <A HREF="http://www.w3.org/MarkUp/960304_News.html">The W3 Consortium Takes Leadership Role in the Development of HTML</A>
+=== Fri, 19 Apr 1996 19:25:29 GMT
+4c4
+< <P> W3C works with the global community to produce <A HREF="http://www.w3.org/hypertext/WWW#Specifications">specifications</A> and <A HREF="http://www.w3.org/hypertext/WWW#Reference">reference software</A> . W3C is funded by industrial <A HREF="http://www.w3.org/Consortium/Member/List.html">members</A> but its products are freely available to all. The Consortium is run by <A HREF="http://web.mit.edu/">MIT</A> <A HREF="http://www.lcs.mit.edu">LCS</A> and by <A HREF="http://www.inria.fr/">INRIA</A> , in collaboration with <A HREF="http://www.cern.ch/">CERN</A> where the web originated. Please see the <A HREF="http://www.w3.org/Consortium/Member/List.html">list of members</A> to learn about individual members and visit their World Wide Web sites.
+---
+> <P> W3C works with the global community to produce <A HREF="http://www.w3.org/hypertext/WWW#Specifications">specifications</A> and <A HREF="http://www.w3.org/hypertext/WWW#Reference">reference software</A> . W3C is funded by industrial <A HREF="http://www.w3.org/Consortium/Member/List.html">members</A> but its products are freely available to all. The Consortium is run by <A HREF="http://web.mit.edu/">MIT</A> <A HREF="http://www.lcs.mit.edu">LCS</A> and by <A HREF="http://www.inria.fr/">INRIA</A> , in collaboration with <A HREF="http://www.cern.ch/">CERN</A> where the web originated. Seed funding for W3C was provided to MIT LCS by <A HREF="http://www.w3.org/Consortium/Prospectus/DARPA.html">DARPA</A> , and to INRIA by <A HREF="http://www.cec.lu/">CEC</A> . Please see the <A HREF="http://www.w3.org/Consortium/Member/List.html">list of members</A> to learn about individual members and visit their World Wide Web sites.
+16,26c16,22
+< <P>* 14 Mar 96 : [ Image: New! ] <A HREF="http://www.w3.org/PICS/960314/steam.html">"PICS Picks Up Steam"</A> : An overview of industry's adoption of PICS.
+< <BR>* 12 Mar 96 : [ Image: New! ] <A HREF="http://www.w3.org/Consortium/Recruitment/">Help wanted: 3 posts open</A>
+< <BR>* 07 Mar 96 : [ Image: New! ] | The major on-line providers are adopting PICS and PICS-compliant filtering software, see <A HREF="http://www.w3.org/PICS/960306/ATT-and-MicroSystems.html">AT&amp;T Selects Microsystems' Cyber Patrol for WorldNet Service</A> and <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+< <BR>* 05 March 96 : [ Image: New! ] | <A HREF="http://www.w3.org/Style/960305_News.html">The W3 Consortium announces Web style sheets</A>
+< <BR>* 04 March 96 : [ Image: New! ] | <A HREF="http://www.w3.org/MarkUp/960304_News.html">The W3 Consortium Takes Leadership Role in the Development of HTML</A>
+< <BR>* 28 Feb 96 : | The PICS effort is making headlines. Please see the <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+< <BR>* <A HREF="http://www.w3.org/PICS/960228/RSACi.html">Recreational Software Advisory Council Launches Objective, Content-Labeling Advisory System for the Internet</A>
+< <BR>* <A HREF="http://www.w3.org/PICS/960228/NYTimes.html">Microsoft Backs Ratings System for Internet</A>
+< <BR>* <A HREF="http://www.w3.org/PICS/960228/Microsoft.html">Microsoft Teams With Recreational Software Advisory Council To Pioneer Parental Control Over Internet Access</A>
+< <BR>* <A HREF="http://www.w3.org/PICS/960228/SafeSurf.html">SafeSurf Internet Rating System Receives Broad Support From Online Community</A>
+< <BR>* <A HREF="http://www.w3.org/PICS/960228/SurfWatch.html">SurfWatch Endorses RSACi Content Advisory System</A>
+---
+> <P>* <A HREF="http://www.w3.org/pub/Conferences/WWW5/Welcome.html">Fifth International World Wide Web Conference: 06-10 May 1996 in Paris, France</A> : The preliminary program is now available. Early registration deadline is March 29.
+> <BR>* <A HREF="http://www.w3.org/Printing/Workshop_960425.html">Workshop on High Quality Printing from the Web</A> , Cambridge MA, 25 Apr 96. One day technical workshop on issues relating to improving the quality of printing from the Web.
+> <BR>* 14 Mar 96 : <A HREF="http://www.w3.org/PICS/960314/steam.html">"PICS Picks Up Steam"</A> : An overview of industry's adoption of PICS.
+> <BR>* 12 Mar 96 : <A HREF="http://www.w3.org/Consortium/Recruitment/">Help wanted: 3 posts open</A>
+> <BR>* 07 Mar 96 : The major on-line providers are adopting PICS and PICS-compliant filtering software. Please see <A HREF="http://www.w3.org/PICS/960306/ATT-and-MicroSystems.html">AT&amp;T Selects Microsystems' Cyber Patrol for WorldNet Service</A> and <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+> <BR>* 05 March 96 : <A HREF="http://www.w3.org/Style/960305_News.html">The W3 Consortium announces Web style sheets</A>
+> <BR>* 04 March 96 : <A HREF="http://www.w3.org/MarkUp/960304_News.html">The W3 Consortium Takes Leadership Role in the Development of HTML</A>
+29,30d24
+< <BR>* The <A HREF="http://web.mit.edu/cfp96">Sixth Conference on Computers, Freedom, and Privacy</A> will be held at MIT on March 27-30.
+< <BR>* <A HREF="http://www.w3.org/pub/Conferences/WWW5/">Fifth International World Wide Web Conference: 06-11 May 1996 in Paris, France</A>
+51a46,47
+> <BR>* <A HREF="http://www.w3.org/TR/WD-object.html">Inserting objects into HTML</A> , Dave Raggett, Charlie Kindel, Lou Montulli, Eric Sink, Wayne Gramlich, Jonathan Hirschman, Tim Berners-Lee, Dan Connolly, 12th April 1996.
+> <BR>* <A HREF="http://www.w3.org/TR/WD-layout.html">Frame-based layout via Style Sheets</A> , Bert Bos, David Raggett and H&aring;kon W Lie, 5th April 1996.
+56d51
+< <BR>* <A HREF="http://www.w3.org/TR/WD-insert.html">Inserting multimedia objects into HTML3</A> , Dave Raggett, Charlie Kindel, Lou Montulli, Eric Sink, Wayne Gramlich, Jonathan Hirschman, Tim Berners-Lee, Dan Connolly
+90,91c85,86
+< <P><A HREF="http://www.lcs.mit.edu/">[ Image: MIT/LCS ]</A> <A HREF="http://www.inria.fr/">[ Image: INRIA ]</A>
+< <P> W3C is hosted by the <A HREF="http://www.lcs.mit.edu/">Laboratory for Computer Science</A> at <A HREF="http://web.mit.edu/">MIT</A> , and in Europe by <A HREF="http://www.inria.fr/">INRIA</A> .
+---
+> <P><A HREF="http://www.lcs.mit.edu/">[ Image: MIT/LCS ]</A> <A HREF="http://www.inria.fr/">[ Image: INRIA ]</A> <A HREF="http://www.w3.org/Consortium/Prospectus/DARPA.html">[ Image: DARPA ]</A> <A HREF="http://www.cec.lu/">[ Image: CEC ]</A>
+> <P> W3C is hosted by the <A HREF="http://www.lcs.mit.edu/">Laboratory for Computer Science</A> at <A HREF="http://web.mit.edu/">MIT</A> , and in Europe by <A HREF="http://www.inria.fr/">INRIA</A> . Seed funding for W3C was provided to MIT LCS by <A HREF="http://www.w3.org/Consortium/Prospectus/DARPA.html">DARPA</A> , and to INRIA by <A HREF="http://www.cec.lu/">CEC</A> .
+=== Sat, 16 Mar 1996 04:25:24 GMT
+16c16,17
+< <P>* 12 Mar 96 : [ Image: New! ] <A HREF="http://www.w3.org/Consortium/Recruitment/">Help wanted: 3 posts open</A>
+---
+> <P>* 14 Mar 96 : [ Image: New! ] <A HREF="http://www.w3.org/PICS/960314/steam.html">"PICS Picks Up Steam"</A> : An overview of industry's adoption of PICS.
+> <BR>* 12 Mar 96 : [ Image: New! ] <A HREF="http://www.w3.org/Consortium/Recruitment/">Help wanted: 3 posts open</A>
+=== Fri, 15 Mar 1996 14:59:16 GMT
+63c63
+< World Wide Web Journal <BR>* <A HREF="http://www.w3.org/Journal/1/">Issue One: December 1995</A> [ Image: New! ]
+---
+> World Wide Web Journal <BR>* <A HREF="http://www.w3.org/Journal/1/">Issue One: December 1995</A>
+=== Thu, 14 Mar 1996 19:11:14 GMT
+27c27
+< <BR>* W3C Working Draft: <A HREF="http://www.w3.org/TR/WD-png.html">PNG (Portable Network Graphics) Specification</A> , 21 Feb 1996
+---
+> <BR>* W3C Working Draft: <A HREF="http://www.w3.org/TR/WD-png.html">PNG (Portable Network Graphics) Specification</A> , 11 March 1996
+=== Tue, 12 Mar 1996 20:30:46 GMT
+16c16,17
+< <P>* 07 Mar 96 : [ Image: New! ] | The major on-line providers are adopting PICS and PICS-compliant filtering software, see <A HREF="http://www.w3.org/PICS/960306/ATT-and-MicroSystems.html">AT&amp;T Selects Microsystems' Cyber Patrol for WorldNet Service</A> and <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+---
+> <P>* 12 Mar 96 : [ Image: New! ] <A HREF="http://www.w3.org/Consortium/Recruitment/">Help wanted: 3 posts open</A>
+> <BR>* 07 Mar 96 : [ Image: New! ] | The major on-line providers are adopting PICS and PICS-compliant filtering software, see <A HREF="http://www.w3.org/PICS/960306/ATT-and-MicroSystems.html">AT&amp;T Selects Microsystems' Cyber Patrol for WorldNet Service</A> and <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+=== Mon, 11 Mar 1996 06:36:53 GMT
+0a1,91
+> [ Title: The World Wide Web Consortium (W3C) ]
+> <P> [ Image: W3C ] The World Wide Web Consortium
+> <P> The World Wide Web is the universe of network-accessible information. The <A HREF="http://www.w3.org/Consortium/">World Wide Web Consortium</A> exists to realize the full potential of the Web.
+> <P> W3C works with the global community to produce <A HREF="http://www.w3.org/hypertext/WWW#Specifications">specifications</A> and <A HREF="http://www.w3.org/hypertext/WWW#Reference">reference software</A> . W3C is funded by industrial <A HREF="http://www.w3.org/Consortium/Member/List.html">members</A> but its products are freely available to all. The Consortium is run by <A HREF="http://web.mit.edu/">MIT</A> <A HREF="http://www.lcs.mit.edu">LCS</A> and by <A HREF="http://www.inria.fr/">INRIA</A> , in collaboration with <A HREF="http://www.cern.ch/">CERN</A> where the web originated. Please see the <A HREF="http://www.w3.org/Consortium/Member/List.html">list of members</A> to learn about individual members and visit their World Wide Web sites.
+> <BR>* <A HREF="http://www.w3.org/Consortium/Prospectus/ActivityList">W3C Activity areas and directions</A>
+> <BR>* <A HREF="http://www.w3.org/Consortium/Contact.html">How to contact W3C</A>
+> <BR>* <A HREF="http://www.w3.org/Consortium/Prospectus/FAQ.html">Frequently Asked Questions about W3C</A>
+> <BR>* <A HREF="http://www.w3.org/Member/">W3C meetings, newsletter, mailing lists [W3C Members only]</A>
+> <BR>* <A HREF="http://www.w3.org/Help/">Help</A> In this document:
+> <BR>* <A HREF="http://www.w3.org/hypertext/WWW#News">News and Updates</A>
+> <BR>* <A HREF="http://www.w3.org/hypertext/WWW#Specifications">Web Specifications and Development Areas</A>
+> <BR>* <A HREF="http://www.w3.org/hypertext/WWW#Reference">W3C Software</A>
+> <BR>* <A HREF="http://www.w3.org/hypertext/WWW#Community">The World Wide Web and the Web Community</A>
+> <BR>* <A HREF="http://www.w3.org/hypertext/WWW#Joining">Getting involved with the W3C</A>
+> <P> [Image] <A NAME="News">News and Updates</A>
+> <P>* 07 Mar 96 : [ Image: New! ] | The major on-line providers are adopting PICS and PICS-compliant filtering software, see <A HREF="http://www.w3.org/PICS/960306/ATT-and-MicroSystems.html">AT&amp;T Selects Microsystems' Cyber Patrol for WorldNet Service</A> and <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+> <BR>* 05 March 96 : [ Image: New! ] | <A HREF="http://www.w3.org/Style/960305_News.html">The W3 Consortium announces Web style sheets</A>
+> <BR>* 04 March 96 : [ Image: New! ] | <A HREF="http://www.w3.org/MarkUp/960304_News.html">The W3 Consortium Takes Leadership Role in the Development of HTML</A>
+> <BR>* 28 Feb 96 : | The PICS effort is making headlines. Please see the <A HREF="http://www.w3.org/PICS/">PICS overview</A> for further information.
+> <BR>* <A HREF="http://www.w3.org/PICS/960228/RSACi.html">Recreational Software Advisory Council Launches Objective, Content-Labeling Advisory System for the Internet</A>
+> <BR>* <A HREF="http://www.w3.org/PICS/960228/NYTimes.html">Microsoft Backs Ratings System for Internet</A>
+> <BR>* <A HREF="http://www.w3.org/PICS/960228/Microsoft.html">Microsoft Teams With Recreational Software Advisory Council To Pioneer Parental Control Over Internet Access</A>
+> <BR>* <A HREF="http://www.w3.org/PICS/960228/SafeSurf.html">SafeSurf Internet Rating System Receives Broad Support From Online Community</A>
+> <BR>* <A HREF="http://www.w3.org/PICS/960228/SurfWatch.html">SurfWatch Endorses RSACi Content Advisory System</A>
+> <BR>* <A HREF="http://www.w3.org/OOP/9606_Workshop/">Joint W3C/OMG Workshop on Distributed Objects and Mobile Code</A> , Boston, June 24-25, 1996
+> <BR>* W3C Working Draft: <A HREF="http://www.w3.org/TR/WD-png.html">PNG (Portable Network Graphics) Specification</A> , 21 Feb 1996
+> <BR>* The <A HREF="http://web.mit.edu/cfp96">Sixth Conference on Computers, Freedom, and Privacy</A> will be held at MIT on March 27-30.
+> <BR>* <A HREF="http://www.w3.org/pub/Conferences/WWW5/">Fifth International World Wide Web Conference: 06-11 May 1996 in Paris, France</A>
+> <BR>* <A HREF="http://www.w3.org/pub/Conferences/WWW4/">Fourth International World Wide Web Conference: 11-14 December 1995</A>
+> <BR>* Several new <A HREF="http://www.w3.org/TR/">W3C Tech Reports</A> are available.
+> <BR>* <A HREF="http://www.w3.org/Press/">Press Releases and Press Information</A>
+> <BR>* <A HREF="http://www.w3.org/News/">News and Updates Archive</A>
+> <P> [Image] <A NAME="Specifications">Web Specifications and Development Areas</A>
+> <P><A HREF="http://www.w3.org/Protocols/">HTTP</A>
+> <BR> All available information on Hypertext Transfer Protocol (HTTP) and related protocols. <A HREF="http://www.w3.org/MarkUp/">HTML</A>
+> <BR> The hypertext markup language, including <A HREF="http://www.w3.org/Style/">style sheets</A> . <A HREF="http://www.w3.org/PICS/">PICS</A>
+> <BR> W3C's Platform for Internet Content Selection (PICS) is an effort to enable content labeling & rating for the Web. <A HREF="http://www.w3.org/Security/">Security</A>
+> <BR> Resources relating to security on the World Wide Web. <A HREF="http://www.w3.org/Collaboration/">Collaboration</A>
+> <BR> Issues, resources, and examples of collaborative systems, including W3C Collaboration Working Groups, workshops, and annotation. <A HREF="http://www.w3.org/MobileCode/">Mobile Code</A> and <A HREF="http://www.w3.org/OOP/">Distributed Objects</A>
+> <BR> Increasing automation on the web: exectuable content, and code from interface specs. <A HREF="http://www.w3.org/Payments/">Payments</A>
+> <BR> Investigations into electronic payment using web protocols. <A HREF="http://www.w3.org/Demographics/">Demographics</A>
+> <BR> Issues and technology dealing with the need for content providers to gain information about the readership of their content, and the need for individuals to control what information about themselves is released to whom. <A HREF="http://www.w3.org/International/">Non-western Character sets, Languages, and Writing Systems</A>
+> <BR> Enhancing the web to meet the needs of the global community. <A HREF="http://www.w3.org/CGI/">Common Gateway Interface</A>
+> <BR> The interface between httpd servers (CERN's and NCSA's at least) and user-written gateways to other database systems, etc. <A HREF="http://www.w3.org/Addressing/Addressing.html">Addressing (URLs)</A>
+> <BR> The syntax of W3 document addresses. <A HREF="http://www.w3.org/Graphics/">Graphics</A>
+> <BR> Graphics formats, including <A HREF="http://www.w3.org/Graphics/PNG/">PNG</A> . <A HREF="http://www.w3.org/Bugs.html">Other Projects</A>
+> <BR> Ideas for new projects and things people are currently working on.
+> <A HREF="http://www.w3.org/TR/">W3C Tech Reports</A>
+> <P> Technical reports and draft specifications released by the W3C. Current documents include:
+> <BR>* <A HREF="http://www.w3.org/TR/WD-session-id.html">Session Identification URI</A> Phillip M. Hallam-Baker, Dan Connolly
+> <BR>* <A HREF="http://www.w3.org/TR/WD-proxy.html">Notification for Proxy Caches</A> Phillip M. Hallam-Baker
+> <BR>* <A HREF="http://www.w3.org/TR/WD-logfile.html">Extended Log File Format</A> Phillip M. Hallam-Baker, Brian Behlendorf
+> <BR>* <A HREF="http://www.w3.org/TR/WD-wwwicn.html">HTML predefined icon-like symbols</A> , Bert Bos
+> <BR>* <A HREF="http://www.w3.org/TR/WD-insert.html">Inserting multimedia objects into HTML3</A> , Dave Raggett, Charlie Kindel, Lou Montulli, Eric Sink, Wayne Gramlich, Jonathan Hirschman, Tim Berners-Lee, Dan Connolly
+> <BR>* <A HREF="http://www.w3.org/TR/WD-png.html">PNG (Portable Network Graphics) Specification</A>
+> <BR>* <A HREF="http://www.w3.org/TR/WD-mptp.html">Micro Payment Transfer Protocol (MPTP)</A> Phillip M. Hallam-Baker
+> <BR>* <A HREF="http://www.w3.org/TR/WD-style.html">HTML3 and Style Sheets</A> Bert Bos, David Raggett and H&aring;kon W Lie
+> <BR>* <A HREF="http://www.w3.org/TR/WD-http-pep.html">PEP: An Extension Mechanism for HTTP</A> Rohit Khare
+> <BR>* <A HREF="http://www.w3.org/TR/WD-css1.html">Cascading Style Sheets, level 1</A> , H&aring;kon W Lie and Bert Bos
+> <BR>* <A HREF="http://www.w3.org/TR/WD-sgml-lex.html">A Lexical Analyzer for HTML and Basic SGML</A> , Dan Connolly
+> <BR>* <A HREF="http://www.w3.org/TR/WD-tables.html">The HTML3 Table Model</A> , Dave Raggett
+> World Wide Web Journal <BR>* <A HREF="http://www.w3.org/Journal/1/">Issue One: December 1995</A> [ Image: New! ]
+> <P> [Image] <A NAME="Reference">W3C Software</A>
+> <P> W3C reference software, after public release, is freely available for any use by anyone. <A HREF="http://www.w3.org/Distribution.html">Downloading the W3C Reference Code</A>
+> <BR> How to download and install the W3C Source Code Software <A HREF="http://www.w3.org/Library/">The W3C Reference Library</A>
+> <BR> The W3C Reference Library is a general-purpose code base written in C designed to be highly portable, modular and efficient. Due to the high degree of modularity it can be used as the basis for all kinds of Web applications, such as clients, servers, proxies, and robots. All the following W3C software products are based on the Library. <A HREF="http://www.w3.org/Arena/">Arena: W3C's HTML3 browser</A>
+> <BR> [demo only] A general-purpose browser built on top of the multithreaded version of the <A HREF="http://www.w3.org/Library/">W3C Reference Library</A> . Arena is designed to reflect the status of the HTML3 specifications, and currently supports tables, math, and an experimental style sheet mechanism. <A HREF="http://www.w3.org/LineMode/">W3C Line Mode Browser</A>
+> <BR> The Line Mode Browser is a character-based Web browser developed for use on terminals. It is written in C and serves as an example of a client application using the <A HREF="http://www.w3.org/Library/">W3C Reference Library</A> , and as a test tool for quick access to the Web from scripts, cron jobs etc. <A HREF="http://www.w3.org/ComLine/">W3C Command Line Tool</A>
+> <BR> A cross platform C based command line tool for accessing the Web. It is a simple application which shows how to use the W3C Reference Library for building simple batch mode tools for accessing the Web. <A HREF="http://www.w3.org/Robot/">W3C Mini Robot</A>
+> <BR> A cross platform C based command line tool for automatic traversal of the Web. It is a simple application which shows how to use the W3C Reference Library for building robots <A HREF="http://www.w3.org/MiniServ/">W3C Mini Server</A>
+> <BR> A cross platform C based server based on the W3C Reference Library. It is a small example application showing how to implement a server or a proxy using the W3C Reference Library. <A HREF="http://www.w3.org/Daemon/">W3C httpd</A>
+> <BR> A free W3 server. ( <A HREF="http://www.w3.org/Daemon/User/Installation/Installation.html">Installation</A> , <A HREF="http://www.w3.org/Daemon/User/Admin.html">Administration</A> )
+> <P> There is also elsewhere a wealth of software for the web, some free and some not. We keep a rough <A HREF="http://www.w3.org/Status.html">list of web software</A> including <A HREF="http://www.w3.org/Clients.html">clients</A> , <A HREF="http://www.w3.org/Servers.html">servers</A> , <A HREF="http://www.w3.org/Gateways.html">gateways</A> , and other <A HREF="http://www.w3.org/Tools/">tools</A> .
+> <P> [Image] <A name="Community">The World Wide Web and the Web Community</A>
+> <P><A HREF="http://www.w3.org/WWW/">About the World Wide Web</A>
+> <BR> Some background and history <A HREF="http://www.w3.org/pub/DataSources/Top.html">Overview of the Web</A>
+> <BR> What's on the Web? How do I find things? Pointers to the world's online information, including the <A HREF="http://www.w3.org/pub/DataSources/bySubject/Overview.html">World Wide Web Virtual Library</A> and a list of registered <A HREF="http://www.w3.org/pub/DataSources/WWW/Servers.html">W3 servers</A> . <A HREF="http://www.w3.org/Talks/">Talks</A>
+> <BR> Members of the W3C team often give talks and presentations. In most cases, you can find information and presentations on this web site contained within the appropriate <A HREF="http://www.w3.org/hypertext/WWW#Specifications">subject or activity area</A> . This is a collection of slides and presentations from the past several years. <A HREF="http://www.w3.org/Provider/">Putting up a Web Site</A>
+> <BR> How can I become an information provider on the web? <A HREF="http://www.w3.org/pub/Conferences/Overview-WWW.html">Conferences</A>
+> <BR> Where do the developers meet? Where can I submit papers? <A HREF="http://www.w3.org/Mail/">Web Mailing Lists</A>
+> <BR> How do I contact other web users? <A HREF="http://www.w3.org/Mail/Lists.html">Mailing lists maintained by the W3C</A> and <A HREF="http://www.w3.org/Mail/Outside_mailing.html">outside the W3C</A> <A HREF="http://www.w3.org/Newsgroups.html">News groups</A>
+> <BR> What USENET newsgroups cover the web? <A HREF="http://www.boutell.com/faq/">Frequently Asked Questions</A>
+> <BR> If you can't find it elsewhere. ( <A HREF="http://www.w3.org/FAQ/List.html">old small list</A> ).
+> <P><A name="Joining">Getting involved with the W3C</A>
+> <P> [ Image: Membership ]
+> <BR> Membership in the W3C is open to any organization which signs a membership agreement. The <A HREF="http://www.w3.org/Consortium/Prospectus/">prospectus</A> explains the consortium to potential members. <A HREF="http://www.w3.org/Consortium/Recruitment/">[ Image: Openings ]</A>
+> <BR><A HREF="http://www.w3.org/Consortium/Recruitment/">Openings: come and work with the W3 team at MIT or INRIA</A>
+> <P><A HREF="http://www.lcs.mit.edu/">[ Image: MIT/LCS ]</A> <A HREF="http://www.inria.fr/">[ Image: INRIA ]</A>
+> <P> W3C is hosted by the <A HREF="http://www.lcs.mit.edu/">Laboratory for Computer Science</A> at <A HREF="http://web.mit.edu/">MIT</A> , and in Europe by <A HREF="http://www.inria.fr/">INRIA</A> .
+> <P>
+> <A HREF="http://www.w3.org/Help/Webmaster.html">Webmaster</A>

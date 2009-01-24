@@ -1,0 +1,371 @@
+=== Mon, 15 Jul 1996 01:38:47 GMT
+5c5
+< Last Update: 04/16/96 
+---
+> Last Update: 05/04/96 
+=== Fri, 19 Apr 1996 19:25:09 GMT
+1,2c1,3
+< [ Title: Mooncrow's CGI/PERL Source Page ]
+< <P> [Image] [Image] Mooncrow's CGI/PERL Source Page
+---
+> [ Title: Mooncrow's CGI/Perl Page ]
+> <P> NOTICE!
+> <P> Mooncrow's CGI/Perl Page
+4,5c5
+< Last Update: 03/05/96 <BR>
+< NOTE: Entries are sorted alphabetically by URL address. 
+---
+> Last Update: 04/16/96 
+7,174c7
+< If you are interested in HTML, try my <A HREF="http://www.halcyon.com/html.htm">[ Image: [X] ]</A> HTML Source Page. 
+< <P>*
+< <A HREF="http://futures.wharton.upenn.edu/~attau791/webit.html">WebEdit</A><BR> Muhammad At-Tauhidi's perl script enables you to maintain your web pages
+< <BR> on-line.
+< <P>*
+< <A HREF="http://hoohoo.ncsa.uiuc.edu/cgi/">Common Gateway Interfaces</A><BR> Good information on CGI from the NCSA http Development Team.
+< <P>*
+< <A HREF="http://melmac.corp.harris.com/access_counts.html">Adding Access Counts To Your Documents</A><BR> Chuck Musciano has a good tutorial and a custom web page access script.
+< <P>*
+< <A HREF="http://mendel.hgp.med.umich.edu:80/doc/unix/tasks.html">Unix Command Quick Reference</A><BR> Jeff Aspinall's page was a God-send for me since I know next to nothing
+< <BR> about UNIX. Here, in one location, is a comprehensive summary of
+< <BR> Frequently Used UNIX Tasks and Common UNIX Commands .
+< <P>*
+< <A HREF="http://picard.dartmouth.edu/HomePageCounters.html">Oly's Home Page Access Counters Tutorial</A><BR> John Erickson's variation of a home page access counter. I personally would
+< <BR> not use this counter because you have to have a separate copy of the *.xbm
+< <BR> script for EACH page you want counted. However, this Perl script may suit your
+< <BR> needs. If you try it, let me know what you think of it.
+< <P>*
+< <A HREF="http://pharmdec.wustl.edu/juju/E.M./engine_mail.html">Engine Mail</A><BR> This site has an excellent email engine as well as other perl scripts.
+< <P>*
+< <A HREF="http://purgatory.ecn.purdue.edu:20002/JBC/david/how.html">How to add access counters</A><BR> David Whittenmore has created a nice web page on how to add access counters
+< <BR> to your web pages.
+< <P>*
+< <A HREF="http://robot0.ge.uiuc.edu/~carlosp/cs317/cft.html">Carlos' Form's Tutorial</A><BR> Carlos Pero has created a very good interactive tutorial on how to create forms.
+< <BR> Check it out.
+< <P>*
+< <A HREF="http://rs712b.gsfc.nasa.gov/704/dgd/xl2html.html">Excel 5.0 to HTML Converter</A><BR> Jordan Evans has written an interesting script for converting spreadsheets
+< <BR> to HTML documents.
+< <P>*
+< <A HREF="http://sw.cse.bris.ac.uk/WebTools/pagecount.html">WWW Page counters</A><BR> Matt Kruse's cgi script for creating and maintaining an online database
+< <BR> of WWW sites.
+< <P>*
+< <A HREF="http://web.sau.edu/~mkruse/www/scripts/index2.html">Index Maker Script</A><BR> Pangolin's web page access counter with tutorials. Also see his
+< <BR><A HREF="http://web.sau.edu/~mkruse/www/scripts/mailer.html">Email Script</A>
+< <P>*
+< <A HREF="http://website.ora.com/">WebSite Central</A><BR> O'Reilly & Associates elegant 32-bit web server for Windows NT.
+< <BR> Also, check out their <A HREF="http://website.ora.com/wsdocs/32demo/windows-cgi.html">Windows CGI 1.2 Interface</A>
+< <P>*
+< <A HREF="http://wintermute.ncsa.uiuc.edu:8080/map-tutorial/image-maps.html">Imagemap tutorial</A><BR> This is an EXCELLENT introduction to image maps with lots of URL's
+< <P>*
+< <A HREF="http://worldwidemart.com/scripts/">Matt's Script Archive</A><BR> An excellent collection of Perl script source files:
+< <BR> Guestbook - add an interactive guest registration book to your website.
+< <BR> LinkPage - allows visitors to add URL links to your website.
+< <BR> BBS - add your own personal news group style messaging system.
+< <BR> FormMail - handles custom forms very nicely!
+< <BR> Random Images - have your website display a different image with each login.
+< <BR> Random Links - lets your visitors joyride to random sites on the Web.
+< <BR> CountDown - display a count down timer to the day of your choice.
+< <BR> Animation - add some animation to your website.
+< <BR> >Snipets - miscellaneous script routines
+< <P>*
+< <A HREF="http://www.aquila.com/webcount/">Visual basic Access Counter</A><BR> WebCount is a commercial product, but there is a demo version.
+< <P>*
+< <A HREF="http://www.atmos.washington.edu/perl/perl.html">PERL Programmer's Handbook</A><BR> Larry Wall created a very nicely organized programmer's manual for Perl.
+< <BR> Somebody ripped it off and posted it at this URL, but it is Good reference
+< <BR> material. Anyone know where Larry's original is posted?
+< <P>*
+< <A HREF="http://www.best.com/~hedlund/cgi-faq/">CGI Programmer's Reference</A><BR> Marc Hedlund's excellent cgi programmers reference web site!
+< <BR> Check this one out!
+< <P>*
+< <A HREF="http://www.bio.cam.ac.uk/web/form.html">CGI Form Handling</A><BR> The primary thing of value at Steven Brenner's CGI Form Handling page is that
+< <BR> you can get a copy of <A HREF="http://www.bio.cam.ac.uk/web/cgi-lib.pl.txt">cgi-lib.pl</A> there.
+< <BR> He also has posted a couple of good source files and examples.
+< <P>*
+< <A HREF="http://www.biostat.wisc.edu/nf_home">NetForum</A><BR> NetForum is a nice perl cgi script that gives you the ability to
+< <BR> have your own private "news groups" on your web pages. Check this out!
+< <P>*
+< <A HREF="http://www.catt.ncsu.edu/~bex/tutor/index.html">Learn to Write CGI-Forms</A><BR> Brian Exelbierd has made a decent start on a CGI/PERL tutorial page.
+< <BR> He needs to re-do his index.html so folks have a better idea of what
+< <BR> they have dialed into; but he has some good info on CGI-BIN and a decent
+< <BR> start on Perl.
+< <P>*
+< <A HREF="http://www.cis.ufl.edu/perl/">UF/NA Perl Archive</A><BR> The University of Florida's Perl Archive is a good place for Perl examples.
+< <P>*
+< <A HREF="http://www.city.net/win-httpd/">Windows httpd</A><BR> Robert Denny maintains a nice page to support his httpd server for Windows
+< <BR> (3.1, WfWG 3.11, NT and '95)
+< <P>*
+< <A HREF="http://www.cs.uoregon.edu/~jhobbs/guestbook">Jeffrey Hobbs' Guest Book</A><BR> Jeffrey Hobbs has written an interesting script for a "Guest Book".
+< <BR> The script is nice, but I wish he would put new entries at the TOP of
+< <BR> the list and add some kind of aging routine to get rid of ANTIQUE entries.
+< <BR> By the way, I suggest you use the URL above since <A HREF="http://www.cs.uoregon.edu/~jhobbs/guests.html">Guest Book</A>
+< <BR> points to a boring list of guests dating back to 1994.
+< <P>*
+< <A HREF="http://www.eff.org/~erict/Scripts/">Selena Sol's Public Domain CGI Script Library</A><BR> Selena Sol's maintains a nice Public Domain CGI Script Library Public
+< <BR> Domain CGI scripts written by Selena Sol (shopping carts, feedback forms,
+< <BR> groupware calendar, counters, clocks, animation, bulletin boards, and
+< <BR> miscellaneous applications.
+< <P>*
+< <A HREF="http://www.eecs.nwu.edu/perl/perl.html">Perl Reference Materials</A><BR> Jennifer Myers has put together a very nice and useful collection of Perl
+< <BR> reference materials. Her page includes a lot of information about Perl 5
+< <BR> and pointers to source code collections.
+< <P>*
+< <A HREF="http://www.engr.iupui.edu/~dbewley/perl/">Dale Bewley's Perl Scripts and Links</A><BR> Dale Bewley has crafted a very nice web page that will appeal to both the
+< <BR> beginner and the advanced Perl programmer. He has posted an interesting
+< <BR> collection of his own original Perl programs. He also provides a concise
+< <BR> set of reference URL's and script archives.
+< <P>*
+< <A HREF="http://www.goshen.edu:80/~mattdm/edithtml/">Matt's Web Page Editor</A><BR> Matt Miller has created an interesting set of perl scripts that enable you
+< <BR> edit and maintain your web page html files using any forms capable browser!
+< <BR> Schools that want students to have web pages, but do NOT want those
+< <BR> students having full access shell accounts can make great use of this script.
+< <P>* <A HREF="http://www.halcyon.com/davidg/imagemap.html">Incorporating Imagemaps into your HTML</A>
+< <BR> David has created one of the best image map tutorials I have seen!
+< <P>*
+< <A HREF="http://www.halcyon.com/gened/gened.html">Gene Devereaux's Access Counter</A><BR> Gene Devereaux has written one of the easiest to use <A HREF="http://www.halcyon.com/gened/number.xbmx">access counter script</A> s
+< <BR> that I have seen. It supports multiple pages using command line parameters,
+< <BR> so only one copy needs to be installed.
+< <P>*
+< <A HREF="http://www.illuminatus.com/cookie">Netscape Magic Cookies</A><BR> Andy Kingston's interesting web page that illustrates how to make
+< <BR> use of Netscape's magic "cookies" on your web pages.
+< <P>*
+< <A HREF="http://www.intergraph.com/free.shtml">Intergraph's Perl for Windows NT</A><BR> Intergraph Corporation is a commercial company, but they have posted a
+< <BR> nice Perl implementation for Windows NT. Since I haven't upgraded to NT
+< <BR> yet, I can't say how good/bad the package might be.
+< <P>*
+< <A HREF="http://www.irsociety.com/webchat.html">WebChat Home Page</A><BR> The Internet Roundtable Society (IRS???) had created an interesting cgi
+< <BR> package called WebChat that emulates LIVE on-line chatting! Check it out!
+< <P>*
+< <A HREF="http://www.khoros.unm.edu/staff/neilb/perl/home.html">The Perl Programming Language</A><BR> Short, sweet and simple; but Neil Bowers has made a good start on a Perl
+< <BR> reference page.
+< <P>*
+< <A HREF="http://www.lm.com/~pdixon/#almostreality">Almost Reality HTML Editor</A><BR> Yet another HTML editor. If you try it, let me know if you like it.
+< <P>*
+< <A HREF="http://www.lpage.com:/">LPAGE</A> - CGI Specialists using VB/MS Access</A><BR> If you are running a Windows or NT server, this is an excellent source.
+< <BR> They also make available a public access GUEST BOOK.
+< <P>*
+< <A HREF="http://www.oac.uci.edu/indiv/ehood/perlWWW/">perlWWW</A><BR> Earl Hood has done an excellent job on this page. It is a comprehensive
+< <BR> pointer list to pages containing all types of Perl source code.
+< <BR> This is a MUST HAVE site!
+< <P>*
+< <A HREF="http://www.romantasy.com/test/server_push.html">Animation Using Perl</A><BR> You have to see this one to believe it. Good site.
+< <P>*
+< <A HREF="http://www.seas.upenn.edu/~mengwong/meng.html">Meng Weng Wong's Home Page</A><BR> Meng's animate.pl script is the most useful of a number of similar
+< <BR> scripts. The egocentric nature of his page is humorous. He does have
+< <BR> a number of other pages besides this one rather large one.
+< <P>*
+< <A HREF="http://www.sgi.com/counter.html">WWW access counter script</A><BR> Yet another Perl access counter script
+< <P>*
+< <A HREF="http://www.stars.com/">WebDeveloper's Library</A><BR> Alan Richmond has created a real "space age" page with over 1,000 pointers
+< <BR> to pages around the world. If you search long enough you will find some
+< <BR> good Perl information pointers there. However, if you want to avoid the
+< <BR> radiation burns of space travel, you can jump right to <A HREF="http://WWW.Stars.com/Vlib/Providers/CGI.html">Virtual Library/CyberWeb: CGI</A>
+< <P>*
+< <A HREF="http://www.teleport.com/~rootbeer/perl.html">Tom's References for Learning Perl</A><BR> Tom Phoenix's page is not bad, but there isn't much there that is
+< <BR> unique other than some MacPerl references.
+< <P>*
+< <A HREF="http://www.uky.edu/%7Ejohnr/AnyForm2/">AnyForm version 2.x</A><BR> A very versatile form handling script written GNU C++
+< <P>*
+< <A HREF="http://www.webtools.org/counter/">HTML Access Counter</A><BR> George Burgyan has written a nice little <A HREF="http://www.webtools.org/counter/counter">access counter script</A> that
+< <BR> has some features I have not seen anywhere else. It handles multiple pages,
+< <BR> does not use graphics images, gives you counts in user definable fonts and
+< <BR> even has multiple language support. It is a neat package and I may even
+< <BR> install it. He has a collection of other tools at <A HREF="http://www.cybercon.com/c3webtools.html">Web Tools</A> .
+< <P>*
+< <A HREF="http://www-genome.wi.mit.edu/ftp/pub/software/WWW/cgi_docs.html">CGI.pm - a Perl5 CGI Library</A><BR> Lincoln Stein's excellent Perl5 CGI Library. Similar to cgi-lib.pl,
+< <BR> but it offers a simple interface for parsing and interpreting
+< <BR> fill-out forms.
+< <P>*
+< <A HREF="http://www-mae.engr.ucf.edu/~ssd/counter.html"=>ssd's counter page</A><BR> This is one of the nicest looking web page access counters that I have seen.
+< <BR> However, the author has some rather strict ideas about folks using it.
+< <P>*
+< <A HREF="http://www-ns.rutgers.edu/doc/archie/">Archie Module and Web Gateway for Perl 5</A><BR> Greg Bossert has written an EXCELLENT Archie access <A HREF="ftp://rutgers.rutgers.edu/pub/www/archie/Archie.pm">Perl script</A>
+< <BR> Here is a URL pointer to see the <A HREF="http://www-ns.rutgers.edu/htbin/archie">Archie Request Form</A> in action.
+< <P> |
+< <A HREF="http://www.halcyon.com/aeyrie.htm">[ Image: [X] ]</A> Mooncrow's Aeyrie or <A HREF="http://www.halcyon.com/cgi.htm">[ Image: [RETURN] ]</A> Return To TOP of this Page
+< <P> Thank you for visiting Mooncrow's CGI/PERL Source Page .
+< Please send your comments to: <A HREF="mailto:mooncrow@halcyon.com">mooncrow@halcyon.com</A>
+< | 
+---
+> WEBMASTERS: This web page has MOVED! 
+176c9
+< This WWW page is copyright 1996 by <A HREF="http://www.halcyon.com/resume.htm">Carl Mooncrow Evans</A> . Any form of copying for COMMERCIAL use without prior written permission from Mooncrow is strictly prohibited. However, visitors are welcome to copy and distribute these page files for NONcommercial use as long as this copyright notice is included. 
+---
+> The new URL is: <A HREF="http://www.seds.org/~smiley/cgiperl/cgi.htm">Guy Smiley's CGI/Perl Pages</A>
+=== Mon, 11 Mar 1996 06:36:36 GMT
+0a1,176
+> [ Title: Mooncrow's CGI/PERL Source Page ]
+> <P> [Image] [Image] Mooncrow's CGI/PERL Source Page
+> <P>
+> Last Update: 03/05/96 <BR>
+> NOTE: Entries are sorted alphabetically by URL address. 
+> <P>
+> If you are interested in HTML, try my <A HREF="http://www.halcyon.com/html.htm">[ Image: [X] ]</A> HTML Source Page. 
+> <P>*
+> <A HREF="http://futures.wharton.upenn.edu/~attau791/webit.html">WebEdit</A><BR> Muhammad At-Tauhidi's perl script enables you to maintain your web pages
+> <BR> on-line.
+> <P>*
+> <A HREF="http://hoohoo.ncsa.uiuc.edu/cgi/">Common Gateway Interfaces</A><BR> Good information on CGI from the NCSA http Development Team.
+> <P>*
+> <A HREF="http://melmac.corp.harris.com/access_counts.html">Adding Access Counts To Your Documents</A><BR> Chuck Musciano has a good tutorial and a custom web page access script.
+> <P>*
+> <A HREF="http://mendel.hgp.med.umich.edu:80/doc/unix/tasks.html">Unix Command Quick Reference</A><BR> Jeff Aspinall's page was a God-send for me since I know next to nothing
+> <BR> about UNIX. Here, in one location, is a comprehensive summary of
+> <BR> Frequently Used UNIX Tasks and Common UNIX Commands .
+> <P>*
+> <A HREF="http://picard.dartmouth.edu/HomePageCounters.html">Oly's Home Page Access Counters Tutorial</A><BR> John Erickson's variation of a home page access counter. I personally would
+> <BR> not use this counter because you have to have a separate copy of the *.xbm
+> <BR> script for EACH page you want counted. However, this Perl script may suit your
+> <BR> needs. If you try it, let me know what you think of it.
+> <P>*
+> <A HREF="http://pharmdec.wustl.edu/juju/E.M./engine_mail.html">Engine Mail</A><BR> This site has an excellent email engine as well as other perl scripts.
+> <P>*
+> <A HREF="http://purgatory.ecn.purdue.edu:20002/JBC/david/how.html">How to add access counters</A><BR> David Whittenmore has created a nice web page on how to add access counters
+> <BR> to your web pages.
+> <P>*
+> <A HREF="http://robot0.ge.uiuc.edu/~carlosp/cs317/cft.html">Carlos' Form's Tutorial</A><BR> Carlos Pero has created a very good interactive tutorial on how to create forms.
+> <BR> Check it out.
+> <P>*
+> <A HREF="http://rs712b.gsfc.nasa.gov/704/dgd/xl2html.html">Excel 5.0 to HTML Converter</A><BR> Jordan Evans has written an interesting script for converting spreadsheets
+> <BR> to HTML documents.
+> <P>*
+> <A HREF="http://sw.cse.bris.ac.uk/WebTools/pagecount.html">WWW Page counters</A><BR> Matt Kruse's cgi script for creating and maintaining an online database
+> <BR> of WWW sites.
+> <P>*
+> <A HREF="http://web.sau.edu/~mkruse/www/scripts/index2.html">Index Maker Script</A><BR> Pangolin's web page access counter with tutorials. Also see his
+> <BR><A HREF="http://web.sau.edu/~mkruse/www/scripts/mailer.html">Email Script</A>
+> <P>*
+> <A HREF="http://website.ora.com/">WebSite Central</A><BR> O'Reilly & Associates elegant 32-bit web server for Windows NT.
+> <BR> Also, check out their <A HREF="http://website.ora.com/wsdocs/32demo/windows-cgi.html">Windows CGI 1.2 Interface</A>
+> <P>*
+> <A HREF="http://wintermute.ncsa.uiuc.edu:8080/map-tutorial/image-maps.html">Imagemap tutorial</A><BR> This is an EXCELLENT introduction to image maps with lots of URL's
+> <P>*
+> <A HREF="http://worldwidemart.com/scripts/">Matt's Script Archive</A><BR> An excellent collection of Perl script source files:
+> <BR> Guestbook - add an interactive guest registration book to your website.
+> <BR> LinkPage - allows visitors to add URL links to your website.
+> <BR> BBS - add your own personal news group style messaging system.
+> <BR> FormMail - handles custom forms very nicely!
+> <BR> Random Images - have your website display a different image with each login.
+> <BR> Random Links - lets your visitors joyride to random sites on the Web.
+> <BR> CountDown - display a count down timer to the day of your choice.
+> <BR> Animation - add some animation to your website.
+> <BR> >Snipets - miscellaneous script routines
+> <P>*
+> <A HREF="http://www.aquila.com/webcount/">Visual basic Access Counter</A><BR> WebCount is a commercial product, but there is a demo version.
+> <P>*
+> <A HREF="http://www.atmos.washington.edu/perl/perl.html">PERL Programmer's Handbook</A><BR> Larry Wall created a very nicely organized programmer's manual for Perl.
+> <BR> Somebody ripped it off and posted it at this URL, but it is Good reference
+> <BR> material. Anyone know where Larry's original is posted?
+> <P>*
+> <A HREF="http://www.best.com/~hedlund/cgi-faq/">CGI Programmer's Reference</A><BR> Marc Hedlund's excellent cgi programmers reference web site!
+> <BR> Check this one out!
+> <P>*
+> <A HREF="http://www.bio.cam.ac.uk/web/form.html">CGI Form Handling</A><BR> The primary thing of value at Steven Brenner's CGI Form Handling page is that
+> <BR> you can get a copy of <A HREF="http://www.bio.cam.ac.uk/web/cgi-lib.pl.txt">cgi-lib.pl</A> there.
+> <BR> He also has posted a couple of good source files and examples.
+> <P>*
+> <A HREF="http://www.biostat.wisc.edu/nf_home">NetForum</A><BR> NetForum is a nice perl cgi script that gives you the ability to
+> <BR> have your own private "news groups" on your web pages. Check this out!
+> <P>*
+> <A HREF="http://www.catt.ncsu.edu/~bex/tutor/index.html">Learn to Write CGI-Forms</A><BR> Brian Exelbierd has made a decent start on a CGI/PERL tutorial page.
+> <BR> He needs to re-do his index.html so folks have a better idea of what
+> <BR> they have dialed into; but he has some good info on CGI-BIN and a decent
+> <BR> start on Perl.
+> <P>*
+> <A HREF="http://www.cis.ufl.edu/perl/">UF/NA Perl Archive</A><BR> The University of Florida's Perl Archive is a good place for Perl examples.
+> <P>*
+> <A HREF="http://www.city.net/win-httpd/">Windows httpd</A><BR> Robert Denny maintains a nice page to support his httpd server for Windows
+> <BR> (3.1, WfWG 3.11, NT and '95)
+> <P>*
+> <A HREF="http://www.cs.uoregon.edu/~jhobbs/guestbook">Jeffrey Hobbs' Guest Book</A><BR> Jeffrey Hobbs has written an interesting script for a "Guest Book".
+> <BR> The script is nice, but I wish he would put new entries at the TOP of
+> <BR> the list and add some kind of aging routine to get rid of ANTIQUE entries.
+> <BR> By the way, I suggest you use the URL above since <A HREF="http://www.cs.uoregon.edu/~jhobbs/guests.html">Guest Book</A>
+> <BR> points to a boring list of guests dating back to 1994.
+> <P>*
+> <A HREF="http://www.eff.org/~erict/Scripts/">Selena Sol's Public Domain CGI Script Library</A><BR> Selena Sol's maintains a nice Public Domain CGI Script Library Public
+> <BR> Domain CGI scripts written by Selena Sol (shopping carts, feedback forms,
+> <BR> groupware calendar, counters, clocks, animation, bulletin boards, and
+> <BR> miscellaneous applications.
+> <P>*
+> <A HREF="http://www.eecs.nwu.edu/perl/perl.html">Perl Reference Materials</A><BR> Jennifer Myers has put together a very nice and useful collection of Perl
+> <BR> reference materials. Her page includes a lot of information about Perl 5
+> <BR> and pointers to source code collections.
+> <P>*
+> <A HREF="http://www.engr.iupui.edu/~dbewley/perl/">Dale Bewley's Perl Scripts and Links</A><BR> Dale Bewley has crafted a very nice web page that will appeal to both the
+> <BR> beginner and the advanced Perl programmer. He has posted an interesting
+> <BR> collection of his own original Perl programs. He also provides a concise
+> <BR> set of reference URL's and script archives.
+> <P>*
+> <A HREF="http://www.goshen.edu:80/~mattdm/edithtml/">Matt's Web Page Editor</A><BR> Matt Miller has created an interesting set of perl scripts that enable you
+> <BR> edit and maintain your web page html files using any forms capable browser!
+> <BR> Schools that want students to have web pages, but do NOT want those
+> <BR> students having full access shell accounts can make great use of this script.
+> <P>* <A HREF="http://www.halcyon.com/davidg/imagemap.html">Incorporating Imagemaps into your HTML</A>
+> <BR> David has created one of the best image map tutorials I have seen!
+> <P>*
+> <A HREF="http://www.halcyon.com/gened/gened.html">Gene Devereaux's Access Counter</A><BR> Gene Devereaux has written one of the easiest to use <A HREF="http://www.halcyon.com/gened/number.xbmx">access counter script</A> s
+> <BR> that I have seen. It supports multiple pages using command line parameters,
+> <BR> so only one copy needs to be installed.
+> <P>*
+> <A HREF="http://www.illuminatus.com/cookie">Netscape Magic Cookies</A><BR> Andy Kingston's interesting web page that illustrates how to make
+> <BR> use of Netscape's magic "cookies" on your web pages.
+> <P>*
+> <A HREF="http://www.intergraph.com/free.shtml">Intergraph's Perl for Windows NT</A><BR> Intergraph Corporation is a commercial company, but they have posted a
+> <BR> nice Perl implementation for Windows NT. Since I haven't upgraded to NT
+> <BR> yet, I can't say how good/bad the package might be.
+> <P>*
+> <A HREF="http://www.irsociety.com/webchat.html">WebChat Home Page</A><BR> The Internet Roundtable Society (IRS???) had created an interesting cgi
+> <BR> package called WebChat that emulates LIVE on-line chatting! Check it out!
+> <P>*
+> <A HREF="http://www.khoros.unm.edu/staff/neilb/perl/home.html">The Perl Programming Language</A><BR> Short, sweet and simple; but Neil Bowers has made a good start on a Perl
+> <BR> reference page.
+> <P>*
+> <A HREF="http://www.lm.com/~pdixon/#almostreality">Almost Reality HTML Editor</A><BR> Yet another HTML editor. If you try it, let me know if you like it.
+> <P>*
+> <A HREF="http://www.lpage.com:/">LPAGE</A> - CGI Specialists using VB/MS Access</A><BR> If you are running a Windows or NT server, this is an excellent source.
+> <BR> They also make available a public access GUEST BOOK.
+> <P>*
+> <A HREF="http://www.oac.uci.edu/indiv/ehood/perlWWW/">perlWWW</A><BR> Earl Hood has done an excellent job on this page. It is a comprehensive
+> <BR> pointer list to pages containing all types of Perl source code.
+> <BR> This is a MUST HAVE site!
+> <P>*
+> <A HREF="http://www.romantasy.com/test/server_push.html">Animation Using Perl</A><BR> You have to see this one to believe it. Good site.
+> <P>*
+> <A HREF="http://www.seas.upenn.edu/~mengwong/meng.html">Meng Weng Wong's Home Page</A><BR> Meng's animate.pl script is the most useful of a number of similar
+> <BR> scripts. The egocentric nature of his page is humorous. He does have
+> <BR> a number of other pages besides this one rather large one.
+> <P>*
+> <A HREF="http://www.sgi.com/counter.html">WWW access counter script</A><BR> Yet another Perl access counter script
+> <P>*
+> <A HREF="http://www.stars.com/">WebDeveloper's Library</A><BR> Alan Richmond has created a real "space age" page with over 1,000 pointers
+> <BR> to pages around the world. If you search long enough you will find some
+> <BR> good Perl information pointers there. However, if you want to avoid the
+> <BR> radiation burns of space travel, you can jump right to <A HREF="http://WWW.Stars.com/Vlib/Providers/CGI.html">Virtual Library/CyberWeb: CGI</A>
+> <P>*
+> <A HREF="http://www.teleport.com/~rootbeer/perl.html">Tom's References for Learning Perl</A><BR> Tom Phoenix's page is not bad, but there isn't much there that is
+> <BR> unique other than some MacPerl references.
+> <P>*
+> <A HREF="http://www.uky.edu/%7Ejohnr/AnyForm2/">AnyForm version 2.x</A><BR> A very versatile form handling script written GNU C++
+> <P>*
+> <A HREF="http://www.webtools.org/counter/">HTML Access Counter</A><BR> George Burgyan has written a nice little <A HREF="http://www.webtools.org/counter/counter">access counter script</A> that
+> <BR> has some features I have not seen anywhere else. It handles multiple pages,
+> <BR> does not use graphics images, gives you counts in user definable fonts and
+> <BR> even has multiple language support. It is a neat package and I may even
+> <BR> install it. He has a collection of other tools at <A HREF="http://www.cybercon.com/c3webtools.html">Web Tools</A> .
+> <P>*
+> <A HREF="http://www-genome.wi.mit.edu/ftp/pub/software/WWW/cgi_docs.html">CGI.pm - a Perl5 CGI Library</A><BR> Lincoln Stein's excellent Perl5 CGI Library. Similar to cgi-lib.pl,
+> <BR> but it offers a simple interface for parsing and interpreting
+> <BR> fill-out forms.
+> <P>*
+> <A HREF="http://www-mae.engr.ucf.edu/~ssd/counter.html"=>ssd's counter page</A><BR> This is one of the nicest looking web page access counters that I have seen.
+> <BR> However, the author has some rather strict ideas about folks using it.
+> <P>*
+> <A HREF="http://www-ns.rutgers.edu/doc/archie/">Archie Module and Web Gateway for Perl 5</A><BR> Greg Bossert has written an EXCELLENT Archie access <A HREF="ftp://rutgers.rutgers.edu/pub/www/archie/Archie.pm">Perl script</A>
+> <BR> Here is a URL pointer to see the <A HREF="http://www-ns.rutgers.edu/htbin/archie">Archie Request Form</A> in action.
+> <P> |
+> <A HREF="http://www.halcyon.com/aeyrie.htm">[ Image: [X] ]</A> Mooncrow's Aeyrie or <A HREF="http://www.halcyon.com/cgi.htm">[ Image: [RETURN] ]</A> Return To TOP of this Page
+> <P> Thank you for visiting Mooncrow's CGI/PERL Source Page .
+> Please send your comments to: <A HREF="mailto:mooncrow@halcyon.com">mooncrow@halcyon.com</A>
+> | 
+> <P>
+> This WWW page is copyright 1996 by <A HREF="http://www.halcyon.com/resume.htm">Carl Mooncrow Evans</A> . Any form of copying for COMMERCIAL use without prior written permission from Mooncrow is strictly prohibited. However, visitors are welcome to copy and distribute these page files for NONcommercial use as long as this copyright notice is included. 

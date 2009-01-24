@@ -1,0 +1,33 @@
+=== Wed, 24 Apr 1996 20:37:55 GMT
+3c3
+< [Image] | [ Image: Cool graphics of a camel ]
+---
+> [Image] | [ Image: Cool graphics of a camel ] | | Check out the <A HREF="http://www.perl.hip.com/webkit.htm" >hip web kit</A>
+=== Fri, 19 Apr 1996 19:25:13 GMT
+6c6
+< <A HREF=ftp://ftp.perl.hip.com/ >[Image]</A> <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/rel105.txt>105 release notes</A> | <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/105-i86.zip >i86 Release Binary</A> | <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/PerlIS-104.zip >PerlIS.dll</A><BR>
+---
+> <A HREF=ftp://ftp.perl.hip.com/ >[Image]</A> <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/CurrentBuild/rel107.txt>107 release notes</A> | <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/CurrentBuild/107-i86.zip >i86 Release Binary</A> | <BR>
+11,13d10
+< <P>
+< <A HREF=http://www.microsoft.com/showcase/intpdc/default.htm>Come see us at Microsoft's IPDC</A><BR>
+< Where we will be showing our <A HREF="http://www.perl.hip.com/webkit/default.htm">hip web kit</A> . [Image]
+=== Mon, 11 Mar 1996 06:36:43 GMT
+1c1,15
+< 
+---
+> [ Title: Perl for Win32 ]
+> <P>
+> [Image] | [ Image: Cool graphics of a camel ]
+> |
+> <P>
+> <A HREF=ftp://ftp.perl.hip.com/ >[Image]</A> <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/rel105.txt>105 release notes</A> | <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/105-i86.zip >i86 Release Binary</A> | <A HREF=ftp://ftp.perl.hip.com/ntperl/perl5.001m/PerlIS-104.zip >PerlIS.dll</A><BR>
+> <A HREF=http://www.perl.hip.com/bugreport.html>[Image]</A> <A HREF=http://www.perl.hip.com/bugreport.html>Report</A> bugs with our online form <BR>
+> <A HREF=http://www.perl.hip.com/man-pages/ntperl5.htm>[Image]</A> Browse our online documentation: <A HREF=http://www.perl.hip.com/man-pages/ntperl5.htm>perl for win32</A> <A HREF=http://www.perl.hip.com/PerlIS.htm>PerlIS.dll</A> | <BR>
+> <A HREF=http://www.perl.hip.com/PerlFaq.htm>[Image]</A> View the faq for <A HREF=http://www.perl.hip.com/PerlFaq.htm>Perl for Win32</A> |
+> <P> [Input] [Input] to join or quit the mailing lists
+> <P>
+> <A HREF=http://www.microsoft.com/showcase/intpdc/default.htm>Come see us at Microsoft's IPDC</A><BR>
+> Where we will be showing our <A HREF="http://www.perl.hip.com/webkit/default.htm">hip web kit</A> . [Image]
+> <P> [Image]
+> <P> hip communications inc #350-1122 Mainland • Vancouver, B.C. (604) 606-4600

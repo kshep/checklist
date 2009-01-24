@@ -1,0 +1,160 @@
+=== Mon, 15 Jul 1996 01:34:45 GMT
+2,4c2,4
+< <P><A HREF="http://www.sun.com/960416/homepage.4-19.map">[ Image: Highly graphic homepage ]</A>
+< Register for SunSoft <A HREF="http://www.sun.com/sunsoft/events/tech.html">Developers Conference</A> | Boston, MA - May 15-16 <BR>
+< Sun Microsystems <A HREF="http://www.sun.com/960416/index.textonly.html">text-only</A> home page. A <A HREF="http://www.sun.com/960416/index.java.html">java</A> version of the home page.
+---
+> <P><A HREF="http://www.sun.com/960710/homepage.map">[ Image: Highly graphic homepage ]</A> |
+> Sun Unveils <A HREF=http://www.sun.com/netra-nfs/index.html>New Netra NFS Server</A> | |
+> <P> Sun Microsystems <A HREF="http://www.sun.com/960710/index.textonly.html">text-only</A> home page.
+=== Wed, 24 Apr 1996 20:35:09 GMT
+2c2
+< <P><A HREF="http://www.sun.com/960416/homepage.4-16.map">[ Image: Highly graphic homepage ]</A>
+---
+> <P><A HREF="http://www.sun.com/960416/homepage.4-19.map">[ Image: Highly graphic homepage ]</A>
+=== Fri, 19 Apr 1996 19:23:36 GMT
+2c2,4
+< <P><A HREF="http://www.sun.com/960301/homepage.960301.map">[ Image: Highly graphic homepage ]</A> | Sun Microsystems <A HREF="http://www.sun.com/960301/index.textonly.html">text-only</A> home page. A <A HREF="http://www.sun.com/960301/index.nojava.html">java-less</A> version of the home page.
+---
+> <P><A HREF="http://www.sun.com/960416/homepage.4-16.map">[ Image: Highly graphic homepage ]</A>
+> Register for SunSoft <A HREF="http://www.sun.com/sunsoft/events/tech.html">Developers Conference</A> | Boston, MA - May 15-16 <BR>
+> Sun Microsystems <A HREF="http://www.sun.com/960416/index.textonly.html">text-only</A> home page. A <A HREF="http://www.sun.com/960416/index.java.html">java</A> version of the home page.
+=== Wed, 13 Mar 1996 19:14:53 GMT
+1c1,3
+< [ Title: NetDay '96 - A High Tech Barn Raising ]
+---
+> [ Title: Sun Microsystems ]
+> <P><A HREF="http://www.sun.com/960301/homepage.960301.map">[ Image: Highly graphic homepage ]</A> | Sun Microsystems <A HREF="http://www.sun.com/960301/index.textonly.html">text-only</A> home page. A <A HREF="http://www.sun.com/960301/index.nojava.html">java-less</A> version of the home page.
+> <P> Questions or comments regarding this service? <A HREF="http://www.sun.com/cgi-bin/comment-form.pl">webmaster@sun.com</A>
+3,58c5
+< <A HREF="http://www.sun.com/cgi-bin/imagemap/share/images/navbar1.whatshappening.lightpurple.580x43.map">[ Image: Navigation Bar ]</A>
+< <P> |
+< <P>
+< [ Image: NetDay 96 Logo ] | <BR>
+< | | [ Image: pencil Logo ] | <BR>
+< | |
+< <P> NetDay '96 is a milestone in the ongoing efforts to get California's schools connected to the Internet. On March 9, 1996 thousands of volunteers across the state are going to gather at their local schools to install the network wiring that is a key component of Internet Connectivity. <BR>
+< <A HREF=http://www.netday96.com/>[ Image: netday logo ] | | Volunteer Now!</A> |
+< <P> Volunteer for NetDay!
+< <P> NetDay '96 is an effort to enable parents, students, teachers and the community to make schools' access to the Internet a reality. Organized almost entirely on the Internet, NetDay has no offices and no bosses. Sign up at the NetDay World Wide Web Site, and help your school get Internet ready.
+< <P>* Access the NetDay Web site <A HREF=http://www.netday96.com>at http://www.netday96.com</A> . Check out the <A HREF=http://www.netday96.com/information/faq.html>FAQ (Frequently Asked Questions)</A> for detailed information on how NetDay works.
+< <P>* Search the <A HREF=http://www.netday96.com/map>map</A> or the school listing, and locate a school that needs your help.
+< <P>* Sign up as a <A HREF=http://www.netday96.com/netday/def.html>Volunteer, an Organizer or Sponsor</A> , and indicate your level of skills and participation.
+< <P>* Organizers who volunteer for each school will contact the Volunteers listed on the school's home page, and assess the resources of the group and the requirements of the school. The <A HREF=http://www.sun.com/www.netday96.com/marketplace/>NetDay Marketplace</A> lists the available donated resources.
+< <P>* Sponsor a school by donating the cost of a wiring kit.
+< <P>* Access the online <A HREF=http://www.netday96.com/btw/>Cable Installation Guide</A> which comes complete with a step-by-step procedure, a <A HREF=http://www.netday96.com/btw/glossary.html>Glossary of terms</A> , and a place to <A HREF=http://www.netday96.com/btw/TOCfinishing.html>post the results of your work</A> .
+< <P>* March 9th - Show up at the school for which you volunteered. | (Some locations may choose an alternate day.)
+< <P>
+< <A HREF=http://www.sun.com/interview.html>[ Image: ? ] | NetDay Close Up.</A> | An Interview with John Gage, Sun's Chief Scientist |
+< <P> What's in this story:
+< <P>* <A HREF=http://www.sun.com/interview.html>An Interview with John Gage</A> , Sun's Chief Scientist</A>
+< <BR>* <A HREF=http://www.sun.com#endorse>NetDay '96 Endorsements</A>
+< <BR>* <A HREF=http://www.sun.com#site>The NetDay '96 Web Site</A>
+< <BR>* <A HREF=http://www.sun.com#gateway>Sun Helps Wire the Silicon Valley - The Open Gateways Program</A>
+< <BR>* <A HREF=http://www.sun.com#pilot>Pilot School projects</A> - Proving the Volunteer Concept
+< <P>
+< &nbsp; | <A name=endorse><P> Who is Endorsing NetDay '96 ?
+< <P></A> Check out the complete list of <A HREF=http://www.netday96.com/Endorsements>Endorsments</A> by politicians, educational, corporate and civic leaders from Bill Clinton to Delain Eastin, the Superintendent of Public Instruction for the State of California.
+< <P> We hope to see each and every endorser out pulling wire on March 9th! <BR>
+< &nbsp; | <A name=site><P> The NetDay Website - hosted by KQED, The Well, and Sun
+< <P></A> As a co-founder of NetDay, KQED's Michael Kaufman has been instrumental in getting the NetDay web site running, and in publicizing the NetDay event on regional media. <A HREF=http://www.kqed.org/>KQED radio</A> in San Francisco is providing webmaster services for the NetDay '96 site. <A HREF=http://www.well.com/>The Well</A> is providing Internet connectivity.
+< <P><A name=connectivity><P> What is Internet Connectivity?
+< <P></A> To go "online" a school needs not only computers installed in the classroom or lab, but must also have wiring in the building that leads to the interface to the phone company or other Internet Service Provider. While many schools can get access to computers, and Internet Access providers have offered cheap or free internet connection, schools still don't have the wiring to connect the two.
+< <P> Schools and School Districts are coming online every day with technical and resource information to support NetDay '96. A few of interest are: | <A HREF=http://www.ousd.k12.ca.us/>Oakland Unified School District</A> | <A HREF=http://www.slocs.k12.ca.us/calpage1.htm>California school districts (42)</A> on the Web | <A HREF=http://www.mste.uiuc.edu/k12/k12.html>National listing of K-12 School Home pages</A> | <A HREF=http://www.netday96.com/Information/sites.html>Educational Resource Web sites</A> courtesy NetDay '96 | <BR>
+< &nbsp; |
+< <P> Category 5 Wire?? ...huh?
+< <P> Category 5 Wire is the standard for network installation for today's corporate networks. It is easy work with, and can be cut to length and installed in very tight spaces. Easily installed modular jacks allow you to just plug into computer or network interface.
+< <P> Inexpensive at up to $.10 per foot, this cable is capable of carrying the higher speed traffic required for an acceptable level of performance on the Internet. This is the wiring that comes as a part of the <A HREF=http://www.netday96.com/kits/kitlist.html>NetDay Wiring Kit</A>
+< <P> The <A HREF=http://www.netday96.com/btw/>Cable Installation Guide</A> is a complete step-by-step procedure for installing the Category 5 wiring.
+< <P>
+< <A HREF=http://www.svi.org/netday/>[ Image: Smart Valley logo ] | Smart Schools</A> | <A name=gateway><P> Sun Helps Wire the Silicon Valley - <A HREF=http://www.sun.com/corporateoverview/CorporateAffairs/ogp_home.html>The Open Gateways Program</A>
+< <P></A> Through Sun's
+< Open Gateways
+< program, Sun participates in the San Jose Educational Network, and the <A HREF=http://www.svi.org/netday/>Smart Schools project</A> of Smart Valley. This project has commitments from individuals and over <A HREF=http://www.svi.org/netday/company/partic.html>60 companies</A> to wire over <A HREF=http://www.svi.org/netday/schools/participating.html>100 Silicon Valley schools</A> to the Internet on March 9, 1996.
+< <P> [ Image: Scott McNealy with students ]
+< <P> Here Scott McNealy is shown with students accessing the Internet at Worldwide Volunteer Week - Arundel Elementary School, San Carlos, California .
+< <P>
+< <A HREF=http://www.sjen.org/>[ Image: San Jose Educational Network logo ] | San Jose Educational Network</A> | <A name=pilot><P> Pilot School projects
+< <P></A> Pilot School projects prove that volunteers can be trained and successfully wire a school in a single day. Check out the complete list of Smart Valley <A HREF=http://www.svi.org/netday/schools/pilots.html>Pilot Schools</A> . These schools, wired prior to March 9th are an excellent opportunity to see how it is done and to get some experience for your school.
+< <P> [ Image: Wiring at Andrew Hill High ]
+< <P> At schools like Andrew Hill High School in San Jose, California , Sun volunteers work with parents, teachers, students, and the local communinty to get the basic wiring in place.
+< <P>
+< [ Image: Solaris Logo ] <A HREF="http://www.sun.com/960301/whatshappening.html">W H A T' S H A P P E N I N G</A> | 
+< <P> Questions or comments regarding this site? <A HREF="http://www.sun.com/cgi-bin/comment-form.pl">webmaster@sun.com</A>
+< <P>
+< <A HREF="http://www.sun.com/share/text/SMIcopyright.html">Copyright</A> 1996 Sun Microsystems, Inc. All Rights Reserved. 
+---
+> <A HREF="http://www.sun.com/share/text/SMIcopyright.html">Copyright</A> 1996 Sun Microsystems, Inc., 2550 Garcia Ave., Mtn. View, Ca 94043-1100 USA. All Rights Reserved 
+=== Wed, 13 Mar 1996 02:19:43 GMT
+1,3c1
+< [ Title: Sun Microsystems ]
+< <P><A HREF="http://www.sun.com/960301/homepage.960301.map">[ Image: Highly graphic homepage ]</A> | Sun Microsystems <A HREF="http://www.sun.com/960301/index.textonly.html">text-only</A> home page.
+< <P> Questions or comments regarding this service? <A HREF="http://www.sun.com/cgi-bin/comment-form.pl">webmaster@sun.com</A>
+---
+> [ Title: NetDay '96 - A High Tech Barn Raising ]
+5c3,58
+< <A HREF="http://www.sun.com/share/text/SMIcopyright.html">Copyright</A> 1996 Sun Microsystems, Inc., 2550 Garcia Ave., Mtn. View, Ca 94043-1100 USA. All Rights Reserved 
+---
+> <A HREF="http://www.sun.com/cgi-bin/imagemap/share/images/navbar1.whatshappening.lightpurple.580x43.map">[ Image: Navigation Bar ]</A>
+> <P> |
+> <P>
+> [ Image: NetDay 96 Logo ] | <BR>
+> | | [ Image: pencil Logo ] | <BR>
+> | |
+> <P> NetDay '96 is a milestone in the ongoing efforts to get California's schools connected to the Internet. On March 9, 1996 thousands of volunteers across the state are going to gather at their local schools to install the network wiring that is a key component of Internet Connectivity. <BR>
+> <A HREF=http://www.netday96.com/>[ Image: netday logo ] | | Volunteer Now!</A> |
+> <P> Volunteer for NetDay!
+> <P> NetDay '96 is an effort to enable parents, students, teachers and the community to make schools' access to the Internet a reality. Organized almost entirely on the Internet, NetDay has no offices and no bosses. Sign up at the NetDay World Wide Web Site, and help your school get Internet ready.
+> <P>* Access the NetDay Web site <A HREF=http://www.netday96.com>at http://www.netday96.com</A> . Check out the <A HREF=http://www.netday96.com/information/faq.html>FAQ (Frequently Asked Questions)</A> for detailed information on how NetDay works.
+> <P>* Search the <A HREF=http://www.netday96.com/map>map</A> or the school listing, and locate a school that needs your help.
+> <P>* Sign up as a <A HREF=http://www.netday96.com/netday/def.html>Volunteer, an Organizer or Sponsor</A> , and indicate your level of skills and participation.
+> <P>* Organizers who volunteer for each school will contact the Volunteers listed on the school's home page, and assess the resources of the group and the requirements of the school. The <A HREF=http://www.sun.com/www.netday96.com/marketplace/>NetDay Marketplace</A> lists the available donated resources.
+> <P>* Sponsor a school by donating the cost of a wiring kit.
+> <P>* Access the online <A HREF=http://www.netday96.com/btw/>Cable Installation Guide</A> which comes complete with a step-by-step procedure, a <A HREF=http://www.netday96.com/btw/glossary.html>Glossary of terms</A> , and a place to <A HREF=http://www.netday96.com/btw/TOCfinishing.html>post the results of your work</A> .
+> <P>* March 9th - Show up at the school for which you volunteered. | (Some locations may choose an alternate day.)
+> <P>
+> <A HREF=http://www.sun.com/interview.html>[ Image: ? ] | NetDay Close Up.</A> | An Interview with John Gage, Sun's Chief Scientist |
+> <P> What's in this story:
+> <P>* <A HREF=http://www.sun.com/interview.html>An Interview with John Gage</A> , Sun's Chief Scientist</A>
+> <BR>* <A HREF=http://www.sun.com#endorse>NetDay '96 Endorsements</A>
+> <BR>* <A HREF=http://www.sun.com#site>The NetDay '96 Web Site</A>
+> <BR>* <A HREF=http://www.sun.com#gateway>Sun Helps Wire the Silicon Valley - The Open Gateways Program</A>
+> <BR>* <A HREF=http://www.sun.com#pilot>Pilot School projects</A> - Proving the Volunteer Concept
+> <P>
+> &nbsp; | <A name=endorse><P> Who is Endorsing NetDay '96 ?
+> <P></A> Check out the complete list of <A HREF=http://www.netday96.com/Endorsements>Endorsments</A> by politicians, educational, corporate and civic leaders from Bill Clinton to Delain Eastin, the Superintendent of Public Instruction for the State of California.
+> <P> We hope to see each and every endorser out pulling wire on March 9th! <BR>
+> &nbsp; | <A name=site><P> The NetDay Website - hosted by KQED, The Well, and Sun
+> <P></A> As a co-founder of NetDay, KQED's Michael Kaufman has been instrumental in getting the NetDay web site running, and in publicizing the NetDay event on regional media. <A HREF=http://www.kqed.org/>KQED radio</A> in San Francisco is providing webmaster services for the NetDay '96 site. <A HREF=http://www.well.com/>The Well</A> is providing Internet connectivity.
+> <P><A name=connectivity><P> What is Internet Connectivity?
+> <P></A> To go "online" a school needs not only computers installed in the classroom or lab, but must also have wiring in the building that leads to the interface to the phone company or other Internet Service Provider. While many schools can get access to computers, and Internet Access providers have offered cheap or free internet connection, schools still don't have the wiring to connect the two.
+> <P> Schools and School Districts are coming online every day with technical and resource information to support NetDay '96. A few of interest are: | <A HREF=http://www.ousd.k12.ca.us/>Oakland Unified School District</A> | <A HREF=http://www.slocs.k12.ca.us/calpage1.htm>California school districts (42)</A> on the Web | <A HREF=http://www.mste.uiuc.edu/k12/k12.html>National listing of K-12 School Home pages</A> | <A HREF=http://www.netday96.com/Information/sites.html>Educational Resource Web sites</A> courtesy NetDay '96 | <BR>
+> &nbsp; |
+> <P> Category 5 Wire?? ...huh?
+> <P> Category 5 Wire is the standard for network installation for today's corporate networks. It is easy work with, and can be cut to length and installed in very tight spaces. Easily installed modular jacks allow you to just plug into computer or network interface.
+> <P> Inexpensive at up to $.10 per foot, this cable is capable of carrying the higher speed traffic required for an acceptable level of performance on the Internet. This is the wiring that comes as a part of the <A HREF=http://www.netday96.com/kits/kitlist.html>NetDay Wiring Kit</A>
+> <P> The <A HREF=http://www.netday96.com/btw/>Cable Installation Guide</A> is a complete step-by-step procedure for installing the Category 5 wiring.
+> <P>
+> <A HREF=http://www.svi.org/netday/>[ Image: Smart Valley logo ] | Smart Schools</A> | <A name=gateway><P> Sun Helps Wire the Silicon Valley - <A HREF=http://www.sun.com/corporateoverview/CorporateAffairs/ogp_home.html>The Open Gateways Program</A>
+> <P></A> Through Sun's
+> Open Gateways
+> program, Sun participates in the San Jose Educational Network, and the <A HREF=http://www.svi.org/netday/>Smart Schools project</A> of Smart Valley. This project has commitments from individuals and over <A HREF=http://www.svi.org/netday/company/partic.html>60 companies</A> to wire over <A HREF=http://www.svi.org/netday/schools/participating.html>100 Silicon Valley schools</A> to the Internet on March 9, 1996.
+> <P> [ Image: Scott McNealy with students ]
+> <P> Here Scott McNealy is shown with students accessing the Internet at Worldwide Volunteer Week - Arundel Elementary School, San Carlos, California .
+> <P>
+> <A HREF=http://www.sjen.org/>[ Image: San Jose Educational Network logo ] | San Jose Educational Network</A> | <A name=pilot><P> Pilot School projects
+> <P></A> Pilot School projects prove that volunteers can be trained and successfully wire a school in a single day. Check out the complete list of Smart Valley <A HREF=http://www.svi.org/netday/schools/pilots.html>Pilot Schools</A> . These schools, wired prior to March 9th are an excellent opportunity to see how it is done and to get some experience for your school.
+> <P> [ Image: Wiring at Andrew Hill High ]
+> <P> At schools like Andrew Hill High School in San Jose, California , Sun volunteers work with parents, teachers, students, and the local communinty to get the basic wiring in place.
+> <P>
+> [ Image: Solaris Logo ] <A HREF="http://www.sun.com/960301/whatshappening.html">W H A T' S H A P P E N I N G</A> | 
+> <P> Questions or comments regarding this site? <A HREF="http://www.sun.com/cgi-bin/comment-form.pl">webmaster@sun.com</A>
+> <P>
+> <A HREF="http://www.sun.com/share/text/SMIcopyright.html">Copyright</A> 1996 Sun Microsystems, Inc. All Rights Reserved. 
+=== Mon, 11 Mar 1996 06:35:55 GMT
+0a1,5
+> [ Title: Sun Microsystems ]
+> <P><A HREF="http://www.sun.com/960301/homepage.960301.map">[ Image: Highly graphic homepage ]</A> | Sun Microsystems <A HREF="http://www.sun.com/960301/index.textonly.html">text-only</A> home page.
+> <P> Questions or comments regarding this service? <A HREF="http://www.sun.com/cgi-bin/comment-form.pl">webmaster@sun.com</A>
+> <P>
+> <A HREF="http://www.sun.com/share/text/SMIcopyright.html">Copyright</A> 1996 Sun Microsystems, Inc., 2550 Garcia Ave., Mtn. View, Ca 94043-1100 USA. All Rights Reserved 

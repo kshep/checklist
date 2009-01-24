@@ -1,0 +1,6 @@
+#!/bin/csh
+
+echo "Deleting users $1"
+rm -r $1
+#rm -r data/$1
+echo "Account ready"

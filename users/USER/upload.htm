@@ -1,0 +1,76 @@
+<HTML>
+<HEAD>
+<TITLE>CheckList - Upload a Hotlist</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF TEXT=#000000>
+
+<!---------------------------------------------------------------------->
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+
+<TR><TD ALIGN=CENTER COLSPAN=2><IMG SRC="/~kens/images/logo.gif"></TD></TR>
+
+<TR><TD ALIGN=LEFT VALIGN=BOTTOM><FONT SIZE=+1>
+<A HREF="/~kens/cgi-bin/changed.pl?user=USER">Changed Pages</A> |
+<A HREF="/~kens/cgi-bin/list.pl?user=USER">Page List</A>
+</FONT></TD>
+
+<TD ALIGN=RIGHT VALIGN=BOTTOM><FONT SIZE=+1>
+<STRONG><A HREF="/~kens/users/USER/manage.htm">Manage List</A></STRONG> |
+<A HREF="/~kens/users/USER/prefs.htm">Preferences</A> |
+<A HREF="/~kens/users/USER/index.htm">Home</A>
+</FONT></TD></TR>
+
+<TR><TD ALIGN=CENTER COLSPAN=2><IMG SRC="/~kens/images/line.gif"></TD></TR></TABLE>
+<!---------------------------------------------------------------------->
+<P>
+<CENTER><FONT SIZE=+1>
+<A HREF="/~kens/users/USER/add.htm">Add a Link</A> |
+<A HREF="/~kens/cgi-bin/delete.pl?user=USER">Delete Link</A> |
+<A HREF="/~kens/cgi-bin/edit.pl?user=USER">Edit Link</A> |
+<STRONG>Upload a Hotlist</STRONG>
+</FONT></CENTER>
+<!---------------------------------------------------------------------->
+
+<P>
+If you're using Netscape 2.0, you can automatically add any of the items
+on your Netscape hotlist to your CheckList.
+<P>
+First you'll need to upload the file called "bookmarks.htm" from the
+Netscape directory on your computer. Once you've uploaded the file,
+CheckList will show you a list of the links in your bookmark file and
+let you choose which bookmarks you want to add to your CheckList.
+<P>
+Enter the full path to your bookmark file (or click on <EM>Browse...</EM> 
+to find the file) then click on <EM>Upload File</EM>.
+<P>
+
+<FORM ENCTYPE="multipart/form-data" ACTION="/~kens/cgi-bin/upload.pl" METHOD=POST>
+<INPUT TYPE="hidden" NAME="user" VALUE="USER">
+
+<CENTER>
+<TABLE BORDER=0 CELLPADDING=5 CELLSPACING=0>
+
+<TR>
+<TD ALIGN=RIGHT><STRONG>Name of file</STRONG></TD>
+<TD><INPUT TYPE="file" NAME="file"></TD>
+</TR>
+<TR><TD COLSPAN=2 ALIGN=CENTER>
+<INPUT TYPE="submit" VALUE="Upload File">
+</TD></TR>
+</TABLE>
+</CENTER>
+</FORM>
+<P>
+
+<HR><!---------------------------------------------------------------------->
+<CENTER>
+<FONT SIZE=-1>
+<ADDRESS>
+Copyright &#169; 1996, Ken Sheppardson. All rights reserved.
+Send questions to <A HREF="mailto:kens@aimnet.com">kens@aimnet.com</A>
+</ADDRESS>
+</CENTER>
+</BODY>
+</HTML>
+

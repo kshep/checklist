@@ -1,0 +1,107 @@
+=== Mon, 15 Jul 1996 01:35:05 GMT
+10c10
+< <A HREF="http://www.msen.com/business.html">Msen MarketPlace</A> | <A HREF="http://www.msen.com/customers.html">Msen Customer Home Pages</A> | <A HREF="http://www.msen.com/interesting.html">Other Web Servers of Interest</A> | <A HREF="http://www.msen.com/search.html">Finding information on the Net</A> | <A HREF="http://www.msen.com/directions.html">directions to Msen World Headquarters</A> | <A HREF="http://www.msen.com/http:ervpage.html">Msen Subscriber Services</A> |
+---
+> <A HREF="http://ww1.msen.com/business.html">Msen MarketPlace</A> | <A HREF="http://www.msen.com/customers.html">Msen Customer Home Pages</A> | <A HREF="http://www.msen.com/interesting.html">Other Web Servers of Interest</A> | <A HREF="http://www.msen.com/search.html">Finding information on the Net</A> | <A HREF="http://www.msen.com/directions.html">directions to Msen World Headquarters</A> | <A HREF="http://www.msen.com/http:ervpage.html">Msen Subscriber Services</A> |
+14c14
+< If you don't have an Msen account, you can send mail to <A HREF="mailto:info@msen.com">info@msen.com</A> to receive automatic email containing our info packet of our account information, or check here for our <A HREF="http://www.msen.com/http:rices/servindex.html">prices</A> , and an <A HREF="http://www.msen.com/http:rices/actinfo.html">order form.</A>
+---
+> If you don't have an Msen account, you can send mail to <A HREF="mailto:info@msen.com">info@msen.com</A> to receive automatic email containing our info packet of our account information, or check here for our <A HREF="http://www.msen.com/http:rices/servindex.html">prices</A> , and an <A HREF="http://www.msen.com/http:rices/orderform.html">order form.</A>
+15a16,18
+> Kali game server <BR>
+> Msen has added a network game server for IPX games like Doom and Command & Conquer. This is on a seperate machine, so as to not slow other services. See <A HREF="http://www.msen.com/kali">Msen's Kali Webpage</A> for more details.
+> <P>
+20c23
+< As bugs and viruses for various operating systems and programs affect our customers, we now have a known bug <A HREF="http://www.msen.com/bugs.html">page</A> . If you have a bug or virus to report, send mail to <A HREF="mailto:jmh@mail.msen.com">Jeff Haas</A> , the maintainer of this page.
+---
+> As bugs and viruses for various operating systems and programs affect our customers, we now have a known bug <A HREF="http://www.msen.com/bugs.html">page</A> . If you have a bug or virus to report, send mail to <A HREF="mailto:bugs@mail.msen.com">bugs@mail.msen.com</A> .
+21a25,27
+> Update! <BR>
+> Microsoft has documented a bug in the Windows 95 kernel affecting socket activity. If your system locks up or behaves strangely after using the Internet, check out this <A HREF="http://www.msen.com/~jmh/krnlupd.htm">link</A> .
+> <P>
+35c41
+< Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A> | (Last updated: $Date: 1996/04/22 16:18:50 $)
+---
+> Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A> | (Last updated: $Date: 1996/06/10 19:17:29 $)
+=== Wed, 24 Apr 1996 20:37:03 GMT
+19,21c19,20
+< Netscape "Daylight Savings Time" bug found <BR>
+< A bug has been found in the popular Netscape Navigtor web browser. This bug affects updates to "cached" documents. A cached document may not be updated as Netscape may think the current version is in the cache.
+< <P> See the Clarinet <A HREF="http://www.msen.com/netscape.bug">article</A> for further details.
+---
+> Known bugs and viruses <BR>
+> As bugs and viruses for various operating systems and programs affect our customers, we now have a known bug <A HREF="http://www.msen.com/bugs.html">page</A> . If you have a bug or virus to report, send mail to <A HREF="mailto:jmh@mail.msen.com">Jeff Haas</A> , the maintainer of this page.
+36c35
+< Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A> | (Last updated: $Date: 1996/04/17 17:40:26 $)
+---
+> Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A> | (Last updated: $Date: 1996/04/22 16:18:50 $)
+=== Fri, 19 Apr 1996 19:24:53 GMT
+5,6d4
+< <P><A HREF="http://www.msen.com/http:ey.html"><P> HEY! Where are the pictures!?!</A>
+< <P> Our Home Page was black for 48 hours to protest the limitation of free speech clauses that were passed with the <A HREF="http://www.msen.com/~steve/telecom.html">Telecommunications Act of 1996</A> . This is an extremely serious issue- we urge you to review the Act, and take whatever legal protest measures you feel are appropriate.
+8,10d5
+< <A HREF="http://www.eff.org/blueribbon.html">[ Image: blue ribbon gif ]</A>
+< Also check out the Electronic Frontier Foundation's ( <A HREF="http://www.eff.org">EFF</A> ) Ribbon <A HREF="http://www.eff.org/blueribbon.html">Campaign</A> to raise awareness of these issues.
+< <P>
+18,21d12
+< Awards <BR>
+< <A HREF="http://www.mckinley.com/">[ Image: 3=star award ]</A>
+< | We are proud to announce that our site has been selected by The McKinley Group as a "3-Star" site. Follow some of our links to find out why!
+< <P>
+23,24c14
+< If you don't have an Msen account, you can send mail to <A HREF="mailto:info@msen.com">info@msen.com</A> to get back our automatically mailed info packet containing our account information, or check here for our <A HREF="http://www.msen.com/http:rices/servindex.html">prices</A> , and an <A HREF="http://www.msen.com/http:rices/actinfo.html">order form.</A>
+< <P> If you got this page when you were expecting another company or organization, here are some reasons <A HREF="http://www.msen.com/http:ages/whymsen.html">why</A> .
+---
+> If you don't have an Msen account, you can send mail to <A HREF="mailto:info@msen.com">info@msen.com</A> to receive automatic email containing our info packet of our account information, or check here for our <A HREF="http://www.msen.com/http:rices/servindex.html">prices</A> , and an <A HREF="http://www.msen.com/http:rices/actinfo.html">order form.</A>
+26c16,36
+< Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A>
+---
+> ISDN! <BR>
+> MSEN is now proud to offer <A HREF="http://www.msen.com/isdn2.html">ISDN</A> service in the Troy area. ISDN service is coming soon to both Ann Arbor and Southfield.
+> <P>
+> Netscape "Daylight Savings Time" bug found <BR>
+> A bug has been found in the popular Netscape Navigtor web browser. This bug affects updates to "cached" documents. A cached document may not be updated as Netscape may think the current version is in the cache.
+> <P> See the Clarinet <A HREF="http://www.msen.com/netscape.bug">article</A> for further details.
+> <P>
+> Awards 
+> <P>
+> <A HREF="http://www.mckinley.com/">[ Image: 3 star award ]</A> <A HREF=http://www.2ask.com/cgibin/2ask_Best_of_the_WEB_Award/>[ Image: [ 2ask Best of the Web Award ] ]</A> <A HREF=http://www.2ask.com/cgibin/2ask_Best_of_the_WEB_Award/></A> | B EST O F T HE | P LANET A WARD 
+> <P> | Our site has been selected by <A HREF="http://www.mckinley.com/">The McKinley Group</A> as a "3-Star" site and by <A HREF="http://www.2ask.com">2ask.com</A> as a "Best web site on the planet". Follow some of our links to find out why!
+> <P> If you got this page when you were expecting another company or organization, here are some reasons <A HREF="http://empty-web.aa.msen.com/index.html">why</A> .
+> <P>
+> <A HREF="http://www.msen.com/http:ey.html"><P> HEY! Where are the pictures!?!
+> <P></A>
+> <P> Our Home Page was black for 48 hours to protest the limitation of free speech clauses that were passed with the <A HREF="http://www.msen.com/~steve/telecom.html">Telecommunications Act of 1996</A> . This is an extremely serious issue- we urge you to review the Act, and take whatever legal protest measures you feel are appropriate.
+> <P>
+> <A HREF="http://www.eff.org/blueribbon.html">[ Image: blue ribbon gif ]</A>
+> Also check out the Electronic Frontier Foundation's ( <A HREF="http://www.eff.org">EFF</A> ) Ribbon <A HREF="http://www.eff.org/blueribbon.html">Campaign</A> to raise awareness of these issues.
+> <P>
+> Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A> | (Last updated: $Date: 1996/04/17 17:40:26 $)
+=== Mon, 11 Mar 1996 06:36:29 GMT
+0a1,26
+> [ Title: Msen Home Page ]
+> <P> Welcome to [ Image: Msen ] !
+> <P>
+> This is a World Wide Web service operated by Msen, Inc.
+> <P><A HREF="http://www.msen.com/http:ey.html"><P> HEY! Where are the pictures!?!</A>
+> <P> Our Home Page was black for 48 hours to protest the limitation of free speech clauses that were passed with the <A HREF="http://www.msen.com/~steve/telecom.html">Telecommunications Act of 1996</A> . This is an extremely serious issue- we urge you to review the Act, and take whatever legal protest measures you feel are appropriate.
+> <P>
+> <A HREF="http://www.eff.org/blueribbon.html">[ Image: blue ribbon gif ]</A>
+> Also check out the Electronic Frontier Foundation's ( <A HREF="http://www.eff.org">EFF</A> ) Ribbon <A HREF="http://www.eff.org/blueribbon.html">Campaign</A> to raise awareness of these issues.
+> <P>
+> About us <BR>
+> Msen has been providing <A HREF="http://www.msen.com/http:efinition.html">Internet</A> services since 1991. We offer a full range of connectivity, presence and consulting <A HREF="http://www.msen.com/http:rices/servindex.html">services</A> .
+> <P> MSEN is the home for a number of information resources. We helped pioneer personal Internet connectivity, and had the first <A HREF="http://www.hamjudo.com/cgi-bin/hottub">hottub</A> on the net!
+> <P>
+> <A HREF="http://www.msen.com/business.html">Msen MarketPlace</A> | <A HREF="http://www.msen.com/customers.html">Msen Customer Home Pages</A> | <A HREF="http://www.msen.com/interesting.html">Other Web Servers of Interest</A> | <A HREF="http://www.msen.com/search.html">Finding information on the Net</A> | <A HREF="http://www.msen.com/directions.html">directions to Msen World Headquarters</A> | <A HREF="http://www.msen.com/http:ervpage.html">Msen Subscriber Services</A> |
+> <P> We now provide a <A HREF="http://www.msen.com/info1996.html">historical log</A> of issues significant to Msen customers.
+> <P>
+> Awards <BR>
+> <A HREF="http://www.mckinley.com/">[ Image: 3=star award ]</A>
+> | We are proud to announce that our site has been selected by The McKinley Group as a "3-Star" site. Follow some of our links to find out why!
+> <P>
+> Getting Online! <BR>
+> If you don't have an Msen account, you can send mail to <A HREF="mailto:info@msen.com">info@msen.com</A> to get back our automatically mailed info packet containing our account information, or check here for our <A HREF="http://www.msen.com/http:rices/servindex.html">prices</A> , and an <A HREF="http://www.msen.com/http:rices/actinfo.html">order form.</A>
+> <P> If you got this page when you were expecting another company or organization, here are some reasons <A HREF="http://www.msen.com/http:ages/whymsen.html">why</A> .
+> <P>
+> Msen Home Page, Copyright &#169 1996 Msen, Inc. / [Image] / <A HREF="mailto:sales@mail.msen.com">sales@msen.com</A>

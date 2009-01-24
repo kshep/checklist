@@ -1,0 +1,12 @@
+#!/bin/csh
+
+cp -R USER $1
+echo "Setting up account for $1"
+perl -p -i.bak -e "s/USER/$1/; s/FULLNAME/$2/;" $1/*.htm
+rm $1/*.bak
+mkdir ../data/$1
+touch ../data/$1/check.lst
+
+chmod -R 777 $1
+chmod -R 777 ../data/$1
+echo "Account ready"

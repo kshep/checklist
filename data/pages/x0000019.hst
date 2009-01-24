@@ -1,0 +1,205 @@
+=== Fri, 19 Apr 1996 19:25:55 GMT
+1c1
+< [ Title: Efficient Frontier Corporation Internet Links ]
+---
+> [ Title: Efficient Frontier Index ]
+3,84c3,7
+< [ Image: efficient frontier logo ] |
+< <P><A NAME="Opinions">Opinions 
+< <P>* <A HREF="http://www.jpmorgan.com/MarketDataInd/Research/WebReport/page1.html">JP Morgan Report on the Web</A>
+< <BR>* <A HREF="http://www.gs.com/about/media/press/cybercommerce.html">Goldman Sachs Press Release on the Web and Cyberpublishing</A>
+< <BR>* <A HREF="http://www.economist.com/intro.htm">The Economist Internet Survey "The Accidental Superhighway"</A>
+< <BR>* <A HREF="http://www.ugcs.caltech.edu/~kluster/markoff.html">The New York Times on Mosaic, December 8, 1993</A>
+< <BR>* <A HREF="http://www.cnet.com/Content/Features/Quick/Andreessen/index.html">Mark Andreessen on the Web</A>
+< <BR>* <A HREF="http://www.microsoft.com/internet/downloads/bill.htm">Bill Gates and Microsoft's Internet Strategy (12/7/95)</A>
+< <BR>* <A HREF="http://nytsyn.com/live/Gates/229_081795_154223_7143.html">Bill Gates on the Internet (8/16/95)</A> <A NAME="Vital Statistics">Vital Statistics 
+< <P>* <A HREF="http://www.openmarket.com/diversions/internet-index/index.html">The Internet Index</A>
+< <BR>* <A HREF="http://www.netgen.com/info/growth.html">Measuring the Growth of the Web</A>
+< <BR>* <A HREF="http://www.ora.com/gnn/bus/ora/survey/charts/pop.html">Internet Survey: Size of U.S.Adult Online User Population</A>
+< <BR>* <A HREF="http://www.umich.edu/~sgupta/hermes/">Hermes Web Survey</A> <A NAME="Basics">Basics 
+< <P>* <A HREF="http://gopher.econ.lsa.umich.edu/FAQs/FAQs.html">FAQs About the Internet</A>
+< <BR>* <A HREF="http://www.next.com/WebObjects/History.html">A World Wide Web Chronology</A>
+< <BR>* <A HREF="http://www.eit.com/web/www.guide/guide.toc.html ">A Guide to Cyberspace</A>
+< <BR>* <A HREF="http://www.boutell.com/faq/">World Wide Web FAQ</A>
+< <BR>* <A HREF="http://www.matisse.net/files/glossary.html">Glossary of Internet Terms</A>
+< <BR>* <A HREF="http://www.eff.org/papers/eegtti/eeg_toc.html">EFF Extended Guide to the Internet</A> <A NAME="Hypertext Markup Language">Hypertext Markup Language 
+< <P>* <A HREF="http://www.ucc.ie/info/net/whatis.html">What is HTML?</A>
+< <BR>* <A HREF="http://www.ucc.ie/~pflynn/books/ch7-8.html">Introduction to HTML from The WorldWideWeb Handbook</A>
+< <BR>* <A HREF="http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html">A Beginner's Guide to HTML</A>
+< <BR>* <A HREF="http://www.webcom.com/~webcom/html/tutor/welcome.html">WebCom HTML Guide</A>
+< <BR>* <A HREF="http://www.ucc.ie/~pflynn/books/htmlcard.html">HTML Quick Reference Guide</A>
+< <BR>* <A HREF="http://oneworld.wa.com/htmldev/devpage/dev-page.html">WWW & HTML Developer's JumpStation</A>
+< <BR>* <A HREF="http://www.yahoo.com/Computers/World_Wide_Web/HTML_Editors/">HTML Editors</A>
+< <BR>* <A HREF="http://www.thecoo.edu/~menon/html.html">The Art of HTML</A> <A NAME="Developers' Resources">Developers' Resources 
+< <P>* <A HREF="http://WWW.Stars.com/Vlib/">The Web Developer's Virtual Library</A>
+< <BR>* <A HREF="http://www.unipress.com:80/weblint/">weblint HTML syntax checker</A>
+< <BR>* <A HREF="http://www.halsoft.com/html-val-svc/">HALSoft HTML Validation Service</A>
+< <BR>* <A HREF="http://www.yahoo.com/Computers_and_Internet/Internet/World_Wide_Web/HTTP/Servers/Surveys/">Web Server surveys</A>
+< <BR>* <A HREF="http://www-genome.wi.mit.edu/WWW/faqs/www-security-faq.html">Web Security FAQ</A>
+< <BR>* <A HREF="http://www.boutell.com/cgic/">cgic ANSI C library for CGI programming</A>
+< <BR>* <A HREF="http://www.io.org/~rasmus/">PHP HTML generator</A>
+< <BR>* <A HREF="http://www.publish.com/">Publish Magazine</A>
+< <BR>* <A HREF="http://www.infi.net/~rdralph/icons/">Images, Icons, & Backgrounds</A>
+< <BR>* <A HREF="http://www.pixelsight.com:80/PS/pixelsite/pixelsite.html">Pixelsite</A>
+< <BR>* <A HREF="http://www.meat.com/textures/">Texture Land</A>
+< <BR>* <A HREF="http://jasper.ora.com/compfont/ifa/query.htm">Internet Font Archive</A> <A NAME="Java">Java 
+< <P><A NAME="Sun Java resources">Sun Java resources 
+< <P>* <A HREF="http://java.sun.com/">Java: Programming for the Internet</A>
+< <BR>* <A HREF="http://java.sun.com/starter.html">Getting Started with Java</A>
+< <BR>* <A HREF="http://java.sun.com/whitePaper/java-whitepaper-1.html">The Java(tm) Language Environment: A White Paper</A>
+< <BR>* <A HREF="http://java.sun.com/doc.html">Java Documentation</A> <A NAME="Tutorials">Tutorials 
+< <P>* <A HREF="http://www.javasoft.com/tutorial/index.html">Trail Map: The Java Language Tutorial</A>
+< <BR>* <A HREF="http://sunsite.unc.edu/javafaq/javatutorial.html">Brewing Java: A Tutorial</A>
+< <BR>* <A HREF="http://www.well.com/user/yimmit/">Java lab</A> <A NAME="Other resources">Other resources 
+< <P>* <A HREF="http://sunsite.unc.edu/javafaq/javafaq.html">comp.lang.java FAQ</A>
+< <BR>* <A HREF="http://www.inch.com/~nyjava/">New York Java Study Group</A>
+< <BR>* <A HREF="http://users.aol.com/thingtone/workshop/index.htm">Thingtone's Java Workshop</A>
+< <BR>* <A HREF="http://www.aw.com/cp/javaseries.html">Java Books from Addison-Wesley</A>
+< <BR>* <A HREF="http://webrunner.neato.org/1.0alpha2/doc/javaspec/javaspec_1.html">The Java Language Specification</A>
+< <BR>* <A HREF="news:comp.lang.java">Newsgroup: comp.lang.java</A>
+< <BR>* <A HREF="http://www.io.org/~mentor/DigitalEspresso.html">Digital Espresso</A>
+< <BR>* <A HREF="http://sunsite.unc.edu/javafaq/">Cafe Au Lait</A>
+< <BR>* <A HREF="http://acsl.cs.uiuc.edu/~phelps/espresso/">Espresso</A>
+< <BR>* <A HREF="http://www.symantec.com/lit/dev/espressowp.html">Symantec Espresso(tm)</A>
+< <BR>* <A HREF="http://www.gamelan.com/">Gamelan</A>
+< <BR>* <A HREF="http://www.pennant.com/java/">Java WWW Forum</A>
+< <BR>* <A HREF="http://www.digitalfocus.com/digitalfocus/faq/index.html">The Java Developer</A> <A NAME="Java Hotlists">Java Hotlists 
+< <P>* <A HREF="http://www.yahoo.com/Computers_and_Internet/Languages/Java/">Yahoo - Computers and Internet:Languages:Java</A>
+< <BR>* <A HREF="http://www.digitalfocus.com/digitalfocus/faq/resources.html">The Java Developer: Resources</A>
+< <BR>* <A HREF="http://www.inch.com/~nyjava/java2.html">Java(tm) & Hot Java(tm)</A>
+< <BR>* <A HREF="http://mars.blackstar.com/">Black Star Public Java Compiler</A> <A NAME="Helper apps">Helper apps 
+< <P>* <A HREF="http://www.realaudio.com">RealAudio</A>
+< <BR>* <A HREF="http://www.xingtech.com/streams/index.html">StreamWorks</A>
+< <BR>* <A HREF="http://www.dspg.com/allplyr.htm">TrueSpeech</A>
+< <BR>* <A HREF="http://www.vdolive.com/require.htm">VDONet</A>
+< <BR>* <A HREF="http://quicktime.apple.com/">Quicktime</A>
+< <BR>* <A HREF="http://www.planeteers.com/index.htm">Digiphone</A>
+< <BR>* <A HREF="http://vocaltec.com/iphone.htm">VocalTec</A>
+< <BR>* <A HREF="http://www.adobe.com/">Acrobat/Amber</A>
+< <BR>* <A HREF="http://www.macromedia.com/">Shockwave</A>
+< <BR>* <A HREF="http://cu-seeme.cornell.edu/#CU-SeeMe">CU-SeeMe</A>
+< <BR>* <A HREF="http://www.tucows.com/tsoftware.html">The Ultimate Collection of Winsock Software</A>
+< <BR>* <A HREF="http://cwsapps.texas.net/">The Consummate Winsock Apps List</A>
+< <BR>* <A HREF="http://www.jumbo.com/">Shareware</A> <A NAME="Other References">Other References 
+< <P>* <A HREF="http://www.w3.org/hypertext/WWW/">World Wide Web Consortium</A>
+< <BR>* <A HREF="ftp://rtfm.mit.edu/pub/usenet/news.answers/internet-services/book-list">Internet Book List</A>
+< <BR>* <A HREF="http://thelist.com/">"The List" of Internet Providers</A>
+< <BR>* <A HREF="http://www.home.net/home2/screen.html">@Home Internet via Cable</A>
+< <BR>* <A HREF="http://www.eecs.nwu.edu/unix.html">Unix Reference Desk</A>
+---
+> [ Image: efficient frontier logo ]
+> <P> |
+> <P> Efficient Frontier Index
+> <P> This is the Efficient Frontier Index of Internet resources related to Wall Street, financial markets and investing. It provides easy access to all resources of interest to professional traders, investment managers, and securities analysts. We are committed to keeping it as comprehensive and up-to-date as possible. You can help us in this effort by <A HREF="http://www.efrontier.com/submit.html">submitting</A> your favorite links.
+> <P> Find: [Input] [Input]
+86c9,28
+< <A HREF="http://www.efrontier.net/">[ Image: Home ]</A> <A HREF="mailto:druce@efrontier.net">[ Image: E-mail us! ]</A> |
+---
+> Financial market links <BR>* <A HREF="http://www.efrontier.com/news.html" TARGET="_top">News</A>
+> <BR>* <A HREF="http://www.efrontier.com/mktdata.html" TARGET="_top">Market data
+> <P></A>
+> <BR>* <A HREF="http://www.efrontier.com/exch.html" TARGET="_top">Exchanges</A>
+> <BR>* <A HREF="http://www.efrontier.com/brokers.html" TARGET="_top">Securities brokers and dealers</A>
+> <BR>* <A HREF="http://www.efrontier.com/banks.html" TARGET="_top">Banks</A>
+> <BR>* <A HREF="http://www.efrontier.com/invman.html" TARGET="_top">Investment managers</A>
+> <BR>* <A HREF="http://www.efrontier.com/othfin.html" TARGET="_top">Other market participants
+> <P></A>
+> <BR>* <A HREF="http://www.efrontier.com/gov.html" TARGET="_top">Government</A>
+> <BR>* <A HREF="http://www.efrontier.com/data.html" TARGET="_top">Private service providers</A>
+> <BR>* <A HREF="http://www.efrontier.com/edu.html" TARGET="_top">Educational and nonprofit institutions</A>
+> <P>* <A HREF="http://www.efrontier.com/indexfin.html" TARGET="_top">Indexes of financial links</A>
+> <BR>* <A HREF="http://www.efrontier.com/misc.html" TARGET="_top">Miscellaneous financial resources</A>
+> Other links <BR>* <A HREF="http://www.efrontier.com/persfin.html" TARGET="_top">Personal Finance</A>
+> <BR>* <A HREF="http://www.efrontier.com/nonfin.html" TARGET="_top">Non-financial resources</A>
+> <P>
+> <A HREF="http://www.efrontier.net/index.cgi">[ Image: Home ]</A> <A HREF="mailto:druce@efrontier.net">[ Image: E-mail us! ]</A>
+> |
+> <P> &copy; Copyright 1996. efficient frontier systems . | Published in U.S.A. All rights reserved. February 1996. | This document may not be reproduced or redistributed without express written consent of efficient frontier systems .
+=== Mon, 11 Mar 1996 06:37:04 GMT
+0a1,86
+> [ Title: Efficient Frontier Corporation Internet Links ]
+> <P>
+> [ Image: efficient frontier logo ] |
+> <P><A NAME="Opinions">Opinions 
+> <P>* <A HREF="http://www.jpmorgan.com/MarketDataInd/Research/WebReport/page1.html">JP Morgan Report on the Web</A>
+> <BR>* <A HREF="http://www.gs.com/about/media/press/cybercommerce.html">Goldman Sachs Press Release on the Web and Cyberpublishing</A>
+> <BR>* <A HREF="http://www.economist.com/intro.htm">The Economist Internet Survey "The Accidental Superhighway"</A>
+> <BR>* <A HREF="http://www.ugcs.caltech.edu/~kluster/markoff.html">The New York Times on Mosaic, December 8, 1993</A>
+> <BR>* <A HREF="http://www.cnet.com/Content/Features/Quick/Andreessen/index.html">Mark Andreessen on the Web</A>
+> <BR>* <A HREF="http://www.microsoft.com/internet/downloads/bill.htm">Bill Gates and Microsoft's Internet Strategy (12/7/95)</A>
+> <BR>* <A HREF="http://nytsyn.com/live/Gates/229_081795_154223_7143.html">Bill Gates on the Internet (8/16/95)</A> <A NAME="Vital Statistics">Vital Statistics 
+> <P>* <A HREF="http://www.openmarket.com/diversions/internet-index/index.html">The Internet Index</A>
+> <BR>* <A HREF="http://www.netgen.com/info/growth.html">Measuring the Growth of the Web</A>
+> <BR>* <A HREF="http://www.ora.com/gnn/bus/ora/survey/charts/pop.html">Internet Survey: Size of U.S.Adult Online User Population</A>
+> <BR>* <A HREF="http://www.umich.edu/~sgupta/hermes/">Hermes Web Survey</A> <A NAME="Basics">Basics 
+> <P>* <A HREF="http://gopher.econ.lsa.umich.edu/FAQs/FAQs.html">FAQs About the Internet</A>
+> <BR>* <A HREF="http://www.next.com/WebObjects/History.html">A World Wide Web Chronology</A>
+> <BR>* <A HREF="http://www.eit.com/web/www.guide/guide.toc.html ">A Guide to Cyberspace</A>
+> <BR>* <A HREF="http://www.boutell.com/faq/">World Wide Web FAQ</A>
+> <BR>* <A HREF="http://www.matisse.net/files/glossary.html">Glossary of Internet Terms</A>
+> <BR>* <A HREF="http://www.eff.org/papers/eegtti/eeg_toc.html">EFF Extended Guide to the Internet</A> <A NAME="Hypertext Markup Language">Hypertext Markup Language 
+> <P>* <A HREF="http://www.ucc.ie/info/net/whatis.html">What is HTML?</A>
+> <BR>* <A HREF="http://www.ucc.ie/~pflynn/books/ch7-8.html">Introduction to HTML from The WorldWideWeb Handbook</A>
+> <BR>* <A HREF="http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html">A Beginner's Guide to HTML</A>
+> <BR>* <A HREF="http://www.webcom.com/~webcom/html/tutor/welcome.html">WebCom HTML Guide</A>
+> <BR>* <A HREF="http://www.ucc.ie/~pflynn/books/htmlcard.html">HTML Quick Reference Guide</A>
+> <BR>* <A HREF="http://oneworld.wa.com/htmldev/devpage/dev-page.html">WWW & HTML Developer's JumpStation</A>
+> <BR>* <A HREF="http://www.yahoo.com/Computers/World_Wide_Web/HTML_Editors/">HTML Editors</A>
+> <BR>* <A HREF="http://www.thecoo.edu/~menon/html.html">The Art of HTML</A> <A NAME="Developers' Resources">Developers' Resources 
+> <P>* <A HREF="http://WWW.Stars.com/Vlib/">The Web Developer's Virtual Library</A>
+> <BR>* <A HREF="http://www.unipress.com:80/weblint/">weblint HTML syntax checker</A>
+> <BR>* <A HREF="http://www.halsoft.com/html-val-svc/">HALSoft HTML Validation Service</A>
+> <BR>* <A HREF="http://www.yahoo.com/Computers_and_Internet/Internet/World_Wide_Web/HTTP/Servers/Surveys/">Web Server surveys</A>
+> <BR>* <A HREF="http://www-genome.wi.mit.edu/WWW/faqs/www-security-faq.html">Web Security FAQ</A>
+> <BR>* <A HREF="http://www.boutell.com/cgic/">cgic ANSI C library for CGI programming</A>
+> <BR>* <A HREF="http://www.io.org/~rasmus/">PHP HTML generator</A>
+> <BR>* <A HREF="http://www.publish.com/">Publish Magazine</A>
+> <BR>* <A HREF="http://www.infi.net/~rdralph/icons/">Images, Icons, & Backgrounds</A>
+> <BR>* <A HREF="http://www.pixelsight.com:80/PS/pixelsite/pixelsite.html">Pixelsite</A>
+> <BR>* <A HREF="http://www.meat.com/textures/">Texture Land</A>
+> <BR>* <A HREF="http://jasper.ora.com/compfont/ifa/query.htm">Internet Font Archive</A> <A NAME="Java">Java 
+> <P><A NAME="Sun Java resources">Sun Java resources 
+> <P>* <A HREF="http://java.sun.com/">Java: Programming for the Internet</A>
+> <BR>* <A HREF="http://java.sun.com/starter.html">Getting Started with Java</A>
+> <BR>* <A HREF="http://java.sun.com/whitePaper/java-whitepaper-1.html">The Java(tm) Language Environment: A White Paper</A>
+> <BR>* <A HREF="http://java.sun.com/doc.html">Java Documentation</A> <A NAME="Tutorials">Tutorials 
+> <P>* <A HREF="http://www.javasoft.com/tutorial/index.html">Trail Map: The Java Language Tutorial</A>
+> <BR>* <A HREF="http://sunsite.unc.edu/javafaq/javatutorial.html">Brewing Java: A Tutorial</A>
+> <BR>* <A HREF="http://www.well.com/user/yimmit/">Java lab</A> <A NAME="Other resources">Other resources 
+> <P>* <A HREF="http://sunsite.unc.edu/javafaq/javafaq.html">comp.lang.java FAQ</A>
+> <BR>* <A HREF="http://www.inch.com/~nyjava/">New York Java Study Group</A>
+> <BR>* <A HREF="http://users.aol.com/thingtone/workshop/index.htm">Thingtone's Java Workshop</A>
+> <BR>* <A HREF="http://www.aw.com/cp/javaseries.html">Java Books from Addison-Wesley</A>
+> <BR>* <A HREF="http://webrunner.neato.org/1.0alpha2/doc/javaspec/javaspec_1.html">The Java Language Specification</A>
+> <BR>* <A HREF="news:comp.lang.java">Newsgroup: comp.lang.java</A>
+> <BR>* <A HREF="http://www.io.org/~mentor/DigitalEspresso.html">Digital Espresso</A>
+> <BR>* <A HREF="http://sunsite.unc.edu/javafaq/">Cafe Au Lait</A>
+> <BR>* <A HREF="http://acsl.cs.uiuc.edu/~phelps/espresso/">Espresso</A>
+> <BR>* <A HREF="http://www.symantec.com/lit/dev/espressowp.html">Symantec Espresso(tm)</A>
+> <BR>* <A HREF="http://www.gamelan.com/">Gamelan</A>
+> <BR>* <A HREF="http://www.pennant.com/java/">Java WWW Forum</A>
+> <BR>* <A HREF="http://www.digitalfocus.com/digitalfocus/faq/index.html">The Java Developer</A> <A NAME="Java Hotlists">Java Hotlists 
+> <P>* <A HREF="http://www.yahoo.com/Computers_and_Internet/Languages/Java/">Yahoo - Computers and Internet:Languages:Java</A>
+> <BR>* <A HREF="http://www.digitalfocus.com/digitalfocus/faq/resources.html">The Java Developer: Resources</A>
+> <BR>* <A HREF="http://www.inch.com/~nyjava/java2.html">Java(tm) & Hot Java(tm)</A>
+> <BR>* <A HREF="http://mars.blackstar.com/">Black Star Public Java Compiler</A> <A NAME="Helper apps">Helper apps 
+> <P>* <A HREF="http://www.realaudio.com">RealAudio</A>
+> <BR>* <A HREF="http://www.xingtech.com/streams/index.html">StreamWorks</A>
+> <BR>* <A HREF="http://www.dspg.com/allplyr.htm">TrueSpeech</A>
+> <BR>* <A HREF="http://www.vdolive.com/require.htm">VDONet</A>
+> <BR>* <A HREF="http://quicktime.apple.com/">Quicktime</A>
+> <BR>* <A HREF="http://www.planeteers.com/index.htm">Digiphone</A>
+> <BR>* <A HREF="http://vocaltec.com/iphone.htm">VocalTec</A>
+> <BR>* <A HREF="http://www.adobe.com/">Acrobat/Amber</A>
+> <BR>* <A HREF="http://www.macromedia.com/">Shockwave</A>
+> <BR>* <A HREF="http://cu-seeme.cornell.edu/#CU-SeeMe">CU-SeeMe</A>
+> <BR>* <A HREF="http://www.tucows.com/tsoftware.html">The Ultimate Collection of Winsock Software</A>
+> <BR>* <A HREF="http://cwsapps.texas.net/">The Consummate Winsock Apps List</A>
+> <BR>* <A HREF="http://www.jumbo.com/">Shareware</A> <A NAME="Other References">Other References 
+> <P>* <A HREF="http://www.w3.org/hypertext/WWW/">World Wide Web Consortium</A>
+> <BR>* <A HREF="ftp://rtfm.mit.edu/pub/usenet/news.answers/internet-services/book-list">Internet Book List</A>
+> <BR>* <A HREF="http://thelist.com/">"The List" of Internet Providers</A>
+> <BR>* <A HREF="http://www.home.net/home2/screen.html">@Home Internet via Cable</A>
+> <BR>* <A HREF="http://www.eecs.nwu.edu/unix.html">Unix Reference Desk</A>
+> <P>
+> <A HREF="http://www.efrontier.net/">[ Image: Home ]</A> <A HREF="mailto:druce@efrontier.net">[ Image: E-mail us! ]</A> |

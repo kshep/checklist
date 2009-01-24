@@ -1,0 +1,138 @@
+=== Mon, 15 Jul 1996 01:34:50 GMT
+5,10d4
+< <P> [Image]
+< <P>* <A HREF="http://www.honeywell.sensing.com/sds.html#Available_Product_Information">Available Product Information</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsdesc.html">Other Important Information - Smart Distributed System</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsapp.html">Application Information - Smart Distributed System</A>
+< <BR>* <A HREF="http://www.honeywell.sensing.com/tradeshw.html">Visit us on the road! Our 1996 Trade Show Calendar</A> [Image]
+< <BR>* <A HREF="http://www.honeywell.sensing.com/sdspec.html">Smart Distributed System Open Specifications in PDF Format</A>
+12,67c6
+< Description 
+< <P> The Smart Distributed System is a bus system for intelligent sensors and actuators that streamlines the system installation process and empowers your inputs and outputs to operate at levels you never thought possible. Over a single 4-wire cable, Smart Distributed System can interface up to 126 individually addressable devices. These intelligent sensor and actuator devices do much, much more than just turn on and off.
+< <P>
+< <A NAME="Available_Product_Information"></A> Available Product Information 
+< <P> Bridge/Gateway
+< <BR>* <A HREF="http://www.homecom.com/sensing/canbridg.html">HCB AG - CAN/Smart Distributed System Bridge</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/rs232can.html">HCB AG - RS232/CAN Interface</A>
+< <P> Bus Management Tools
+< <BR>* <A HREF="http://www.homecom.com/sensing/contemp.html">Contemporary Control Systems, Inc - SDS-DETECT Hand-held Network Analyzer</A>
+< <P> Development Tools
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdschips.html">Honeywell - I/O Chipsets</A>
+< <P> Interconnect Hardware
+< <BR>* <A HREF="http://www.homecom.com/sensing/bradcomb.html">Daniel Woodhead - Cables, Connectors, and Accessories</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/honcab.html">Honeywell - Connectors, Tees, Cables, and Cordsets</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/lumberg.html">Lumberg Inc.: Connector Products</A>
+< <P> Personal Computer (PC) Interface
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdspcint.html">Honeywell - PC Interface Card</A>
+< <P> Personal Computer (PC) Software
+< <BR>* <A HREF="http://www.homecom.com/sensing/ctrlware.html">CONTROLWARE - Controlware and Commander for ControlwareTM</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/eti.html">Event Technologies, Inc. - Gello Control Software</A>
+< <BR>* <A HREF="http://www.honeywell.sensing.com/iconics.html">Iconics - Genesis for Windows</A> [Image] as of February 16, 1996
+< <BR>* <A HREF="http://www.homecom.com/sensing/intellut.html">Intellution, Inc. - FIX Software for Windows and Windows NT</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/steeple.html">Steeplechase Software, Inc. - Visual Logic Controller</A>
+< <BR>* <A HREF="http://www.honeywell.sensing.com/tele-den.html">Tele-Denken - SoftPLC</A> [Image] as of February 16, 1996
+< <BR>* <A HREF="http://www.homecom.com/sensing/wizdom.html">Wizdom Systems, Inc. - Paradym-31 Development and Control Software</A>
+< <P> Programmable Logic Controller (PLCs) Interface
+< <BR>* <A HREF="http://www.honeywell.sensing.com/esd.html">ESD Electronic System Design - CAN - S5-PLC Interface Module</A> [Image] as of February 14, 1996
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsvme.html">Honeywell - VME Interface Board</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsits.html">Honeywell - Sensor Interface Terminal Strip (ITS)</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsaits.html">Honeywell - Actuator Interface Terminal Strip (ITS)</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/horner.html">Horner Electric - Interface Module for the GE Fanuc Series 90-30 PLC</A> [Image] as of December 22, 1995
+< <BR>* <A HREF="http://www.homecom.com/sensing/facts.html">PLC Direct - System I/O</A> [Image] as of December 22, 1995
+< <P> Pneumatic Valves
+< <BR>* <A HREF="http://www.homecom.com/sensing/festo.html">Festo Corporation - "Midi/Maxi" Pneumatic Valve Manifolds</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsskin.html">Honeywell Skinner Valve - Smart Distributed System Solenoid Valves</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/parker.html">Parker - Serial Addressable Module (Sam) Generation 2</A>
+< <P> Remote I/O
+< <BR>* <A HREF="http://www.homecom.com/sensing/gemclink.html">GE ED&amp;C - GELink MC Smart Distributed System Motor Control Block</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/gepdlink.html">GE ED&amp;C - GELink PD</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/holjmpb.html">Holjeron Corporation - MPB Modular Push Button Interface</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsiomod.html">Honeywell - I/O Module Interface</A>
+< <P> Sensors, Switches, and Actuators
+< <BR>* <A HREF="http://www.homecom.com/sensing/banner.html">Banner - Omni-Beam Q45x Series Photoelectric Sensors</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sds18mm.html">Honeywell - 18 mm Cylindrical Photoelectric</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdscyprx.html">Honeywell - Metal Cylindrical Proximity Sensors</A> [Image] as of December 18, 1995
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsgls.html">Honeywell - GLS Global Limit Switch</A> [Image] as of December 18, 1995
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdshdls.html">Honeywell - HDLS Heavy Duty Limit Switch</A> [Image] as of December 15, 1995
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdspdmp.html">Honeywell - PDMP Photoelectric</A> [Image] as of December 15, 1995
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsmhp.html">Honeywell - Miniature High Performance Photoelectric Control (MHP)</A>
+< <BR>* <A HREF="http://www.homecom.com/sensing/sdsmp.html">Honeywell - Modular Photoelectric Controls (MP)</A>
+< <BR>* <A HREF="http://www.honeywell.sensing.com/leine.html">Leine &amp; Linde - CAN High Precision Absolute Encoder</A> [Image] as of February 16, 1996
+< <P>
+< Links to "Partners" Web Sites <BR>* <A HREF="http://www.danielwoodhead.com">Daniel Woodhead - Cables, Connectors, and Accessories</A>
+< <P>* <A HREF="http://www.homecom.com/sensing/sensing.html">Honeywell's MICRO SWITCH Division Home Page</A>
+< <P>
+< (800)537-6945 (Voice) (815)235-6847 (International) | <A HREF="mailto:info@micro.honeywell.com">info@micro.honeywell.com (email)</A> | | Comments: <A HREF="mailto:webmaster@micro.honeywell.com">webmaster@micro.honeywell.com</A> | (Updated December 22, 1995) <A HREF="http://www.homecom.com/sensing/copyrigh.html">(c) Copyright 1995 Honeywell Inc. All rights reserved.</A>
+---
+> This page has moved to a new URL : <A HREF="http://www.honeywell.sensing.com/sds/sds.html">http://www.honeywell.sensing.com/sds/sds.html</A> . Please update your links. 
+=== Fri, 19 Apr 1996 19:23:47 GMT
+62a63,64
+> <P>
+> Links to "Partners" Web Sites <BR>* <A HREF="http://www.danielwoodhead.com">Daniel Woodhead - Cables, Connectors, and Accessories</A>
+=== Mon, 11 Mar 1996 06:36:03 GMT
+0a1,65
+> [ Title: Smart Distributed System Technology ]
+> <P> [ Image: HONEYWELL ]
+> MICRO SWITCH | Sensing and Control 
+> <P> Smart Distributed System Technology
+> <P> [Image]
+> <P>* <A HREF="http://www.honeywell.sensing.com/sds.html#Available_Product_Information">Available Product Information</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsdesc.html">Other Important Information - Smart Distributed System</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsapp.html">Application Information - Smart Distributed System</A>
+> <BR>* <A HREF="http://www.honeywell.sensing.com/tradeshw.html">Visit us on the road! Our 1996 Trade Show Calendar</A> [Image]
+> <BR>* <A HREF="http://www.honeywell.sensing.com/sdspec.html">Smart Distributed System Open Specifications in PDF Format</A>
+> <P>
+> Description 
+> <P> The Smart Distributed System is a bus system for intelligent sensors and actuators that streamlines the system installation process and empowers your inputs and outputs to operate at levels you never thought possible. Over a single 4-wire cable, Smart Distributed System can interface up to 126 individually addressable devices. These intelligent sensor and actuator devices do much, much more than just turn on and off.
+> <P>
+> <A NAME="Available_Product_Information"></A> Available Product Information 
+> <P> Bridge/Gateway
+> <BR>* <A HREF="http://www.homecom.com/sensing/canbridg.html">HCB AG - CAN/Smart Distributed System Bridge</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/rs232can.html">HCB AG - RS232/CAN Interface</A>
+> <P> Bus Management Tools
+> <BR>* <A HREF="http://www.homecom.com/sensing/contemp.html">Contemporary Control Systems, Inc - SDS-DETECT Hand-held Network Analyzer</A>
+> <P> Development Tools
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdschips.html">Honeywell - I/O Chipsets</A>
+> <P> Interconnect Hardware
+> <BR>* <A HREF="http://www.homecom.com/sensing/bradcomb.html">Daniel Woodhead - Cables, Connectors, and Accessories</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/honcab.html">Honeywell - Connectors, Tees, Cables, and Cordsets</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/lumberg.html">Lumberg Inc.: Connector Products</A>
+> <P> Personal Computer (PC) Interface
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdspcint.html">Honeywell - PC Interface Card</A>
+> <P> Personal Computer (PC) Software
+> <BR>* <A HREF="http://www.homecom.com/sensing/ctrlware.html">CONTROLWARE - Controlware and Commander for ControlwareTM</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/eti.html">Event Technologies, Inc. - Gello Control Software</A>
+> <BR>* <A HREF="http://www.honeywell.sensing.com/iconics.html">Iconics - Genesis for Windows</A> [Image] as of February 16, 1996
+> <BR>* <A HREF="http://www.homecom.com/sensing/intellut.html">Intellution, Inc. - FIX Software for Windows and Windows NT</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/steeple.html">Steeplechase Software, Inc. - Visual Logic Controller</A>
+> <BR>* <A HREF="http://www.honeywell.sensing.com/tele-den.html">Tele-Denken - SoftPLC</A> [Image] as of February 16, 1996
+> <BR>* <A HREF="http://www.homecom.com/sensing/wizdom.html">Wizdom Systems, Inc. - Paradym-31 Development and Control Software</A>
+> <P> Programmable Logic Controller (PLCs) Interface
+> <BR>* <A HREF="http://www.honeywell.sensing.com/esd.html">ESD Electronic System Design - CAN - S5-PLC Interface Module</A> [Image] as of February 14, 1996
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsvme.html">Honeywell - VME Interface Board</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsits.html">Honeywell - Sensor Interface Terminal Strip (ITS)</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsaits.html">Honeywell - Actuator Interface Terminal Strip (ITS)</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/horner.html">Horner Electric - Interface Module for the GE Fanuc Series 90-30 PLC</A> [Image] as of December 22, 1995
+> <BR>* <A HREF="http://www.homecom.com/sensing/facts.html">PLC Direct - System I/O</A> [Image] as of December 22, 1995
+> <P> Pneumatic Valves
+> <BR>* <A HREF="http://www.homecom.com/sensing/festo.html">Festo Corporation - "Midi/Maxi" Pneumatic Valve Manifolds</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsskin.html">Honeywell Skinner Valve - Smart Distributed System Solenoid Valves</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/parker.html">Parker - Serial Addressable Module (Sam) Generation 2</A>
+> <P> Remote I/O
+> <BR>* <A HREF="http://www.homecom.com/sensing/gemclink.html">GE ED&amp;C - GELink MC Smart Distributed System Motor Control Block</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/gepdlink.html">GE ED&amp;C - GELink PD</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/holjmpb.html">Holjeron Corporation - MPB Modular Push Button Interface</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsiomod.html">Honeywell - I/O Module Interface</A>
+> <P> Sensors, Switches, and Actuators
+> <BR>* <A HREF="http://www.homecom.com/sensing/banner.html">Banner - Omni-Beam Q45x Series Photoelectric Sensors</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sds18mm.html">Honeywell - 18 mm Cylindrical Photoelectric</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdscyprx.html">Honeywell - Metal Cylindrical Proximity Sensors</A> [Image] as of December 18, 1995
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsgls.html">Honeywell - GLS Global Limit Switch</A> [Image] as of December 18, 1995
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdshdls.html">Honeywell - HDLS Heavy Duty Limit Switch</A> [Image] as of December 15, 1995
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdspdmp.html">Honeywell - PDMP Photoelectric</A> [Image] as of December 15, 1995
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsmhp.html">Honeywell - Miniature High Performance Photoelectric Control (MHP)</A>
+> <BR>* <A HREF="http://www.homecom.com/sensing/sdsmp.html">Honeywell - Modular Photoelectric Controls (MP)</A>
+> <BR>* <A HREF="http://www.honeywell.sensing.com/leine.html">Leine &amp; Linde - CAN High Precision Absolute Encoder</A> [Image] as of February 16, 1996
+> <P>* <A HREF="http://www.homecom.com/sensing/sensing.html">Honeywell's MICRO SWITCH Division Home Page</A>
+> <P>
+> (800)537-6945 (Voice) (815)235-6847 (International) | <A HREF="mailto:info@micro.honeywell.com">info@micro.honeywell.com (email)</A> | | Comments: <A HREF="mailto:webmaster@micro.honeywell.com">webmaster@micro.honeywell.com</A> | (Updated December 22, 1995) <A HREF="http://www.homecom.com/sensing/copyrigh.html">(c) Copyright 1995 Honeywell Inc. All rights reserved.</A>

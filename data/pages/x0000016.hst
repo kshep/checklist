@@ -1,0 +1,112 @@
+=== Mon, 15 Jul 1996 01:42:33 GMT
+11,13c11
+< <A HREF="ftp://oak.oakland.edu/simtel/msdos/perl/perl419x.zip">Lee Reed's Port of Perl</A> This one is a port for MSdos, but runs fine under Win95. If you are doing mostly simple scripts, this is a good choice
+< <P>
+< <A HREF="ftp://oak.oakland.edu/simtel/msdos/perl/bperl4x.zip">32-bit Perl 4.0pl36 w/Win supt</A> A 32 bit version of Perl for MSdos. Work fine, good for larger scripts.
+---
+> <A HREF="ftp://oak.oakland.edu/pub/simtelnet/msdos/perl/perl419x.zip">Len Reed's Port of Perl</A> This one is a port for MSdos, but runs fine under Win95. If you are doing mostly simple scripts, this is a good choice
+16c14
+< I have installed this one. When I tried to run the install.bat I ran into a problem. However, if you run it from the dos shell however it will work. (the .bat calls %0.bat which expands out to install.bat.bat when run fromthe explorer). From there I have added a file type .pl which runs perl.exe to execute scripts. This will let you doble click on a script and run it. Only problem is that the window closes as soon as the program exits, so unless you pause at the end of execution you will not see the output.
+---
+> This has been the most actively maintained version of perl for 32 bit windows. It is currently the best (IMHO) port there is. It includes all of the socket support that was the main draw back of windows perl versions in the past. They also have a very active group of mailing list to provide support and communications for perl users.
+19c17
+< I have installed this one. It is Perl 4 but does run. The setup is a standard windows style setup but on my machine claimed to have failed (I didn't pursue it) but the software worked fine. Same problems with window closing after execution as with Perl5 for Win32 (not a really big deal). Might be a little slower but I didn't actually do any benchmarks.
+---
+> This port was previously the only one to support sockets and IPC. That is no longer the case and the PERL5 for WIN32 from HIP, is the recomended version.
+23c21
+< <P><A HREF="http://www.webtools.org/counter/">3532</A> hits since April 6, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">13089</A> hits since April 6, 1996
+=== Wed,  1 May 1996 17:55:58 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">2611</A> hits since April 6, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">3532</A> hits since April 6, 1996
+=== Wed, 24 Apr 1996 20:38:00 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1976</A> hits since April 6, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">2611</A> hits since April 6, 1996
+=== Fri, 19 Apr 1996 19:25:17 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1445</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1976</A> hits since April 6, 1996
+=== Sun, 17 Mar 1996 02:48:01 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1381</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1445</A> hits since March 4, 1996
+=== Sat, 16 Mar 1996 04:25:03 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1304</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1381</A> hits since March 4, 1996
+=== Fri, 15 Mar 1996 14:59:08 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1206</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1304</A> hits since March 4, 1996
+=== Thu, 14 Mar 1996 19:10:48 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1135</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1206</A> hits since March 4, 1996
+=== Thu, 14 Mar 1996 04:13:47 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1077</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1135</A> hits since March 4, 1996
+=== Wed, 13 Mar 1996 19:17:43 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">1003</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1077</A> hits since March 4, 1996
+=== Wed, 13 Mar 1996 02:21:27 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">948</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">1003</A> hits since March 4, 1996
+=== Tue, 12 Mar 1996 20:39:58 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">946</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">948</A> hits since March 4, 1996
+=== Tue, 12 Mar 1996 20:30:22 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">761</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">946</A> hits since March 4, 1996
+=== Mon, 11 Mar 1996 17:12:03 GMT
+23c23
+< <P><A HREF="http://www.webtools.org/counter/">714</A> hits since March 4, 1996
+---
+> <P><A HREF="http://www.webtools.org/counter/">761</A> hits since March 4, 1996
+=== Mon, 11 Mar 1996 06:36:46 GMT
+1c1,24
+< 
+---
+> [ Title: Perl for Windows 95 ]
+> <P> [ Image: Camel ] Perl for Windows 95 [ Image: Camel ]
+> <P> After a lot of searching, and some whineing on the perl newsgroup, I decided to compile a list of all the Perl versions that will run on windows 95 and hopefully put to bed the latest annoying question
+> <P> "Where is Perl for Windows 95" | So here is the list so far: |
+> <P>
+> Name Description | <BR>
+> <A HREF="http://www.perl.hip.com">Perl 5 for Win32</A> Perl 5 for Win32. This port includes the O'Reiley enhancements. Hip did the first port to NT and is now doing the win32 port. <A HREF="http://www.inxpress.net/~moewes/computer/perl95.html#perl532">Additional Notes</A>
+> <P>
+> <A HREF="http://website.ora.com/software/NTPerlb.zip">NT Perl</A> with TCP/IP extensions from <A HREF="http://website.ora.com/software/">O"reilly and Associates</A> This one seems to be a little more for NT, with extensions for TCP/IP not usually in Windows ports. It's part of O'Reill's website server, but available for download <A HREF="http://www.inxpress.net/~moewes/computer/perl95.html#ntperlb">Additional Notes</A>
+> <P>
+> <A HREF="ftp://oak.oakland.edu/simtel/msdos/perl/perl419x.zip">Lee Reed's Port of Perl</A> This one is a port for MSdos, but runs fine under Win95. If you are doing mostly simple scripts, this is a good choice
+> <P>
+> <A HREF="ftp://oak.oakland.edu/simtel/msdos/perl/bperl4x.zip">32-bit Perl 4.0pl36 w/Win supt</A> A 32 bit version of Perl for MSdos. Work fine, good for larger scripts.
+> <P> |
+> <A name="perl532">Perl5 for Win32</A><BR>
+> I have installed this one. When I tried to run the install.bat I ran into a problem. However, if you run it from the dos shell however it will work. (the .bat calls %0.bat which expands out to install.bat.bat when run fromthe explorer). From there I have added a file type .pl which runs perl.exe to execute scripts. This will let you doble click on a script and run it. Only problem is that the window closes as soon as the program exits, so unless you pause at the end of execution you will not see the output.
+> <P>
+> <A name="ntperlb">NT Perl from O'Rielly</A><BR>
+> I have installed this one. It is Perl 4 but does run. The setup is a standard windows style setup but on my machine claimed to have failed (I didn't pursue it) but the software worked fine. Same problems with window closing after execution as with Perl5 for Win32 (not a really big deal). Might be a little slower but I didn't actually do any benchmarks.
+> <P> If you disagree with these suggestions, or if you have other ports or better yet, installation tips, please email me at <A HREF="mailto:moewes@inxpress.net">moewes@inxpress.net</A> . With your help maybe we can finally answer this quesion.
+> <P> Back to Yahoo <A HREF="http://www.yahoo.com/Computers_and_Internet/Languages/Perl/">Perl Resources</A>
+> <P> <A HREF="http://www.inxpress.net/../index.html">Home</A> | <A HREF="http://www.inxpress.net/index.html">Computer</A> | 95-PPP | <A HREF="http://www.inxpress.net/internet.html">Internet Help</A> | Perl |
+> <P><A HREF="http://www.webtools.org/counter/">714</A> hits since March 4, 1996
+> <P> URL:http://www.inxpress.net/~moewes/computer/perl95.html | &copy 1995 Computer Resource Management. All Rights Reserved | Maintained By: <A HREF="mailto:moewes@inxpress.net">Christopher R. Moewes</A> | &lt;moewes@inxpress.net&gt; |

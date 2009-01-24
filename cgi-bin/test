@@ -1,0 +1,14 @@
+#!/usr/local/bin/perl4.036
+
+require "http.pl";
+require "util.pl";
+
+$url = "http://www.w3.org/hypertext/WWW";
+
+($proto,$site,$file) = &uspliturl($url);
+
+print ">$proto< >$site< >$file<\n";
+
+$status = &httpping($site,$file);
+
+print ">>$status<<\n";

@@ -1,0 +1,45 @@
+=== Mon, 15 Jul 1996 01:42:45 GMT
+2c2
+< <P> [ Image: Winsock Applications ] | [Image]
+---
+> <P> Software for Windows 95
+9c9,10
+< [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/weather95.html">Weather Applications</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Non Winsock Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Non Winsock Software</A> |
+---
+> [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/weather95.html">Weather Applications</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 3.x Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Utilities</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Utilitites</A> |
+11c12
+< [Image] | <A HREF="http://tucows.myriad.net/request.html">[Add]</A> <A HREF="http://tucows.myriad.net/cdrom.html">[CD-ROM]</A> <A HREF="http://tucows.myriad.net/about.html">[Help]</A> <A HREF="http://tucows.myriad.net/emform.html">[Mail TUCOWS]</A> <A HREF="http://tucows.myriad.net/index.html">[Home]</A> <A HREF="http://tucows.myriad.net/new.html">[What's New]</A>
+---
+> [Image] |
+=== Fri, 19 Apr 1996 19:26:06 GMT
+9c9
+< [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Non Winsock Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Non Winsock Software</A> |
+---
+> [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/weather95.html">Weather Applications</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Non Winsock Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Non Winsock Software</A> |
+=== Wed, 13 Mar 1996 19:17:54 GMT
+11c11
+< [Image] | <A HREF="http://tucows.myriad.net/request.html">[Add]</A> <A HREF="http://tucows.myriad.net/cdrom.html">[CD-ROM]</A> <A HREF="http://tucows.myriad.net/emform.html">[E-Mail]</A> <A HREF="http://tucows.myriad.net/about.html">[Help]</A> <A HREF="http://tucows.myriad.net/index.html">[Home]</A> <A HREF="http://tucows.myriad.net/new.html">[New]</A> <A HREF="http://tucows.myriad.net/evaluation.html">[Survey]</A>
+---
+> [Image] | <A HREF="http://tucows.myriad.net/request.html">[Add]</A> <A HREF="http://tucows.myriad.net/cdrom.html">[CD-ROM]</A> <A HREF="http://tucows.myriad.net/about.html">[Help]</A> <A HREF="http://tucows.myriad.net/emform.html">[Mail TUCOWS]</A> <A HREF="http://tucows.myriad.net/index.html">[Home]</A> <A HREF="http://tucows.myriad.net/new.html">[What's New]</A>
+=== Tue, 12 Mar 1996 20:41:14 GMT
+8,9c8,9
+< [ Image: * ] <A HREF="http://tucows.myriad.net/term95.html">Telnet</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/time95.html">Time Logs</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/sync95.html">Time Synchronizers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | <BR>
+< [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Non Winsock Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Non Winsock Software</A> |
+---
+> [ Image: * ] <A HREF="http://tucows.myriad.net/stock.html">Stock Quotes</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/term95.html">Telnet</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/time95.html">Time Logs</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/sync95.html">Time Synchronizers</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Non Winsock Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Non Winsock Software</A> |
+=== Mon, 11 Mar 1996 06:37:08 GMT
+0a1,12
+> [ Title: The Ultimate Collection of Winsock Software ]
+> <P> [ Image: Winsock Applications ] | [Image]
+> <P> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/archie95.html">Archie</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/web95.html">Browsers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/acc95.html">Browsers Add-Ons</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/suite95.html">Bundled Applications</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/fing95.html">Finger & Who</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/ftp95.html">FTP</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/fun95.html">Games, MUD's & MOO's</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tool95.html">Internet Tools</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/talk95.html">Text Chat</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/voice95.html">Voice Chat</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/mail95.html">Mail</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/news95.html">News Readers</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/ping95.html">Ping & NS-Lookup</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/plug95.html">Plug-In Modules</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/server95.html">Server Deamon</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tcp95.html">Stacks & TCP/IP</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/term95.html">Telnet</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/time95.html">Time Logs</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/sync95.html">Time Synchronizers</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/vrml95.html">VRML Viewers</A> | <BR>
+> [ Image: * ] <A HREF="http://tucows.myriad.net/tnon95.html">Windows 95 Non Winsock Software</A> | [ Image: * ] <A HREF="http://tucows.myriad.net/tnon.html">Windows 3.x Non Winsock Software</A> |
+> <P>
+> [Image] | <A HREF="http://tucows.myriad.net/request.html">[Add]</A> <A HREF="http://tucows.myriad.net/cdrom.html">[CD-ROM]</A> <A HREF="http://tucows.myriad.net/emform.html">[E-Mail]</A> <A HREF="http://tucows.myriad.net/about.html">[Help]</A> <A HREF="http://tucows.myriad.net/index.html">[Home]</A> <A HREF="http://tucows.myriad.net/new.html">[New]</A> <A HREF="http://tucows.myriad.net/evaluation.html">[Survey]</A>
+> <P> [Image] | <A HREF="http://tucows.myriad.net/warn.html#copy">© Copyright 1996</A> - <A HREF="http://tucows.myriad.net/emform.html">Scott A. Swedorski</A>

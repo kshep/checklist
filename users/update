@@ -1,0 +1,8 @@
+#!/bin/csh
+
+echo "Updating $1"
+cp USER/* $1
+perl -p -i.bak -e "s/USER/$1/; s/FULLNAME/$2/;" $1/*.htm
+rm $1/*.bak
+
+echo "Account ready"

@@ -1,0 +1,3 @@
+#!/bin/csh/
+./update kens "Ken Sheppardson"
+./update young "Mike Young"

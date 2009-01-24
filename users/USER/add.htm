@@ -1,0 +1,88 @@
+<HTML>
+<HEAD>
+<TITLE>CheckList - Add a Link</TITLE>
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF TEXT=#000000>
+
+<!---------------------------------------------------------------------->
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=5 WIDTH=100%>
+
+<TR><TD ALIGN=CENTER COLSPAN=2><IMG SRC="/~kens/images/logo.gif"></TD></TR>
+
+<TR><TD ALIGN=LEFT VALIGN=BOTTOM><FONT SIZE=+1>
+<A HREF="/~kens/cgi-bin/changed.pl?user=USER">Changed Pages</A> |
+<A HREF="/~kens/cgi-bin/list.pl?user=USER">Page List</A>
+</FONT></TD>
+
+<TD ALIGN=RIGHT VALIGN=BOTTOM><FONT SIZE=+1>
+<STRONG><A HREF="/~kens/users/USER/manage.htm">Manage List</A></STRONG> |
+<A HREF="/~kens/users/USER/prefs.htm">Preferences</A> |
+<A HREF="/~kens/users/USER/index.htm">Home</A>
+</FONT></TD></TR>
+
+<TR><TD ALIGN=CENTER COLSPAN=2><IMG SRC="/~kens/images/line.gif"></TD></TR></TABLE>
+<!---------------------------------------------------------------------->
+<P>
+<CENTER><FONT SIZE=+1>
+<STRONG>Add a Link</STRONG> |
+<A HREF="/~kens/cgi-bin/delete.pl?user=USER">Delete Link</A> |
+<A HREF="/~kens/cgi-bin/edit.pl?user=USER">Edit Link</A> |
+<A HREF="/~kens/users/USER/upload.htm">Upload a Hotlist</A>
+</FONT></CENTER>
+<!---------------------------------------------------------------------->
+
+<P>
+<CENTER>
+<EM>Adding this page to your web browser's hotlist<BR>
+will make it easy to add pages to your CheckList as you surf the net.
+</EM>
+</CENTER>
+
+<P>
+To add a page to your CheckList, enter the URL of the page in the box 
+below and use the Add Link button to submit the form. If the Use default 
+page title button is checked the page will be added using the title 
+CheckList finds when it first checks the page. If you'd like to enter a 
+different title or add a description for the page, you can check the 
+Edit page title and description button or you can edit the link later. 
+<P>
+
+<FORM ACTION="/~kens/cgi-bin/add.pl" METHOD="POST">
+<INPUT TYPE="hidden" NAME="user" VALUE="USER">
+<INPUT TYPE="hidden" NAME="form" VALUE="url">
+
+<CENTER>
+<TABLE BORDER=0 CELLPADDING=5 CELLSPACING=0>
+<TR>
+<TD ALIGN=LEFT><STRONG>Location (URL)</STRONG></TD>
+<TD><INPUT TYPE="text" NAME="url" SIZE=45></TD>
+</TR>
+<TR>
+<TD ALIGN=LEFT><STRONG>Title and Desc.</STRONG></TD>
+<TD>
+<INPUT TYPE="radio" NAME="usedef" VALUE="X" CHECKED>Use default page title
+<INPUT TYPE="radio" NAME="usedef" VALUE="">Edit page title and description
+</TD>
+</TR>
+<TR><TD COLSPAN=2 ALIGN=CENTER>
+<INPUT TYPE="submit" VALUE="Add Link">
+<INPUT TYPE="reset" VALUE="Clear Values">
+</TD>
+</TR>
+</TABLE>
+</CENTER>
+</FORM>
+<P>
+
+<HR><!---------------------------------------------------------------------->
+<CENTER>
+<FONT SIZE=-1>
+<ADDRESS>
+Copyright &#169; 1996, Ken Sheppardson. All rights reserved.
+Send questions to <A HREF="mailto:kens@aimnet.com">kens@aimnet.com</A>
+</ADDRESS>
+</CENTER>
+</BODY>
+</HTML>
+

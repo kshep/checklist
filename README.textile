@@ -1,0 +1,3 @@
+== Checklist
+
+Checklist was the original prototype for a service called javElink.com back in 1996. I'm adding the code to github just because (1) it's the first Perl web project I ever worked on and (2) because I really need to inflate my github stats. (kidding)

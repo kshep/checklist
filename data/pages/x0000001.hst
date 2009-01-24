@@ -1,0 +1,122 @@
+=== Mon, 15 Jul 1996 01:33:23 GMT
+5a6,9
+> <P> |
+> <A HREF="http://www.aimnet.com/roam_release.html">Aimnet Corporation Offers Internet Roaming Service between the US and Singapore Aimnet subscribers will be able to travel to Singapore and login with a local telephone call. Other countries will be added soon.</A>
+> |
+> <A HREF="http://www.aimnet.com/travlrel.htm">Aimnet Corporation Establishing World's First True Borderless, ISP-Independent Internet Roaming Service</A>
+7c11
+< [ <A HREF="http://www.aimnet.com/software.htm" >Internet Software</A> ] [ <A HREF="http://www.aimnet.com/aimnet.html" >Internet Connectivity Options</A> ] [ <A HREF="http://www.aimnet.com/w_over.html" >Web Services</A> ]
+---
+> [ <A HREF="http://www.aimnet.com/a_what.html">What's NEW at Aimnet?</A> ] [ <A HREF="http://www.aimnet.com/faq.html">Customer Support - "Help Me!"</A> ] | [ <A HREF="http://www.aimnet.com/software.htm" >Internet Software</A> ] [ <A HREF="http://www.aimnet.com/aimnet.html" >Internet Connectivity Options</A> ] [ <A HREF="http://www.aimnet.com/w_over.html" >Web Services</A> ]
+10,11c14,15
+< <A HREF="http://www.aimnet.com/iap.html">[ Image: internet access ]</A>
+< <A HREF="http://www.aimnet.com/iap_home.html">Internet Access Provision</A> | The premier Internet solution's provider for business, | offering the highest speed and most reliable access. <BR>
+---
+> <A HREF="http://www.aimnet.com/iap_home.html">[ Image: internet access ]</A>
+> <A HREF="http://www.aimnet.com/iap_home.html">Internet Connectivity</A> | The premier Internet access and solutions provider for business, offering the highest speed and most reliable access. <BR>
+13c17
+< <A HREF="http://www.aimnet.com/IT_home.htm">Internet Technology Development</A> | Client/server software to manage Internet service businesses | and to implement new, global Internet technologies. <BR>
+---
+> <A HREF="http://www.aimnet.com/IT_home.htm">Internet Technology Development</A> | Client/server software to manage Internet service businesses and to implement new, global Internet technologies. <BR>
+15c19
+< <A HREF="http://www.aimnet.com/fact_sht.html">Corporate Profile</A> | Background information, press releases, | employment opportunities. 
+---
+> <A HREF="http://www.aimnet.com/fact_sht.html">Corporate Profile</A> | Background information, press releases, employment opportunities. 
+21c25
+< <P> Last Modified: March 20, 1996
+---
+> <P> Last Modified: June 10, 1996
+=== Wed,  1 May 1996 17:52:51 GMT
+3,4c3
+< [ Image: [Aimnet(tm)] ] | [ Image: [Aimnet(tm)] ]
+< <P> [ Image: [Aimnet(tm)] ]
+---
+> [Image]
+6c5
+< <A HREF="http://www.aimnet.com/index.html">Web Site Index</A> 
+---
+> Making Internet telecommunications a reality. | Providing unparalleled Internet access.
+8c7,8
+< <A HREF="http://www.aimnet.com/prodover.html">[ Image: Products & Services ]</A> <A HREF="http://www.aimnet.com/aimweb.html">[ Image: BusinessWeb ]</A> | <A HREF="http://www.aimnet.com/a_sform.html">[ Image: Subscribe Now ]</A> <A HREF="http://www.aimnet.com/fact_sht.html">[ Image: Company Information ]</A>
+---
+> [ <A HREF="http://www.aimnet.com/software.htm" >Internet Software</A> ] [ <A HREF="http://www.aimnet.com/aimnet.html" >Internet Connectivity Options</A> ] [ <A HREF="http://www.aimnet.com/w_over.html" >Web Services</A> ]
+> Welcome to Aimnet Corporation. Click below for information on Aimnet and our two business units. 
+10c10,16
+< <A HREF="http://www.aimnet.com/a_what.html">What's New</A> <A HREF="http://www.aimnet.com/faq.html">FAQ & Technical Notepad</A> <A HREF="http://www.aimnet.com/releases.html">Press Releases</A>
+---
+> <A HREF="http://www.aimnet.com/iap.html">[ Image: internet access ]</A>
+> <A HREF="http://www.aimnet.com/iap_home.html">Internet Access Provision</A> | The premier Internet solution's provider for business, | offering the highest speed and most reliable access. <BR>
+> <A HREF="http://www.aimnet.com/IT_home.htm">[ Image: Internet technologies ]</A>
+> <A HREF="http://www.aimnet.com/IT_home.htm">Internet Technology Development</A> | Client/server software to manage Internet service businesses | and to implement new, global Internet technologies. <BR>
+> <A HREF="http://www.aimnet.com/fact_sht.html">[ Image: corporate profile ]</A>
+> <A HREF="http://www.aimnet.com/fact_sht.html">Corporate Profile</A> | Background information, press releases, | employment opportunities. 
+> <P> Send your comments and questions to <A HREF="mailto:webmaster@aimnet.net">webmaster@aimnet.net</A>
+12,28c18,21
+< <A HREF="http://www.aimnet.com/a_locale.html">Exploring the Web</A> <A HREF="http://www.aimnet.com/employ.html">Employment Opportunities</A>
+< <P>
+< Welcome to Aimnet(tm), a one-stop Internet service provider for the San Francisco Bay Area.
+< <P> Aimnet offers a complete range of <A HREF="http://www.aimnet.com/aimnet.html">connectivity options</A> , <A HREF="http://www.aimnet.com/secure.html">security and firewall services</A> , and <A HREF="http://www.aimnet.com/w_over.html">WWW site development</A> . Check out our new <A HREF="http://www.aimnet.com/faq.html">Aimnet FAQ</A> .
+< <P> Aimnet also features <A HREF="http://www.aimnet.com/aimweb.html">Aimnet BusinessWeb,</A> for access to innovative companies and associations. Be sure to check out our pointers to other <A HREF="http://www.aimnet.com/a_locale.html">great locations</A> and our <A HREF="http://www.aimnet.com/ w_auth.html">Internet Authors and Publishers Web pages</A> !
+< <P> [Image] <A HREF="http://www.aimnet.com/3com_01.html">Aimnet is the Internet connectivity provider to 3Com Park.</A>
+< <P> If you cannot display graphics, please use these text links:
+< <BR>* <A HREF="http://www.aimnet.com/aimnet.html">Connectivity Options</A>
+< <BR>* <A HREF="http://www.aimnet.com/a_subscb.html">Subscription Information</A>
+< <BR>* <A HREF="http://www.aimnet.com/a_sform.html">Subscribe Now</A>
+< <BR>* <A HREF="http://www.aimnet.com/secure.html">Security and Firewalls</A>
+< <BR>* <A HREF="http://www.aimnet.com/w_over.html">Web Site Development</A>
+< <P>
+< | Aimnet Corporation | 2350 Mission College Blvd., Ste. 600 | Santa Clara, California 95054
+< Tel: 408-567-3800 | Fax: 408-567-3990 | E-mail: <A HREF="mailto:info@aimnet.net">info@aimnet.net</A> | E-mail: <A HREF="mailto:sales@aimnet.net">sales@aimnet.net</A> | E-mail: <A HREF="mailto:support@aimnet.net">support@aimnet.net</A> |
+< <P> Last Modified: March 7, 1996
+< 
+---
+> Aimnet Corporation | 2350 Mission College Blvd., Ste. 600 | Santa Clara, California 95054
+> Tel: 408-567-3800 | Fax: 408-567-3990 | E-mail: <A HREF="mailto:info@aimnet.net">info@aimnet.net</A> | E-mail: <A HREF="mailto:sales@aimnet.net">sales@aimnet.net</A> | E-mail: <A HREF="mailto:support@aimnet.net">support@aimnet.net</A>
+> <P> &copy; 1996 Aimnet Corporation. All rights reserved. Aimnet Internet Ranger and Aimnet Internet Management System are trademarks of Aimnet Corporation.
+> <P> Last Modified: March 20, 1996
+=== Fri, 19 Apr 1996 19:22:17 GMT
+6c6
+< <A HREF="http://www.aimnet.com/index.html">Aimnet's Web Site Index</A>
+---
+> <A HREF="http://www.aimnet.com/index.html">Web Site Index</A> 
+8,12c8
+< <A HREF="http://www.aimnet.com/ranger.html">Aimnet releases Internet Ranger(tm)</A>
+< <P>
+< <A HREF="http://www.aimnet.com/seminar.html">Aimnet's Internet Seminar Series</A>
+< <P>
+< <A HREF="http://www.aimnet.com/prodover.html">[ Image: Products & Services ]</A> <A HREF="http://www.aimnet.com/aimweb.html">[ Image: BusinessWeb ]</A> | <A HREF="http://www.aimnet.com/a_sform.html">[ Image: Subscribe Now ]</A> <A HREF="http://www.asialink.com">[ Image: AsiaLink ]</A> | <A HREF="http://www.aimnet.com/fact_sht.html">[ Image: Company Information ]</A>
+---
+> <A HREF="http://www.aimnet.com/prodover.html">[ Image: Products & Services ]</A> <A HREF="http://www.aimnet.com/aimweb.html">[ Image: BusinessWeb ]</A> | <A HREF="http://www.aimnet.com/a_sform.html">[ Image: Subscribe Now ]</A> <A HREF="http://www.aimnet.com/fact_sht.html">[ Image: Company Information ]</A>
+=== Mon, 11 Mar 1996 06:35:35 GMT
+0a1,31
+> [ Title: Aimnet - Home Page ]
+> <P>
+> [ Image: [Aimnet(tm)] ] | [ Image: [Aimnet(tm)] ]
+> <P> [ Image: [Aimnet(tm)] ]
+> <P>
+> <A HREF="http://www.aimnet.com/index.html">Aimnet's Web Site Index</A>
+> <P>
+> <A HREF="http://www.aimnet.com/ranger.html">Aimnet releases Internet Ranger(tm)</A>
+> <P>
+> <A HREF="http://www.aimnet.com/seminar.html">Aimnet's Internet Seminar Series</A>
+> <P>
+> <A HREF="http://www.aimnet.com/prodover.html">[ Image: Products & Services ]</A> <A HREF="http://www.aimnet.com/aimweb.html">[ Image: BusinessWeb ]</A> | <A HREF="http://www.aimnet.com/a_sform.html">[ Image: Subscribe Now ]</A> <A HREF="http://www.asialink.com">[ Image: AsiaLink ]</A> | <A HREF="http://www.aimnet.com/fact_sht.html">[ Image: Company Information ]</A>
+> <P>
+> <A HREF="http://www.aimnet.com/a_what.html">What's New</A> <A HREF="http://www.aimnet.com/faq.html">FAQ & Technical Notepad</A> <A HREF="http://www.aimnet.com/releases.html">Press Releases</A>
+> <P>
+> <A HREF="http://www.aimnet.com/a_locale.html">Exploring the Web</A> <A HREF="http://www.aimnet.com/employ.html">Employment Opportunities</A>
+> <P>
+> Welcome to Aimnet(tm), a one-stop Internet service provider for the San Francisco Bay Area.
+> <P> Aimnet offers a complete range of <A HREF="http://www.aimnet.com/aimnet.html">connectivity options</A> , <A HREF="http://www.aimnet.com/secure.html">security and firewall services</A> , and <A HREF="http://www.aimnet.com/w_over.html">WWW site development</A> . Check out our new <A HREF="http://www.aimnet.com/faq.html">Aimnet FAQ</A> .
+> <P> Aimnet also features <A HREF="http://www.aimnet.com/aimweb.html">Aimnet BusinessWeb,</A> for access to innovative companies and associations. Be sure to check out our pointers to other <A HREF="http://www.aimnet.com/a_locale.html">great locations</A> and our <A HREF="http://www.aimnet.com/ w_auth.html">Internet Authors and Publishers Web pages</A> !
+> <P> [Image] <A HREF="http://www.aimnet.com/3com_01.html">Aimnet is the Internet connectivity provider to 3Com Park.</A>
+> <P> If you cannot display graphics, please use these text links:
+> <BR>* <A HREF="http://www.aimnet.com/aimnet.html">Connectivity Options</A>
+> <BR>* <A HREF="http://www.aimnet.com/a_subscb.html">Subscription Information</A>
+> <BR>* <A HREF="http://www.aimnet.com/a_sform.html">Subscribe Now</A>
+> <BR>* <A HREF="http://www.aimnet.com/secure.html">Security and Firewalls</A>
+> <BR>* <A HREF="http://www.aimnet.com/w_over.html">Web Site Development</A>
+> <P>
+> | Aimnet Corporation | 2350 Mission College Blvd., Ste. 600 | Santa Clara, California 95054
+> Tel: 408-567-3800 | Fax: 408-567-3990 | E-mail: <A HREF="mailto:info@aimnet.net">info@aimnet.net</A> | E-mail: <A HREF="mailto:sales@aimnet.net">sales@aimnet.net</A> | E-mail: <A HREF="mailto:support@aimnet.net">support@aimnet.net</A> |
+> <P> Last Modified: March 7, 1996

@@ -1,0 +1,181 @@
+=== Mon, 15 Jul 1996 01:34:31 GMT
+1c1,2
+< [ Title: Intuit Home Page ]
+---
+> [ Title: Intuit Inc. Homepage ]
+> <P><A NAME="TOP">[Image] |
+3,4c4
+< [Image]
+< <P> |
+---
+> [ Image: INTUIT ]
+6,10c6,19
+< <A HREF="http://www.intuit.com/quicken/">[ Image: intuit-button.gif ]</A> | <A HREF="http://www.intuit.com/quicken/">Quicken Online</A> | <A HREF="http://www.intuit.com/quickbooks/">[ Image: intuit-button.gif ]</A> | <A HREF="http://www.intuit.com/quickbooks/">QuickBooks Small Business Online</A> | <BR>
+< <A HREF="http://www.intuit.com/turbotax/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/turbotax/">TurboTax Online</A> <A HREF="http://www.intuit.com/proseries/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/proseries/">ProSeries Online</A><BR>
+< <A HREF="http://www.parsonstech.com">[ Image: intuit-button.gif ]</A> <A HREF="http://www.parsonstech.com">Parsons Technology</A> <A HREF=http://www.intuit.com/support/customer-service/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/support/index.html">Support</A><BR>
+< <A HREF="http://www.intuit.com/qfp/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/qfp/">Quicken Financial Planner</A> <A HREF="http://networth.galt.com">[ Image: intuit-button.gif ]</A> <A HREF="http://networth.galt.com">NETworth: | The Internet Investor Network</A>
+< <P><A HREF="http://www.intuit.com/int-marketplace/hot-offer/index.html">[ Image: mkt-hot-offers.gif ]</A>
+---
+> Revolutionizing how people | manage their financial lives 
+> <P><A HREF="http://www.intuit.com/images/maps/menu.map">[Image]</A>
+> <P><A HREF="http://www.qfn.com">[ Image: Quicken Financial Network ]
+> <P></A>
+> <P><A HREF="http://www.intuit.com#ABOUT">[ Image: About Intuit ]
+> <P></A>
+> <P><A HREF="http://www.intuit.com#QUICKEN">Q uicken and Personal Finance</A>
+> <P><A HREF="http://www.intuit.com#SMALL_BUS">Q uickBooks and Small Business Finance</A>
+> <P><A HREF="http://www.intuit.com/turbotax/">T urboTax, MacInTax, and Personal Taxes</A>
+> <P><A HREF="http://www.intuit.com/proseries/">P roSeries and Professional Tax Preparation</A>
+> <P><A HREF="http://www.intuit.com#FIN_GO">F inances on the Go</A>
+> <P><A HREF="http://www.intuit.com#ONLINE">O nline Financial Services</A>
+> <P><A HREF="http://www.intuit.com#INTNL">I ntuit International</A>
+> <P><A HREF="http://www.parsonstech.com">P arsons Technology</A>
+12,14c21
+< <A HREF="http://www.intuit.com/int-human-resources/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-human-resources/">Intuit Human Resources</A> <A HREF="http://www.intuit.com/int-corp-press-release/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-corp-press-release/">Corporate Press Releases</A> | <BR>
+< <A HREF="http://www.intuit.com/int-international/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-international/">Intuit International</A> <A HREF="http://www.intuit.com/int-marketplace/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-marketplace/">Product Marketplace</A><BR>
+< [Image] 
+---
+> | <A NAME="QUICKEN">[Image]
+16c23,111
+< &#169; Intuit Inc. 1996 
+---
+> Quicken and Personal Finance
+> <P>* <A HREF="http://www.intuit.com/quicken/home.html">Quicken</A>
+> Helps you organize and track all your personal finances--accounts, credit cards, investments, budgets, and online banking--in one convenient place.
+> <P>* <A HREF="http://www.intuit.com/qfp">Quicken Financial Planner (QFP)</A> |
+> While Quicken helps you track your finances, QFP helps you plan for the important events in your financial future, including college, retirement, and buying a home.
+> <P>* <A HREF="http://www.intuit.com/expensable/">Expens Able</A> |
+> Your one-step solution to doing expense reports. Expens Able automatically sorts your expenses, does all the math, and creates a detailed expense report for you. Works with Quicken and Pocket Quicken.
+> <P>* <A HREF="http://www.intuit.com/pq/">Pocket Quicken</A> |
+> Instantly organizes your finances--anytime, anywhere. Easily update checking, credit card, savings, even cash accounts on-the-go. Then, send your data to Quicken or Expens Able with no double-entry.
+> <P>
+> <A NAME="SMALL_BUS">[Image]
+> <P>
+> QuickBooks and Small Business Finance
+> <P>* <A HREF="http://www.intuit.com/quickbooks">QuickBooks Small Business Online</A> |
+> The Web site from Intuit that is dedicated to small business people. It features QuickBooks news and information, a directory of links to other small business Web sites, and QuickBooks tips and updates.
+> <P>* <A HREF="http://www.intuit.com/int-marketplace/quickbooks/">QuickBooks</A> |
+> QuickBooks is the fastest, easiest way to manage your business. It provides all the key business features you need, including invoicing, inventory, payroll and more. <A HREF="http://www.intuit.com/int-marketplace/quickbooks-trial/">Try it free!</A>
+> <P>* <A HREF="http://www.intuit.com/int-marketplace/quickbooks-pro/">QuickBooks Pro</A> |
+> QuickBooks Pro has all the accounting and payroll features of QuickBooks, plus time tracking, estimating, and job costing. It's project tracking and accounting all in one. <A HREF="http://www.intuit.com/int-marketplace/quickbooks-trial/">Try it free!</A>
+> <P>* <A HREF="http://www.intuit.com/int-marketplace/quickpay/">QuickPay</A> |
+> QuickPay is Intuit's payroll solution for Quicken business users. QuickPay saves you time because it automatically calculates earnings, taxes, and deductions for you.
+> <P>
+> <A NAME="TTAX">[Image]
+> <P>
+> TurboTax, MacInTax and Personal Taxes
+> <P>* <A HREF="http://www.intuit.com/turbotax">TurboTax and MacInTax</A> |
+> TurboTax and MacInTax, America's #1 tax software, make taxes easy. Just answer the simple questions and TurboTax fills out your tax return for you, like an accountant would. It's the easiest way to do your taxes.
+> <P>
+> <A NAME="PRO_SER">[Image]
+> <P>
+> ProSeries and Professional Tax Preparation
+> <P>* <A HREF="http://www.intuit.com/proseries">ProSeries Professional Tax Software</A> |
+> ProSeries, the comprehensive yet easy-to-use software for professional tax preparers, includes productivity-boosting features such as expanding tables, unlimited forms and schedules, pick lists, customizable client letter and billing options, and more.
+> <P> The ProSeries family of software includes products in these categories: federal and state individual tax, federal and state business tax, electronic filing, research and reference, accounting and client software, as well as self-study courses and seminars.
+> <A NAME="FIN_GO">[Image]
+> <P>
+> Finances on the Go
+> <P>* <A HREF="http://www.intuit.com/expensable/">Expens Able</A> |
+> Your one-step solution to doing expense reports. Expens Able automatically sorts your expenses, does all the math, and creates a detailed expense report for you. Works with Quicken and Pocket Quicken.
+> <P>* <A HREF="http://www.intuit.com/pq/">Pocket Quicken</A> |
+> Instantly organizes your finances - anytime, anywhere. Easily update checking, credit card, savings, even cash accounts on-the-go. Then, send your data to Quicken or Expens Able with no double-entry.
+> <P>
+> <A NAME="ONLINE">[Image]
+> <P>
+> Online Financial Services
+> <P>* <A HREF="http://www.qfn.com">Quicken Financial Network (QFN)</A> |
+> Our new financial information and services area. From the new QFN home page, you can get stock quotes; read today's business news; browse the financial library; and visit the investments, insurance, and online banking centers.
+> <P>* <A HREF="http://www.intuit.com/int-marketplace/online-banking/">Online banking</A> |
+> Get daily data on your accounts directly from your bank, and then use it to update your Quicken registers automatically.
+> <P>* <A HREF="http://www.intuit.com/int-marketplace/online-banking/benefit-02/index.html">Online bill payment</A> |
+> A convenient service that lets you pay bills online. You send payment instructions via modem, and payment is made automatically from your bank account to the payee.
+> <P>* <A HREF="http://networth.galt.com">NETworth</A> |
+> A comprehensive mutual fund service. Search the Morningstar database of fund information, organize your mutual fund data with the Mutual Fund Market Manager, and update your portfolio with a stock quote service (15 minute delayed).
+> <P>* <A HREF="http://www.intuit.com/investorinsight/">Investor Insight</A> |
+> Lets you track your portfolio of stocks and mutual funds. Retrieve current news and analyst reports about your investments, and download the latest prices from the markets.
+> <P>
+> <A NAME="INTNL">[Image]
+> <P>
+> Intuit International
+> <P>
+> L ocalized versions of our products are available in:
+> <BR> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/argentina.html">Argentina</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/australia.html">Australia</A> |
+> <BR>* <A HREF="http://www.intuit.com/canada/">Canada</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/chile.html">Chile</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/columbia.html">Colombia</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/france.html">France</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/germany.html">Germany</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/mexico.html">Mexico</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/africa.html">South Africa</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/spain.html">Spain</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/uk.html">United Kingdom</A> |
+> <BR>* <A HREF="http://www.intuit.com/int-international/venezuela.html">Venezuela</A> |
+> <A NAME="ABOUT">[Image]
+> <P>
+> About Intuit
+> <P>* <A HREF="http://www.intuit.com/int-human-resources/">Career opportunities</A> |
+> Learn about career opportunities and benefits at Intuit, along with our history and company values, in the Intuit Human Resources area.
+> <P>* <A HREF="http://www.intuit.com/int-corp-press-release/">Corporate news</A> |
+> Read the full text of Intuit's corporate press releases.
+> <P>* <A HREF="http://www.intuitbeta.com/">Opportunities for Beta Testers</A> |
+> Help us make our new products as good as they can be. We're looking for people to be beta testers for Quicken, QuickBooks, and other Intuit products.
+> <P> |
+> <A HREF="http://www.intuit.com/support/">Support |</A> <A HREF="http://www.intuit.com/int-marketplace/">Intuit Products |</A> <A HREF="http://www.intuit.com/help/site_map.html">Site Map</A>
+> <P><A HREF="http://www.intuit.com#TOP">Go to the top of this page</A>
+> <P> [Image]
+> <P>
+> &#169; 1996, Intuit Inc. 
+=== Wed,  1 May 1996 17:53:08 GMT
+3c3,4
+< [Image] |
+---
+> [Image]
+> <P> |
+5,7c6,9
+< <A HREF="http://www.intuit.com/quicken/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/quicken/">Quicken Online</A> | <A HREF="http://www.intuit.com/quickbooks/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/quickbooks/">QuickBooks Small Business Online</A> | <BR>
+< <A HREF="http://www.intuit.com/turbotax/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/turbotax/">TurboTax Online</A> | <A HREF="http://www.intuit.com/proseries/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/proseries/">ProSeries Online</A><BR>
+< <A HREF="http://www.parsonstech.com">[ Image: intuit-button.gif ]</A> <A HREF="http://www.parsonstech.com">Parsons Technology</A> | <A HREF="http://networth.galt.com">[ Image: intuit-button.gif ]</A> <A HREF="http://networth.galt.com">NETworth: | The Internet Investor Network</A>
+---
+> <A HREF="http://www.intuit.com/quicken/">[ Image: intuit-button.gif ]</A> | <A HREF="http://www.intuit.com/quicken/">Quicken Online</A> | <A HREF="http://www.intuit.com/quickbooks/">[ Image: intuit-button.gif ]</A> | <A HREF="http://www.intuit.com/quickbooks/">QuickBooks Small Business Online</A> | <BR>
+> <A HREF="http://www.intuit.com/turbotax/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/turbotax/">TurboTax Online</A> <A HREF="http://www.intuit.com/proseries/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/proseries/">ProSeries Online</A><BR>
+> <A HREF="http://www.parsonstech.com">[ Image: intuit-button.gif ]</A> <A HREF="http://www.parsonstech.com">Parsons Technology</A> <A HREF=http://www.intuit.com/support/customer-service/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/support/index.html">Support</A><BR>
+> <A HREF="http://www.intuit.com/qfp/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/qfp/">Quicken Financial Planner</A> <A HREF="http://networth.galt.com">[ Image: intuit-button.gif ]</A> <A HREF="http://networth.galt.com">NETworth: | The Internet Investor Network</A>
+10c12,14
+< [Image]
+---
+> <A HREF="http://www.intuit.com/int-human-resources/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-human-resources/">Intuit Human Resources</A> <A HREF="http://www.intuit.com/int-corp-press-release/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-corp-press-release/">Corporate Press Releases</A> | <BR>
+> <A HREF="http://www.intuit.com/int-international/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-international/">Intuit International</A> <A HREF="http://www.intuit.com/int-marketplace/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/int-marketplace/">Product Marketplace</A><BR>
+> [Image] 
+12,18c16
+< <A HREF="http://www.intuit.com/int-human-resources/">[Image] Intuit Human Resources</A><BR>
+< <A HREF="http://www.intuit.com/int-corp-press-release/">[Image] Corporate Press Releases</A> | <BR>
+< <A HREF="http://www.intuit.com/int-international/">[Image] Intuit International</A><BR>
+< <A HREF="http://www.intuit.com/int-marketplace/">[Image] Product Marketplace</A>
+< <P> |
+< <P>
+< &#169; Intuit Inc. 1995 
+---
+> &#169; Intuit Inc. 1996 
+=== Mon, 11 Mar 1996 06:35:49 GMT
+0a1,18
+> [ Title: Intuit Home Page ]
+> <P>
+> [Image] |
+> <P>
+> <A HREF="http://www.intuit.com/quicken/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/quicken/">Quicken Online</A> | <A HREF="http://www.intuit.com/quickbooks/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/quickbooks/">QuickBooks Small Business Online</A> | <BR>
+> <A HREF="http://www.intuit.com/turbotax/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/turbotax/">TurboTax Online</A> | <A HREF="http://www.intuit.com/proseries/">[ Image: intuit-button.gif ]</A> <A HREF="http://www.intuit.com/proseries/">ProSeries Online</A><BR>
+> <A HREF="http://www.parsonstech.com">[ Image: intuit-button.gif ]</A> <A HREF="http://www.parsonstech.com">Parsons Technology</A> | <A HREF="http://networth.galt.com">[ Image: intuit-button.gif ]</A> <A HREF="http://networth.galt.com">NETworth: | The Internet Investor Network</A>
+> <P><A HREF="http://www.intuit.com/int-marketplace/hot-offer/index.html">[ Image: mkt-hot-offers.gif ]</A>
+> <P>
+> [Image]
+> <P>
+> <A HREF="http://www.intuit.com/int-human-resources/">[Image] Intuit Human Resources</A><BR>
+> <A HREF="http://www.intuit.com/int-corp-press-release/">[Image] Corporate Press Releases</A> | <BR>
+> <A HREF="http://www.intuit.com/int-international/">[Image] Intuit International</A><BR>
+> <A HREF="http://www.intuit.com/int-marketplace/">[Image] Product Marketplace</A>
+> <P> |
+> <P>
+> &#169; Intuit Inc. 1995 

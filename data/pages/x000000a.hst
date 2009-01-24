@@ -1,0 +1,96 @@
+=== Mon, 15 Jul 1996 01:34:47 GMT
+53c53
+< <P> The HOME TEAM ( HOME T echnology E ducation A nd M arketing) is a resource provided to the Internet community by the industries involved with modern homes. Our most valued resource is our "next generation" search engine. We believe that quality is more important than quantity . Unlike other search engines which may provide links to a million pages with your keywords, the HOME TEAM search engine lets you focus on types , sources , and uses . You won't get a million links from your searches here, but every link will be better focused on the information you seek. We sincerely hope that you find this site both interesting & useful, and we suggest you bookmark it for those times when quality searches are more important than quantity.
+---
+> <P> The HOME TEAM ( HOME T echnology E ducation A nd M arketing) is a directory and resource provided to the Internet community by the industries involved with modern homes. Our most valued resource is our "next generation" search engine. We believe that quality is more important than quantity . Unlike other search engines which may provide links to a million pages with your keywords, the HOME TEAM search engine lets you focus on types , sources , and uses . You won't get a million links from your searches here, but every link will be better focused on the information you seek. We sincerely hope that you find this site both interesting & useful, and we suggest you bookmark it for those times when quality searches are more important than quantity.
+=== Fri, 19 Apr 1996 19:23:41 GMT
+5c5,6
+< <A HREF="http://www.hometeam.com/cgi-win/blink.exe">[Image]</A> | [ Image: Home ] | [ Image: the HOME TEAM ] Welcome to | the HOME TEAM! | This site is designed for Netscape 2.0 browsers. We highly recommend you <A HREF="http://www.netscape.com/comprod/mirror/index.html">download a free copy</A> and return to get the full benefits of this site. | 
+---
+> <A HREF="http://www.hometeam.com/cgi-win/blink.exe" target="_top">[Image]</A> | [Image] | [ Image: the HOME TEAM ] Welcome to | the HOME TEAM! | This site is designed for Netscape 2.0 browsers. We highly recommend you <A HREF="http://www.netscape.com/comprod/mirror/index.html">download a free copy</A> and return to get the full benefits of this site. | 
+> <P> [Input] [Input] [Input] [Input] [Input] [Input]
+10,11c11
+< - 100 [Input] [Input] Pages [Input] Names
+< <BR>
+---
+> - 100 [Input] [Input] Pages [Input] Names | <BR>
+53,54c53
+< <P> Winner of the Home Automation Association '95 Mark of Excellence Award!
+< <P> The HOME TEAM ( HOME T echnology E ducation A nd M arketing) is a resource that is provided to the Internet community by the industries that are involved with modern homes. We sincerely hope that you find this site both interesting & useful.
+---
+> <P> The HOME TEAM ( HOME T echnology E ducation A nd M arketing) is a resource provided to the Internet community by the industries involved with modern homes. Our most valued resource is our "next generation" search engine. We believe that quality is more important than quantity . Unlike other search engines which may provide links to a million pages with your keywords, the HOME TEAM search engine lets you focus on types , sources , and uses . You won't get a million links from your searches here, but every link will be better focused on the information you seek. We sincerely hope that you find this site both interesting & useful, and we suggest you bookmark it for those times when quality searches are more important than quantity.
+61a61
+> <P>* We also welcome you to download a copy of our <A HREF="http://www.hometeam.com/tools/search.htm">free web page custom search engine</A> or our <A HREF="http://www.hometeam.com/real/homepage.htm">free real estate web kit</A> which includes both search engines, backgrounds, icons, & sample graphics.
+63,65c63,64
+< <A HREF=mailto:webmaster@hometeam.com>webmaster@hometeam.com</A>
+< <A HREF="http://www.hometeam.com/copyrigh.htm">Copyright © 1995 Home Systems Network</A>
+< 
+---
+> <A HREF="http://www.hometeam.com/~imagemap/menubar">[Image]</A> | <A HREF="http://www.hometeam.com/members/home.htm">[Image]</A>
+> <P><A HREF=mailto:webmaster@hometeam.com>webmaster@hometeam.com</A>
+=== Mon, 11 Mar 1996 06:35:59 GMT
+0a1,64
+> [ Title: HOME TEAM: Advanced Search Site ]
+> <P>
+> <A HREF="http://www.hometeam.com/~imagemap/menubar">[Image]</A>
+> <P>
+> <A HREF="http://www.hometeam.com/cgi-win/blink.exe">[Image]</A> | [ Image: Home ] | [ Image: the HOME TEAM ] Welcome to | the HOME TEAM! | This site is designed for Netscape 2.0 browsers. We highly recommend you <A HREF="http://www.netscape.com/comprod/mirror/index.html">download a free copy</A> and return to get the full benefits of this site. | 
+> <P>
+> [Input]
+> - 25
+> - 50
+> - 100 [Input] [Input] Pages [Input] Names
+> <BR>
+> [Input] [Input] Type:
+> - All
+> - Home Page
+> - Quick Tour
+> - Description
+> - Technical
+> - Personal
+> - News Source:
+> - All
+> - Advertise/Marketing
+> - Association
+> - Broker
+> - Business Opportunity
+> - Consultant
+> - Contractor/Builder
+> - Distributor
+> - Education/Training
+> - Engineer/Architect
+> - Financial Service
+> - Food/Drink Service
+> - Government
+> - Internet Service
+> - Legal Service
+> - Manufacturer
+> - Manufacturer's Rep
+> - Military
+> - News Service
+> - Organization
+> - Personal/User
+> - Publication
+> - Research & Develop
+> - Retailer
+> - Service Provider For:
+> - All
+> - Home
+> - Business
+> - Art & Entertainment
+> - Transportation
+> - Life, Health, Sports
+> - Literature & Science
+> - General 
+> <P> Winner of the Home Automation Association '95 Mark of Excellence Award!
+> <P> The HOME TEAM ( HOME T echnology E ducation A nd M arketing) is a resource that is provided to the Internet community by the industries that are involved with modern homes. We sincerely hope that you find this site both interesting & useful.
+> <P>* <A HREF="http://www.hometeam.com/homenet/home.htm">Home Networks</A> - Provides a wealth of information about the products and services that are available for modern intelligent homes.
+> <P>* <A HREF="http://www.hometeam.com/real/home.htm">Real Estate</A> - Provides a search engine you can use to find real estate for sale or rent, & other resources for people interested in real estate.
+> <P>* <A HREF="http://www.hometeam.com/homeiq/home.htm">Home IQ Program</A> - Provides information about the proposed standard under development to measure the amount of intelligence in homes & buildings.
+> <P>* <A HREF="http://www.hometeam.com/members/home.htm">Member Sites</A> - Provides a convenient list of the HOME TEAM members which offer products and services for modern intelligent homes.
+> <P>* <A HREF="http://www.hometeam.com/site/home.htm">Site Info</A> - Find out more about the HOME TEAM and the services which are available to help businesses.
+> <P>* <A HREF="http://www.hometeam.com/free/home.htm">Free Pages</A> - This user friendly form lets you create your own "Home Page" on the Internet for FREE!
+> <P>* <A HREF="http://www.hometeam.com/addurl/home.htm">Add URL</A> - This page lets you submit your URL to the HOME TEAM database and 26 other popular search sites.
+> <P>
+> <A HREF=mailto:webmaster@hometeam.com>webmaster@hometeam.com</A>
+> <A HREF="http://www.hometeam.com/copyrigh.htm">Copyright © 1995 Home Systems Network</A>

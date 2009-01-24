@@ -1,0 +1,28 @@
+#!/usr/local/bin/perl4.036
+
+   @dofw = ( "Sun","Mon","Tue","Wed","Thu","Fri","Sat" );
+   @mofy = ( "Jan","Feb","Mar","Apr","May","Jun",
+                    "Jul","Aug","Sep","Oct","Nov","Dec" );
+
+   ($sec,$min,$hour,$dayofmonth,$mon,$year,$wday,$yday,$isdst) 
+      = gmtime(time);
+
+   #
+   #  Adjust the year based on the assumption that we're only
+   #  working with dates between 1951 and 2050.
+   #
+   if ( ($year > 50) && ($year < 99) ) {
+      $year = 1900 + $year;
+   } else {
+      $year = 2000 + $year if ( $year <= 50 );
+   }
+
+   $day   = $dofw[$wday];
+   $month = $mofy[$mon];
+   $zone  = "GMT";
+
+   print "Content-type: text/plain\n\n";
+
+   printf("%s, %2d %s %s %02d:%02d:%02d %s\n",
+            $day,$dayofmonth,$month,$year,$hour,$min,$sec,$zone);
+

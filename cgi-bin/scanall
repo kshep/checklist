@@ -1,0 +1,47 @@
+#!/usr/local/bin/perl4.036
+#======================================================================
+#
+#  /cgi-bin/scanall.pl
+#
+#----------------------------------------------------------------------
+#   a1   03/04/96   Original Version (alpha 1)
+#----------------------------------------------------------------------
+
+   if ( $ENV{'HOME'} eq "" ) {
+      unshift(@INC,'/u6/users/kens/public_html/cgi-bin');
+   } elsif ( $ENV{'HOME'} eq "/u6/users/kens" ) {
+      unshift(@INC,'/u6/users/kens/public_html/cgi-bin');
+   } elsif ( $ENV{'HOME'} eq "C:\\" ) {
+      unshift(@INC,'c:\website\cgi-shl');
+   } else { die "Content/type: text/plain\n\n Bad install"; }
+
+   require "cgi-lib.pl";
+   require "throw.pl";
+   require "db.pl";
+   require "config.pl";
+   require "scanpage.pl";
+
+
+   &ReadParse(*input);
+
+   &config("kens");
+
+   open(PAGEDB,$G'dbfile) || &throw("Can't open $G'dbfile");
+   &dbread(PAGEDB,*pagedb);
+   close(PAGEDB);
+
+   $| = 1;
+
+   print "Content-type: text/plain\n\n";
+
+   foreach $pageid (sort(keys(%pagedb))) {
+
+      ($visit,$url,$title,$desc) = split("\000",$list{$pageid});
+
+      print "Scanning >$pageid<\n";
+
+      &scanpage($pageid) || print "Error reading page\n\n";
+
+   }
+
+#======================================================================

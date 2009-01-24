@@ -1,0 +1,165 @@
+=== Mon, 15 Jul 1996 01:42:36 GMT
+3,8c3,81
+< <P> Get Vim 3.0, a world-class vi clone, for Win32 (Windows NT and Windows 95).
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/README.vim">README for Vim</A>
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim3w32s.zip">The source for Vim</A>
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim3w32b.zip">The binaries for Vim</A>
+< <BR>* <A HREF="ftp://ftp.uu.net/pub/archiving/zip/WIN32/unz512xN.exe">InfoZIP's Unzip</A>
+< <BR>* <A HREF="ftp://ftp.uu.net/pub/archiving/zip/WIN32/zip201xN.zip">InfoZIP's Zip</A>
+---
+> <P> Get Vim, a world-class vi clone, for Win32 (Windows NT and Windows 95).
+> <P> Win32 binaries are available from <A HREF="http://www.halcyon.com/gvr/vim/welcome.html#halcyon-vim-win32-ftp">ftp://ftp.halcyon.com/local/gvr/vim/</A>
+> <P> Vim 4
+> <P> Vim 4.2 was released on Friday 21st June 1996, after several months of beta testing. It has been tested by quite a few people, it should work without problems on most systems.
+> <P> Vim is an almost compatible version of the UNIX editor vi. Many new features have been added: multi level undo, command line history, filename completion, block operations, etc. Those who don't know vi can probably skip this message, unless you are prepared to learn something new and useful. Vim is especially useful for editing C programs.
+> <P> Vim should run on any Unix flavor, MS-DOS, Windows 3.1, Windows 95, Windows NT, OS/2 and Amiga. Ports for VMS, Atari MiNT and Mac are being worked on.
+> <P> The most interesting changes (there are a whole lot more): New on-line help system.
+> <BR> Help is now displayed in a window. Tags can be used to jump around in the documentation (like hypertext links). Mouse support.
+> <BR> The mouse is supported in an xterm and for MS-DOS. It can be used to position the cursor, select the visual area, paste a register, etc. Graphical User Interface (GUI).
+> <BR> Included support for GUI: menu's, mouse, scrollbars, etc. Currently only with Motif and Athena interface. Command line editing improved.
+> <BR> Separate history for search commands. Improved command line completion (for tags, help, buffer names, etc). Improved indenting for C programs.
+> <BR> Added 'cindent' option for configurable C indent mode. Automatic indenting while inserting text. The "=" operator can be used to indent specific lines. Formatting of comments (also for other languages and e-mail). Searching for words in include files.
+> <BR> Added commands to search for a word in the current file and in included files. List the first match, list all matches or jump to a match. Quickly find out where a define, function of variable is declared. Word completion in Insert mode.
+> <BR> Added commands to complete the word before the cursor in Insert mode. Matches can be found in the current file, included files and/or a dictionary. Works a lot better than the word completion macros. Automatic commands.
+> <BR> Commands can be automatically executed when reading a file, writing a file, jumping to another buffer, etc., depending on the file name. This is useful to set options and mappings for C programs, documentation, plain text, e-mail, etc. This also makes it possible to edit compressed files. Text objects.
+> <BR> After an operator and in visual mode, text object commands can be used to quickly select a word, line or paragraph. Delete the current sentence with "ds". Format the current paragraph with "Qp". Options.
+> <BR> A whole bunch of new options. Command line completion can be used to get the old value. Added '&amp;' after option: reset to default value. Added '!' after boolean option: invert value. Support for editing one-line paragraphs.
+> <BR> When a line is longer than the window width, it can be broken at a space or other convenient position. Commands have been added to move the cursor a screen line up/down. Usage of key names.
+> <BR> Special keys now all have a name like &lt;Up&gt;, &lt;End&gt;, etc. This name is used for mappings, in listings, and many other things. Added a number of new special keys. Viminfo.
+> <BR> The command line history, marks and registers can be stored in a file that is automatically read on startup and written on exit. Tag support improved.
+> <BR> Static tags and Emacs tag files are now supported. Tag completion works better. Improved (error) messages.
+> <BR> A lot of error messages include the reason for the error. The 'showcommand' includes partially typed mappings. Swap file.
+> <BR> Included checking of the actual file name in a swap file, avoids giving bogus "swap file exists" messages. Give more information about the swap file with the "swap file exists" message and when recovering. Included catching of deadly signals for Unix. Swap files for unmodified buffers are deleted, other swap files are preserved before exiting. Improved recovery when there are multiple swap files. Compilation improvements.
+> <BR> Autoconf is used to adjust to different Unix flavors, editing the Makefile is rarely required. 32 bits PC version.
+> <BR> There is now a new version of Vim for Windows NT and Windows 95. It supports long file names, uses all available memory and many more enhancements. There is also a protected mode version, compiled with DJGPP, that runs under Windows 3.1 and MSDOS. It supports long file names where available. Miscellaneous new features.
+> <BR>* Implemented incremental search.
+> <BR>* A whole bunch of commands that start with "g": Goto declaration, show ascii value of character under the cursor, go back to end of word, reselect last Visual area, etc..
+> <BR>* Added the ":retab" command. Can be used to change the size of a &lt;Tab&gt;, replace spaces with a &lt;Tab&gt; or a &lt;Tab&gt; with spaces.
+> <BR>* Implemented "Vim -r" to list any swap files that can be found.
+> <BR>* The "Q" operator no longer affects empty lines.
+> <BR>* Added '-' register for deletes of less than one line.
+> <BR>* Quickfix: Support for several error formats at the same time.
+> <BR>* Added separate mapping for normal mode and visual mode.
+> <BR>* Allow for digraphs to be entered in reverse.
+> <BR>* Added commands to search for #if/#endif and start/end of comment.
+> <BR>* Added ":abclear" and ":mapclear": remove all abbreviations/mappings.
+> <BR>* Added check for last modification time of original file before overwriting it. Vi compatibility improvements.
+> <BR> A few more things have been made vi-compatible. The 'cpoptions' option has a few flags to switch specific vi-compatibility items on/off.
+> <P> VIM Distribution Sites
+> <P> Vim can be found at:
+> <BR>* <A HREF="ftp://ftp.oce.nl/pub/misc/vim/">ftp://ftp.oce.nl/pub/misc/vim/</A> (slow) You can probably also find it (one day later) at:
+> <BR>* <A HREF="ftp://petrified.cic.net/mirrors/vim/">ftp://petrified.cic.net/mirrors/vim/</A> (USA)
+> <BR>* <A HREF="ftp://jagubox.gsfc.nasa.gov/pub/unix/vim/">ftp://jagubox.gsfc.nasa.gov/pub/unix/vim/</A> (USA)
+> <BR>* <A HREF="ftp://ftp.uni-erlangen.de/pub/utilities/vim/">ftp://ftp.uni-erlangen.de/pub/utilities/vim/</A> (Germany)
+> <BR>* <A HREF="ftp://ftp.prz.tu-berlin.de/pub/unix/editors/vim/">ftp://ftp.prz.tu-berlin.de/pub/unix/editors/vim/</A> (Germany)
+> <BR>* <A HREF="ftp://ftp.fu-berlin.de/pub/misc/editors/vim/">ftp://ftp.fu-berlin.de/pub/misc/editors/vim/</A> (Germany)
+> <BR>* <A HREF="ftp://nuxi.cs.ucdavis.edu/pub/vim">ftp://nuxi.cs.ucdavis.edu/pub/vim</A> (USA) A Linux binary statically linked with Motif can soon be found at:
+> <BR>* <A HREF="ftp://ftp.blarg.net/pub/vim">ftp://ftp.blarg.net/pub/vim</A> The Win32 binaries are available from this site (Halcyon)
+> <BR>* <A HREF="http://www.halcyon.com/gvr/vim/welcome.html#halcyon-vim-win32-ftp">ftp://ftp.halcyon.com/local/gvr/vim/</A>
+> <P> The Files at the Vim Distribution Sites
+> <P>
+> file size system contents unix/vim-4.2.tar.gz 994K Unix Sources and docs. os2/vim42os2.zip 655K OS/2 OS/2 binary, docs and patch. pc/vim42r16.zip 593K MS-DOS 16 bit real mode binary and docs. Runs on most MS-DOS systems, but is restricted to using 640K memory. pc/vim42p32.zip 651K MS-DOS 32 bit protected mode binary and docs. It is compiled with DJGPP, it needs a DPMI driver (CWSDPMI is included). Supports long file names where available. pc/vim42w32.zip 615K WIN-32 32 bit Windows 95/NT binary and docs. Only runs on Windows 95 or Windows NT and supports long file names. pc/vim42src.zip 739K MS-DOS Sources (with CR-LF). pc/vim42xxx-nt.zip Windows NT executables for Mips, Alpha, Power PC amiga/vim42src.lha 722K Amiga Sources. amiga/vim42bin.lha 572K Amiga Binary and docs. README 9K This file.
+> <P> How to unpack the files in the Vim Distributions
+> <P>
+> system file type Unpack with Unix file.tar.gz gunzip file.tar.gz; tar xf file.tar Amiga file.lha lha -x file.lha PC file.zip pkunzip -d file.zip
+> <P> Reporting bugs:
+> <P> Please send bug reports to: Bram Moolenaar <A HREF="mailto:mool@oce.nl">&lt;mool@oce.nl&gt;</A> . Please be brief: all the time that is spent on answering mail is subtracted from the time that is spend on improving Vim! Always give a reproducable example and try to find out which settings or other things influence the appearance of the bug. Try different machines if possible. Send Bram patches if you can!
+> <P> Happy Vimming!
+> <P> Mailing lists
+> <P> There are three mailing lists for Vim:
+> <BR>* vim@prz.tu-berlin.de about using Vim
+> <BR>* vimdev@prz.tu-berlin.de about developing Vim
+> <BR>* vimannounce@prz.tu-berlin.de announcements
+> <P> If you want to join send a message to <A HREF="mailto:majordomo@prz.tu-berlin.de">&lt;majordomo@prz.tu-berlin.de&gt;</A> and put " info " in the body. Then Majordomo will give you a little help. You must join before you are allowed to send messages to the lists (otherwise Majordomo will eat your messages).
+> <P> Send any other comments, patches, pizza, and suggestions to:
+> Bram Moolenaar E-mail: mool@oce.nl Clematisstraat 30 5925 BE Venlo Fax: +31 77 3595473 The Netherlands Tel: +31 77 3872340
+> <A name="halcyon-vim-win32-ftp"></A>
+> <P> Vim 4.2 binaries and source on Halcyon
+> <P>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42w32.zip">vim42w32.zip</A> Win32 Intel binaries (NT and Windows 95) and documentation.
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42alpha-nt.zip">vim42alpha-nt.zip</A> NT Alpha binary for Vim 4.2 | (does not include documentation; get vim42w32.zip for that)
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42mips-nt.zip">vim42mips-nt.zip</A> NT MIPS binary for Vim 4.2 | (does not include documentation; get vim42w32.zip for that)
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42ppc-nt.zip">vim42ppc-nt.zip</A> NT PowerPC binary for Vim 4.2 | (does not include documentation; get vim42w32.zip for that)
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42src.zip">vim42src.zip</A> the sources | (does not include documentation; get vim42w32.zip for that)
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42-win32-shell-patch.zip">vim-win32-shell-patch.zip</A> An unofficial patch that fixes a bug with non-standard shells, such as bash or the MKS Korn shell, in the Win32 version of Vim 4.2. If you're using the standard NT shell (cmd.exe) or the standard Windows 95 shell (command.com), you don't need this. The Win32 binaries on this site have been rebuilt to take this into account. Read vim_w32.txt for more details. The patch has also been added to vim42src.zip, but it has not merged into the sources contained therein.
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42p32.zip">vim42p32.zip</A> 32-bit protected-mode DOS binaries and documentation | (Temporary)
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim42r16.zip">vim42r16.zip</A> 16-bit real-mode DOS binaries and documentation | (Temporary)
+> <BR>* <A HREF="ftp://ftp.halcyon.com/local/gvr/vim/vim-4.2.tar.gz">vim-4.2.tar.gz</A> the full sources | (Temporary)
+> <BR>* <A HREF="ftp://ftp.oce.nl/pub/misc/vim/">ftp://ftp.oce.nl/pub/misc/vim/</A> The Vim master archive
+> <P> Other Vim Stuff
+11,16c84,93
+< <P> New! Get Vim 3.25, the beta of Vim 4.0:
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.25</A>
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim325w32.zip">binary for Vim 3.25</A>
+< <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.25.tar.gz">sources for Vim 3.25</A>
+< <P> Last updated: Wed May 1 09:11:32 PDT 1996
+< <P> Email: <A HREF="mailto:gvr@halcyon.com">gvr@halcyon.com</A>
+---
+> <BR>* <A HREF="http://fly.hiwaay.net/~darren/ctags.html">Get Darren Hiebert's Exuberant Ctags.</A>
+> <P> Zip and Unzip
+> <P> Get the InfoZIP versions of zip and unzip. These are real Win32 applications that understand long filenames.
+> <BR>* <A HREF="ftp://ftp.uu.net/pub/archiving/zip/WIN32/unz520xN.exe">InfoZIP's Unzip</A>
+> <BR>* <A HREF="ftp://ftp.uu.net/pub/archiving/zip/WIN32/zip21xN.zip">InfoZIP's Zip</A>
+> <P> Vim 3.0
+> <P> Now that Vim 4.2 has been officially released, I am no longer providing Vim 3.0.
+> <P> Last updated: Wed Jun 26 00:56:58 PDT 1996
+> <P> Email: George V. Reilly <A HREF="mailto:gvr@halcyon.com">&lt;gvr@halcyon.com&gt;</A>
+> <P> Back to George Reilly's <A HREF="http://www.halcyon.com/gvr/welcome.html">home page</A>
+=== Wed,  1 May 1996 17:56:06 GMT
+10,14c10,15
+< <P> New! Get Vim 3.24, the beta of Vim 4.0:
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.24</A>
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim324w32.zip">binary for Vim 3.24</A>
+< <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.24.tar.gz">sources for Vim 3.24</A>
+< <P> Last updated: Wed Apr 24 10:15:17 PDT 1996
+---
+> <BR>* <A HREF="http://www.grafnetix.com/~laurent/vim/">Have a look at the new Vim FAQ (Frequently Asked Questions)</A>
+> <P> New! Get Vim 3.25, the beta of Vim 4.0:
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.25</A>
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim325w32.zip">binary for Vim 3.25</A>
+> <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.25.tar.gz">sources for Vim 3.25</A>
+> <P> Last updated: Wed May 1 09:11:32 PDT 1996
+=== Wed, 24 Apr 1996 20:38:04 GMT
+10,14c10,14
+< <P> New! Get Vim 3.23, the beta of Vim 4.0:
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.23</A>
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim323w32.zip">binary for Vim 3.23</A>
+< <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.23.tar.gz">sources for Vim 3.23</A>
+< <P> Last updated: Mon Apr 15 20:57:45 PDT 1996
+---
+> <P> New! Get Vim 3.24, the beta of Vim 4.0:
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.24</A>
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim324w32.zip">binary for Vim 3.24</A>
+> <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.24.tar.gz">sources for Vim 3.24</A>
+> <P> Last updated: Wed Apr 24 10:15:17 PDT 1996
+=== Fri, 19 Apr 1996 19:25:22 GMT
+10,14c10,14
+< <P> New! Get Vim 3.21, the beta of Vim 4.0:
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.21</A>
+< <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim321w32.zip">binary for Vim 3.21</A>
+< <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.21.tar.gz">sources for Vim 3.21</A>
+< <P> Last updated: Thu Mar 7 00:29:38 PST 1996
+---
+> <P> New! Get Vim 3.23, the beta of Vim 4.0:
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.23</A>
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim323w32.zip">binary for Vim 3.23</A>
+> <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.23.tar.gz">sources for Vim 3.23</A>
+> <P> Last updated: Mon Apr 15 20:57:45 PDT 1996
+=== Mon, 11 Mar 1996 06:36:51 GMT
+1c1,15
+< 
+---
+> [ Title: Vim for Win32 ]
+> <P> Vim for Win32
+> <P> Get Vim 3.0, a world-class vi clone, for Win32 (Windows NT and Windows 95).
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/README.vim">README for Vim</A>
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim3w32s.zip">The source for Vim</A>
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim3w32b.zip">The binaries for Vim</A>
+> <BR>* <A HREF="ftp://ftp.uu.net/pub/archiving/zip/WIN32/unz512xN.exe">InfoZIP's Unzip</A>
+> <BR>* <A HREF="ftp://ftp.uu.net/pub/archiving/zip/WIN32/zip201xN.zip">InfoZIP's Zip</A>
+> <P>* <A HREF="http://www.math.fu-berlin.de/~guckes/vim/">Don't forget to check out the VIM Pages</A>
+> <P> New! Get Vim 3.21, the beta of Vim 4.0:
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/readme4.0">readme for Vim 3.21</A>
+> <BR>* <A HREF="ftp://www.halcyon.com/local/gvr/vim/vim321w32.zip">binary for Vim 3.21</A>
+> <BR>* <A HREF="ftp://venlo.oce.nl/pub/misc/vim/beta-test/unix/vim-3.21.tar.gz">sources for Vim 3.21</A>
+> <P> Last updated: Thu Mar 7 00:29:38 PST 1996
+> <P> Email: <A HREF="mailto:gvr@halcyon.com">gvr@halcyon.com</A>

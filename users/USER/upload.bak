@@ -1,0 +1,6 @@
+
+<FORM ENCTYPE="multipart/form-data" ACTION="cgi-bin/upload.pMETHODHOD=POST>
+<INPUT TYPE="hidden" NAME="user" VALUE="USER">
+<INPUT TYPE="file" NAME="file">
+<INPUT TYPE="submit" value="Select your filename above, then click here to send the file!">
+</FORM>
